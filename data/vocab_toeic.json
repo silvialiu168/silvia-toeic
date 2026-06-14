@@ -1,0 +1,1142 @@
+﻿[
+    {
+        "word":  "revenue",
+        "id":  "V_TOEIC_001",
+        "forms":  {
+                      "past_participle":  "revenueed",
+                      "third_person":  "revenues",
+                      "past":  "revenueed",
+                      "ing":  "revenueing",
+                      "base":  "revenue"
+                  },
+        "word_family":  {
+                            "noun":  "revenue",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "revenue"
+                        },
+        "common_collocations":  [
+                                    "business revenue",
+                                    "revenue report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 revenue 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the revenue yesterday.",
+                             "translation":  "公司昨天讨论了 revenue。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to revenue",
+        "chinese":  "revenue 商务常用词"
+    },
+    {
+        "word":  "contract",
+        "id":  "V_TOEIC_002",
+        "forms":  {
+                      "past_participle":  "contracted",
+                      "third_person":  "contracts",
+                      "past":  "contracted",
+                      "ing":  "contracting",
+                      "base":  "contract"
+                  },
+        "word_family":  {
+                            "noun":  "contract",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "contract"
+                        },
+        "common_collocations":  [
+                                    "business contract",
+                                    "contract report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 contract 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the contract yesterday.",
+                             "translation":  "公司昨天讨论了 contract。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to contract",
+        "chinese":  "contract 商务常用词"
+    },
+    {
+        "word":  "policy",
+        "id":  "V_TOEIC_003",
+        "forms":  {
+                      "past_participle":  "policyed",
+                      "third_person":  "policys",
+                      "past":  "policyed",
+                      "ing":  "policying",
+                      "base":  "policy"
+                  },
+        "word_family":  {
+                            "noun":  "policy",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "policy"
+                        },
+        "common_collocations":  [
+                                    "business policy",
+                                    "policy report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 policy 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the policy yesterday.",
+                             "translation":  "公司昨天讨论了 policy。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to policy",
+        "chinese":  "policy 商务常用词"
+    },
+    {
+        "word":  "customer",
+        "id":  "V_TOEIC_004",
+        "forms":  {
+                      "past_participle":  "customered",
+                      "third_person":  "customers",
+                      "past":  "customered",
+                      "ing":  "customering",
+                      "base":  "customer"
+                  },
+        "word_family":  {
+                            "noun":  "customer",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "customer"
+                        },
+        "common_collocations":  [
+                                    "business customer",
+                                    "customer report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 customer 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the customer yesterday.",
+                             "translation":  "公司昨天讨论了 customer。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to customer",
+        "chinese":  "customer 商务常用词"
+    },
+    {
+        "word":  "satisfaction",
+        "id":  "V_TOEIC_005",
+        "forms":  {
+                      "past_participle":  "satisfactioned",
+                      "third_person":  "satisfactions",
+                      "past":  "satisfactioned",
+                      "ing":  "satisfactioning",
+                      "base":  "satisfaction"
+                  },
+        "word_family":  {
+                            "noun":  "satisfaction",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "satisfaction"
+                        },
+        "common_collocations":  [
+                                    "business satisfaction",
+                                    "satisfaction report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 satisfaction 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the satisfaction yesterday.",
+                             "translation":  "公司昨天讨论了 satisfaction。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to satisfaction",
+        "chinese":  "satisfaction 商务常用词"
+    },
+    {
+        "word":  "market",
+        "id":  "V_TOEIC_006",
+        "forms":  {
+                      "past_participle":  "marketed",
+                      "third_person":  "markets",
+                      "past":  "marketed",
+                      "ing":  "marketing",
+                      "base":  "market"
+                  },
+        "word_family":  {
+                            "noun":  "market",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "market"
+                        },
+        "common_collocations":  [
+                                    "business market",
+                                    "market report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 market 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the market yesterday.",
+                             "translation":  "公司昨天讨论了 market。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to market",
+        "chinese":  "market 商务常用词"
+    },
+    {
+        "word":  "share",
+        "id":  "V_TOEIC_007",
+        "forms":  {
+                      "past_participle":  "shareed",
+                      "third_person":  "shares",
+                      "past":  "shareed",
+                      "ing":  "shareing",
+                      "base":  "share"
+                  },
+        "word_family":  {
+                            "noun":  "share",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "share"
+                        },
+        "common_collocations":  [
+                                    "business share",
+                                    "share report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 share 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the share yesterday.",
+                             "translation":  "公司昨天讨论了 share。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to share",
+        "chinese":  "share 商务常用词"
+    },
+    {
+        "word":  "supplier",
+        "id":  "V_TOEIC_008",
+        "forms":  {
+                      "past_participle":  "suppliered",
+                      "third_person":  "suppliers",
+                      "past":  "suppliered",
+                      "ing":  "suppliering",
+                      "base":  "supplier"
+                  },
+        "word_family":  {
+                            "noun":  "supplier",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "supplier"
+                        },
+        "common_collocations":  [
+                                    "business supplier",
+                                    "supplier report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 supplier 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the supplier yesterday.",
+                             "translation":  "公司昨天讨论了 supplier。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to supplier",
+        "chinese":  "supplier 商务常用词"
+    },
+    {
+        "word":  "shipment",
+        "id":  "V_TOEIC_009",
+        "forms":  {
+                      "past_participle":  "shipmented",
+                      "third_person":  "shipments",
+                      "past":  "shipmented",
+                      "ing":  "shipmenting",
+                      "base":  "shipment"
+                  },
+        "word_family":  {
+                            "noun":  "shipment",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "shipment"
+                        },
+        "common_collocations":  [
+                                    "business shipment",
+                                    "shipment report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 shipment 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the shipment yesterday.",
+                             "translation":  "公司昨天讨论了 shipment。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to shipment",
+        "chinese":  "shipment 商务常用词"
+    },
+    {
+        "word":  "invoice",
+        "id":  "V_TOEIC_010",
+        "forms":  {
+                      "past_participle":  "invoiceed",
+                      "third_person":  "invoices",
+                      "past":  "invoiceed",
+                      "ing":  "invoiceing",
+                      "base":  "invoice"
+                  },
+        "word_family":  {
+                            "noun":  "invoice",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "invoice"
+                        },
+        "common_collocations":  [
+                                    "business invoice",
+                                    "invoice report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 invoice 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the invoice yesterday.",
+                             "translation":  "公司昨天讨论了 invoice。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to invoice",
+        "chinese":  "invoice 商务常用词"
+    },
+    {
+        "word":  "quotation",
+        "id":  "V_TOEIC_011",
+        "forms":  {
+                      "past_participle":  "quotationed",
+                      "third_person":  "quotations",
+                      "past":  "quotationed",
+                      "ing":  "quotationing",
+                      "base":  "quotation"
+                  },
+        "word_family":  {
+                            "noun":  "quotation",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "quotation"
+                        },
+        "common_collocations":  [
+                                    "business quotation",
+                                    "quotation report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 quotation 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the quotation yesterday.",
+                             "translation":  "公司昨天讨论了 quotation。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to quotation",
+        "chinese":  "quotation 商务常用词"
+    },
+    {
+        "word":  "employee",
+        "id":  "V_TOEIC_012",
+        "forms":  {
+                      "past_participle":  "employeeed",
+                      "third_person":  "employees",
+                      "past":  "employeeed",
+                      "ing":  "employeeing",
+                      "base":  "employee"
+                  },
+        "word_family":  {
+                            "noun":  "employee",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "employee"
+                        },
+        "common_collocations":  [
+                                    "business employee",
+                                    "employee report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 employee 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the employee yesterday.",
+                             "translation":  "公司昨天讨论了 employee。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to employee",
+        "chinese":  "employee 商务常用词"
+    },
+    {
+        "word":  "manager",
+        "id":  "V_TOEIC_013",
+        "forms":  {
+                      "past_participle":  "managered",
+                      "third_person":  "managers",
+                      "past":  "managered",
+                      "ing":  "managering",
+                      "base":  "manager"
+                  },
+        "word_family":  {
+                            "noun":  "manager",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "manager"
+                        },
+        "common_collocations":  [
+                                    "business manager",
+                                    "manager report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 manager 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the manager yesterday.",
+                             "translation":  "公司昨天讨论了 manager。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to manager",
+        "chinese":  "manager 商务常用词"
+    },
+    {
+        "word":  "department",
+        "id":  "V_TOEIC_014",
+        "forms":  {
+                      "past_participle":  "departmented",
+                      "third_person":  "departments",
+                      "past":  "departmented",
+                      "ing":  "departmenting",
+                      "base":  "department"
+                  },
+        "word_family":  {
+                            "noun":  "department",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "department"
+                        },
+        "common_collocations":  [
+                                    "business department",
+                                    "department report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 department 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the department yesterday.",
+                             "translation":  "公司昨天讨论了 department。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to department",
+        "chinese":  "department 商务常用词"
+    },
+    {
+        "word":  "conference",
+        "id":  "V_TOEIC_015",
+        "forms":  {
+                      "past_participle":  "conferenceed",
+                      "third_person":  "conferences",
+                      "past":  "conferenceed",
+                      "ing":  "conferenceing",
+                      "base":  "conference"
+                  },
+        "word_family":  {
+                            "noun":  "conference",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "conference"
+                        },
+        "common_collocations":  [
+                                    "business conference",
+                                    "conference report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 conference 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the conference yesterday.",
+                             "translation":  "公司昨天讨论了 conference。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to conference",
+        "chinese":  "conference 商务常用词"
+    },
+    {
+        "word":  "deadline",
+        "id":  "V_TOEIC_016",
+        "forms":  {
+                      "past_participle":  "deadlineed",
+                      "third_person":  "deadlines",
+                      "past":  "deadlineed",
+                      "ing":  "deadlineing",
+                      "base":  "deadline"
+                  },
+        "word_family":  {
+                            "noun":  "deadline",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "deadline"
+                        },
+        "common_collocations":  [
+                                    "business deadline",
+                                    "deadline report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 deadline 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the deadline yesterday.",
+                             "translation":  "公司昨天讨论了 deadline。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to deadline",
+        "chinese":  "deadline 商务常用词"
+    },
+    {
+        "word":  "proposal",
+        "id":  "V_TOEIC_017",
+        "forms":  {
+                      "past_participle":  "proposaled",
+                      "third_person":  "proposals",
+                      "past":  "proposaled",
+                      "ing":  "proposaling",
+                      "base":  "proposal"
+                  },
+        "word_family":  {
+                            "noun":  "proposal",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "proposal"
+                        },
+        "common_collocations":  [
+                                    "business proposal",
+                                    "proposal report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 proposal 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the proposal yesterday.",
+                             "translation":  "公司昨天讨论了 proposal。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to proposal",
+        "chinese":  "proposal 商务常用词"
+    },
+    {
+        "word":  "approval",
+        "id":  "V_TOEIC_018",
+        "forms":  {
+                      "past_participle":  "approvaled",
+                      "third_person":  "approvals",
+                      "past":  "approvaled",
+                      "ing":  "approvaling",
+                      "base":  "approval"
+                  },
+        "word_family":  {
+                            "noun":  "approval",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "approval"
+                        },
+        "common_collocations":  [
+                                    "business approval",
+                                    "approval report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 approval 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the approval yesterday.",
+                             "translation":  "公司昨天讨论了 approval。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to approval",
+        "chinese":  "approval 商务常用词"
+    },
+    {
+        "word":  "advertising",
+        "id":  "V_TOEIC_019",
+        "forms":  {
+                      "past_participle":  "advertisinged",
+                      "third_person":  "advertisings",
+                      "past":  "advertisinged",
+                      "ing":  "advertisinging",
+                      "base":  "advertising"
+                  },
+        "word_family":  {
+                            "noun":  "advertising",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "advertising"
+                        },
+        "common_collocations":  [
+                                    "business advertising",
+                                    "advertising report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 advertising 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the advertising yesterday.",
+                             "translation":  "公司昨天讨论了 advertising。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to advertising",
+        "chinese":  "advertising 商务常用词"
+    },
+    {
+        "word":  "purchase",
+        "id":  "V_TOEIC_020",
+        "forms":  {
+                      "past_participle":  "purchaseed",
+                      "third_person":  "purchases",
+                      "past":  "purchaseed",
+                      "ing":  "purchaseing",
+                      "base":  "purchase"
+                  },
+        "word_family":  {
+                            "noun":  "purchase",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "purchase"
+                        },
+        "common_collocations":  [
+                                    "business purchase",
+                                    "purchase report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 purchase 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the purchase yesterday.",
+                             "translation":  "公司昨天讨论了 purchase。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to purchase",
+        "chinese":  "purchase 商务常用词"
+    },
+    {
+        "word":  "negotiate",
+        "id":  "V_TOEIC_021",
+        "forms":  {
+                      "past_participle":  "negotiateed",
+                      "third_person":  "negotiates",
+                      "past":  "negotiateed",
+                      "ing":  "negotiateing",
+                      "base":  "negotiate"
+                  },
+        "word_family":  {
+                            "noun":  "negotiate",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "negotiate"
+                        },
+        "common_collocations":  [
+                                    "business negotiate",
+                                    "negotiate report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 negotiate 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the negotiate yesterday.",
+                             "translation":  "公司昨天讨论了 negotiate。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to negotiate",
+        "chinese":  "negotiate 商务常用词"
+    },
+    {
+        "word":  "profit",
+        "id":  "V_TOEIC_022",
+        "forms":  {
+                      "past_participle":  "profited",
+                      "third_person":  "profits",
+                      "past":  "profited",
+                      "ing":  "profiting",
+                      "base":  "profit"
+                  },
+        "word_family":  {
+                            "noun":  "profit",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "profit"
+                        },
+        "common_collocations":  [
+                                    "business profit",
+                                    "profit report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 profit 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the profit yesterday.",
+                             "translation":  "公司昨天讨论了 profit。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to profit",
+        "chinese":  "profit 商务常用词"
+    },
+    {
+        "word":  "budget",
+        "id":  "V_TOEIC_023",
+        "forms":  {
+                      "past_participle":  "budgeted",
+                      "third_person":  "budgets",
+                      "past":  "budgeted",
+                      "ing":  "budgeting",
+                      "base":  "budget"
+                  },
+        "word_family":  {
+                            "noun":  "budget",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "budget"
+                        },
+        "common_collocations":  [
+                                    "business budget",
+                                    "budget report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 budget 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the budget yesterday.",
+                             "translation":  "公司昨天讨论了 budget。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to budget",
+        "chinese":  "budget 商务常用词"
+    },
+    {
+        "word":  "schedule",
+        "id":  "V_TOEIC_024",
+        "forms":  {
+                      "past_participle":  "scheduleed",
+                      "third_person":  "schedules",
+                      "past":  "scheduleed",
+                      "ing":  "scheduleing",
+                      "base":  "schedule"
+                  },
+        "word_family":  {
+                            "noun":  "schedule",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "schedule"
+                        },
+        "common_collocations":  [
+                                    "business schedule",
+                                    "schedule report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 schedule 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the schedule yesterday.",
+                             "translation":  "公司昨天讨论了 schedule。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to schedule",
+        "chinese":  "schedule 商务常用词"
+    },
+    {
+        "word":  "facility",
+        "id":  "V_TOEIC_025",
+        "forms":  {
+                      "past_participle":  "facilityed",
+                      "third_person":  "facilitys",
+                      "past":  "facilityed",
+                      "ing":  "facilitying",
+                      "base":  "facility"
+                  },
+        "word_family":  {
+                            "noun":  "facility",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "facility"
+                        },
+        "common_collocations":  [
+                                    "business facility",
+                                    "facility report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 facility 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the facility yesterday.",
+                             "translation":  "公司昨天讨论了 facility。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to facility",
+        "chinese":  "facility 商务常用词"
+    },
+    {
+        "word":  "maintenance",
+        "id":  "V_TOEIC_026",
+        "forms":  {
+                      "past_participle":  "maintenanceed",
+                      "third_person":  "maintenances",
+                      "past":  "maintenanceed",
+                      "ing":  "maintenanceing",
+                      "base":  "maintenance"
+                  },
+        "word_family":  {
+                            "noun":  "maintenance",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "maintenance"
+                        },
+        "common_collocations":  [
+                                    "business maintenance",
+                                    "maintenance report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 maintenance 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the maintenance yesterday.",
+                             "translation":  "公司昨天讨论了 maintenance。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to maintenance",
+        "chinese":  "maintenance 商务常用词"
+    },
+    {
+        "word":  "branch",
+        "id":  "V_TOEIC_027",
+        "forms":  {
+                      "past_participle":  "branched",
+                      "third_person":  "branchs",
+                      "past":  "branched",
+                      "ing":  "branching",
+                      "base":  "branch"
+                  },
+        "word_family":  {
+                            "noun":  "branch",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "branch"
+                        },
+        "common_collocations":  [
+                                    "business branch",
+                                    "branch report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 branch 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the branch yesterday.",
+                             "translation":  "公司昨天讨论了 branch。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to branch",
+        "chinese":  "branch 商务常用词"
+    },
+    {
+        "word":  "client",
+        "id":  "V_TOEIC_028",
+        "forms":  {
+                      "past_participle":  "cliented",
+                      "third_person":  "clients",
+                      "past":  "cliented",
+                      "ing":  "clienting",
+                      "base":  "client"
+                  },
+        "word_family":  {
+                            "noun":  "client",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "client"
+                        },
+        "common_collocations":  [
+                                    "business client",
+                                    "client report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 client 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the client yesterday.",
+                             "translation":  "公司昨天讨论了 client。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to client",
+        "chinese":  "client 商务常用词"
+    },
+    {
+        "word":  "service",
+        "id":  "V_TOEIC_029",
+        "forms":  {
+                      "past_participle":  "serviceed",
+                      "third_person":  "services",
+                      "past":  "serviceed",
+                      "ing":  "serviceing",
+                      "base":  "service"
+                  },
+        "word_family":  {
+                            "noun":  "service",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "service"
+                        },
+        "common_collocations":  [
+                                    "business service",
+                                    "service report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 service 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the service yesterday.",
+                             "translation":  "公司昨天讨论了 service。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to service",
+        "chinese":  "service 商务常用词"
+    },
+    {
+        "word":  "product",
+        "id":  "V_TOEIC_030",
+        "forms":  {
+                      "past_participle":  "producted",
+                      "third_person":  "products",
+                      "past":  "producted",
+                      "ing":  "producting",
+                      "base":  "product"
+                  },
+        "word_family":  {
+                            "noun":  "product",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "product"
+                        },
+        "common_collocations":  [
+                                    "business product",
+                                    "product report"
+                                ],
+        "tags":  [
+                     "toeic",
+                     "business"
+                 ],
+        "level":  "toeic",
+        "common_error":  "注意 product 在商务情境中的用法。",
+        "examples":  [
+                         {
+                             "sentence":  "The company discussed the product yesterday.",
+                             "translation":  "公司昨天讨论了 product。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common TOEIC business word related to product",
+        "chinese":  "product 商务常用词"
+    }
+]
