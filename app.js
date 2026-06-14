@@ -9,11 +9,24 @@ const categories = [
   "商务词汇"
 ];
 
+const categoryWeights = {
+  "词性判断": 18,
+  "前置词": 12,
+  "连接词": 12,
+  "时间副词子句": 10,
+  "主谓一致": 12,
+  "关系代名词": 12,
+  "固定搭配": 14,
+  "商务词汇": 10
+};
+
 const state = {
   questions: [],
   knowledge: {},
   filteredQuestions: [],
   currentIndex: 0,
+  currentQuestion: null,
+  recentQuestionIds: [],
   locked: false,
   mode: "all",
   progress: loadProgress()
@@ -30,6 +43,9 @@ const elements = {
   clearMistakesButton: document.querySelector("#clearMistakesButton"),
   installButton: document.querySelector("#installButton"),
   connectionStatus: document.querySelector("#connectionStatus"),
+  masteryPercent: document.querySelector("#masteryPercent"),
+  masteryBar: document.querySelector("#masteryBar"),
+  masteryList: document.querySelector("#masteryList"),
   questionCount: document.querySelector("#questionCount"),
   loadingState: document.querySelector("#loadingState"),
   errorState: document.querySelector("#errorState"),
@@ -40,6 +56,8 @@ const elements = {
   options: document.querySelector("#options"),
   feedback: document.querySelector("#feedback"),
   resultBanner: document.querySelector("#resultBanner"),
+  showExplanationButton: document.querySelector("#showExplanationButton"),
+  explanationPanel: document.querySelector("#explanationPanel"),
   explanation: document.querySelector("#explanation"),
   knowledgeFormula: document.querySelector("#knowledgeFormula"),
   knowledgeRule: document.querySelector("#knowledgeRule"),
@@ -94,6 +112,7 @@ function startPractice(category) {
     ? categoryQuestions.filter((question) => state.progress.mistakes[question.id])
     : categoryQuestions;
   state.currentIndex = 0;
+  state.recentQuestionIds = [];
   state.locked = false;
   updateStats();
   renderPracticeState();
@@ -115,18 +134,24 @@ function renderPracticeState() {
 }
 
 function renderQuestion() {
-  const question = state.filteredQuestions[state.currentIndex];
+  const question = state.mode === "all"
+    ? chooseSmartQuestion()
+    : state.filteredQuestions[state.currentIndex];
+  state.currentQuestion = question;
   state.locked = false;
 
   elements.categoryBadge.textContent = question.category;
-  elements.progressText.textContent = `第 ${state.currentIndex + 1} / ${state.filteredQuestions.length} 题`;
+  elements.progressText.textContent = state.mode === "all"
+    ? "智能练习"
+    : `第 ${state.currentIndex + 1} / ${state.filteredQuestions.length} 题`;
   elements.questionCount.textContent = `本分类共 ${state.filteredQuestions.length} 题`;
   elements.questionText.textContent = question.question;
   elements.options.replaceChildren();
   elements.feedback.classList.add("hidden");
+  elements.explanationPanel.classList.add("hidden");
+  elements.showExplanationButton.textContent = "查看解析";
   elements.nextButton.disabled = true;
-  elements.nextButton.textContent =
-    state.currentIndex === state.filteredQuestions.length - 1 ? "重新开始" : "下一题";
+  elements.nextButton.textContent = "下一题";
 
   question.options.forEach((option, index) => {
     const button = document.createElement("button");
@@ -143,7 +168,7 @@ function selectAnswer(selectedIndex) {
   if (state.locked) return;
 
   state.locked = true;
-  const question = state.filteredQuestions[state.currentIndex];
+  const question = state.currentQuestion;
   const isCorrect = selectedIndex === question.answer;
   const buttons = [...elements.options.querySelectorAll(".option-button")];
 
@@ -184,16 +209,54 @@ function showFeedback(question, isCorrect) {
   elements.nextButton.disabled = false;
 }
 
+function chooseSmartQuestion() {
+  const candidates = state.filteredQuestions.filter(
+    (question) => !state.recentQuestionIds.includes(question.id)
+  );
+  const pool = candidates.length ? candidates : state.filteredQuestions;
+  const weighted = pool.map((question) => ({
+    question,
+    weight: getKnowledgeWeight(question.knowledge_id || question.knowledgeId)
+  }));
+  const totalWeight = weighted.reduce((sum, item) => sum + item.weight, 0);
+  let target = Math.random() * totalWeight;
+  const selected = weighted.find((item) => {
+    target -= item.weight;
+    return target <= 0;
+  }).question;
+
+  state.recentQuestionIds.push(selected.id);
+  if (state.recentQuestionIds.length > Math.min(5, state.filteredQuestions.length - 1)) {
+    state.recentQuestionIds.shift();
+  }
+  return selected;
+}
+
+function getKnowledgeWeight(knowledgeId) {
+  const stats = state.progress.knowledgeStats[knowledgeId];
+  if (!stats) return 2;
+
+  const daysSinceWrong = stats.lastWrongAt
+    ? (Date.now() - new Date(stats.lastWrongAt).getTime()) / 86400000
+    : Infinity;
+  const recentWrongBoost = daysSinceWrong <= 3 ? 3 : daysSinceWrong <= 14 ? 1.5 : 0;
+  const errorRate = stats.attempts ? stats.wrongCount / stats.attempts : 0;
+  const stabilityReduction = Math.min(stats.correctStreak * 0.35, 1.5);
+  return Math.max(0.5, 1 + stats.wrongCount * 0.8 + errorRate * 3 + recentWrongBoost - stabilityReduction);
+}
+
 function loadProgress() {
   try {
-    return JSON.parse(localStorage.getItem("toeicPart5Progress")) || {
-      attemptedIds: [],
-      totalAttempts: 0,
-      correctAttempts: 0,
-      mistakes: {}
+    const saved = JSON.parse(localStorage.getItem("toeicPart5Progress")) || {};
+    return {
+      attemptedIds: saved.attemptedIds || [],
+      totalAttempts: saved.totalAttempts || 0,
+      correctAttempts: saved.correctAttempts || 0,
+      mistakes: saved.mistakes || {},
+      knowledgeStats: saved.knowledgeStats || {}
     };
   } catch {
-    return { attemptedIds: [], totalAttempts: 0, correctAttempts: 0, mistakes: {} };
+    return { attemptedIds: [], totalAttempts: 0, correctAttempts: 0, mistakes: {}, knowledgeStats: {} };
   }
 }
 
@@ -202,6 +265,8 @@ function saveProgress() {
 }
 
 function recordAnswer(question, isCorrect) {
+  const knowledgeId = question.knowledge_id || question.knowledgeId;
+  const now = new Date().toISOString();
   if (!state.progress.attemptedIds.includes(question.id)) {
     state.progress.attemptedIds.push(question.id);
   }
@@ -209,14 +274,30 @@ function recordAnswer(question, isCorrect) {
   if (isCorrect) {
     state.progress.correctAttempts += 1;
   } else {
-    const knowledgeId = question.knowledge_id || question.knowledgeId;
     const previous = state.progress.mistakes[question.id];
     state.progress.mistakes[question.id] = {
       wrongCount: previous ? previous.wrongCount + 1 : 1,
-      lastAnsweredAt: new Date().toISOString(),
+      lastAnsweredAt: now,
       knowledge_id: knowledgeId
     };
   }
+  const knowledgeStats = state.progress.knowledgeStats[knowledgeId] || {
+    attempts: 0,
+    wrongCount: 0,
+    correctStreak: 0,
+    lastWrongAt: null,
+    lastAnsweredAt: null
+  };
+  knowledgeStats.attempts += 1;
+  knowledgeStats.lastAnsweredAt = now;
+  if (isCorrect) {
+    knowledgeStats.correctStreak += 1;
+  } else {
+    knowledgeStats.wrongCount += 1;
+    knowledgeStats.correctStreak = 0;
+    knowledgeStats.lastWrongAt = now;
+  }
+  state.progress.knowledgeStats[knowledgeId] = knowledgeStats;
   saveProgress();
 }
 
@@ -227,12 +308,66 @@ function updateStats() {
   elements.answeredCount.textContent = attemptedIds.length;
   elements.accuracy.textContent = `${accuracy}%`;
   elements.mistakeCount.textContent = Object.keys(mistakes).length;
+  updateMastery();
+}
+
+function updateMastery() {
+  const knowledgeItems = Object.values(state.knowledge);
+  if (!knowledgeItems.length) return;
+
+  const categoryCounts = knowledgeItems.reduce((counts, item) => {
+    counts[item.category] = (counts[item.category] || 0) + 1;
+    return counts;
+  }, {});
+  const results = knowledgeItems.map((item) => {
+    const stats = state.progress.knowledgeStats[item.id];
+    const score = calculateMastery(stats);
+    const weight = (categoryWeights[item.category] || 8) / categoryCounts[item.category];
+    return { item, score, weight };
+  });
+  const totalWeight = results.reduce((sum, result) => sum + result.weight, 0);
+  const totalScore = Math.round(
+    results.reduce((sum, result) => sum + result.score * result.weight, 0) / totalWeight
+  );
+
+  elements.masteryPercent.textContent = `${totalScore}%`;
+  elements.masteryBar.style.width = `${totalScore}%`;
+  elements.masteryList.replaceChildren(
+    ...results
+      .sort((a, b) => a.score - b.score)
+      .map(({ item, score, weight }) => {
+        const row = document.createElement("div");
+        row.className = "mastery-row";
+        row.innerHTML = `
+          <div>
+            <strong>${item.formula}</strong>
+            <small>${item.category} · 权重 ${weight.toFixed(1)}%</small>
+          </div>
+          <span class="mini-track"><span style="width:${score}%"></span></span>
+          <b>${score}%</b>
+        `;
+        return row;
+      })
+  );
+}
+
+function calculateMastery(stats) {
+  if (!stats || !stats.attempts) return 0;
+  const practiceScore = Math.min(stats.attempts / 5, 1) * 35;
+  const accuracy = (stats.attempts - stats.wrongCount) / stats.attempts;
+  const accuracyScore = accuracy * 45;
+  const stabilityScore = Math.min(stats.correctStreak / 3, 1) * 20;
+  const recentWrongPenalty = stats.lastWrongAt &&
+    Date.now() - new Date(stats.lastWrongAt).getTime() < 3 * 86400000 ? 10 : 0;
+  return Math.max(0, Math.min(100, Math.round(practiceScore + accuracyScore + stabilityScore - recentWrongPenalty)));
 }
 
 function nextQuestion() {
-  state.currentIndex = (state.currentIndex + 1) % state.filteredQuestions.length;
+  if (state.mode === "mistakes") {
+    state.currentIndex = (state.currentIndex + 1) % state.filteredQuestions.length;
+  }
   renderQuestion();
-  window.scrollTo({ top: 0, behavior: "smooth" });
+  elements.quizCard.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
 elements.categorySelect.addEventListener("change", (event) => startPractice(event.target.value));
@@ -240,6 +375,11 @@ elements.nextButton.addEventListener("click", nextQuestion);
 elements.allQuestionsButton.addEventListener("click", () => setMode("all"));
 elements.mistakesButton.addEventListener("click", () => setMode("mistakes"));
 elements.clearMistakesButton.addEventListener("click", clearMistakes);
+elements.showExplanationButton.addEventListener("click", () => {
+  const willShow = elements.explanationPanel.classList.contains("hidden");
+  elements.explanationPanel.classList.toggle("hidden", !willShow);
+  elements.showExplanationButton.textContent = willShow ? "收起解析" : "查看解析";
+});
 
 let installPrompt;
 window.addEventListener("beforeinstallprompt", (event) => {
