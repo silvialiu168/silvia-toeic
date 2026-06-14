@@ -1,0 +1,212 @@
+[
+  {
+    "id": "pos-adverb",
+    "category": "词性判断",
+    "formula": "动词 / 形容词 + 副词",
+    "rule": "副词用于说明动作如何发生，或修饰形容词。",
+    "example": "The team responded promptly to the request.",
+    "translation": "团队迅速回应了该请求。",
+    "common_error": "误用形容词 prompt 修饰动词 responded。",
+    "tags": ["副词", "词性", "-ly"]
+  },
+  {
+    "id": "pos-noun",
+    "category": "词性判断",
+    "formula": "冠词 / 所有格 + 名词",
+    "rule": "冠词 a、an、the 或所有格后通常接名词。",
+    "example": "Her analysis of the report was thorough.",
+    "translation": "她对报告的分析很全面。",
+    "common_error": "在所有格后误用动词或形容词。",
+    "tags": ["名词", "所有格", "冠词"]
+  },
+  {
+    "id": "pos-adjective",
+    "category": "词性判断",
+    "formula": "be / seem / become + 形容词",
+    "rule": "连系动词后常用形容词说明主语的状态或特征。",
+    "example": "The conference room is spacious.",
+    "translation": "这间会议室很宽敞。",
+    "common_error": "在 be 动词后误用副词。",
+    "tags": ["形容词", "连系动词", "词性"]
+  },
+  {
+    "id": "prep-time",
+    "category": "前置词",
+    "formula": "at + 时间点；on + 日期；in + 月份/年份",
+    "rule": "具体时间点常用 at，日期或星期常用 on，月份、年份或较长期间常用 in。",
+    "example": "The session will begin at 9:30 A.M.",
+    "translation": "课程将在上午九点半开始。",
+    "common_error": "混用 at、on 和 in。",
+    "tags": ["前置词", "时间", "at", "on", "in"]
+  },
+  {
+    "id": "prep-purpose",
+    "category": "前置词",
+    "formula": "for + 名词",
+    "rule": "for 后接名词时，可以表示目的、用途或对象。",
+    "example": "This room is reserved for interviews.",
+    "translation": "这个房间预留用于面试。",
+    "common_error": "表达用途时误选与上下文无关的前置词。",
+    "tags": ["前置词", "for", "用途"]
+  },
+  {
+    "id": "conj-contrast",
+    "category": "连接词",
+    "formula": "although + S + V",
+    "rule": "although 后接完整句子，表示“虽然”；despite 后接名词。",
+    "example": "Although the shipment was late, the client accepted it.",
+    "translation": "虽然货物迟到了，客户仍接受了它。",
+    "common_error": "在完整句子前误用 despite。",
+    "tags": ["连接词", "转折", "although", "despite"]
+  },
+  {
+    "id": "conj-cause",
+    "category": "连接词",
+    "formula": "because + S + V；because of + 名词",
+    "rule": "because 后接完整句子说明原因；because of 后接名词或名词短语。",
+    "example": "The event was postponed because it was raining.",
+    "translation": "活动因为下雨而延期。",
+    "common_error": "混淆 because 和 because of 后面的结构。",
+    "tags": ["连接词", "原因", "because"]
+  },
+  {
+    "id": "time-clause",
+    "category": "时间副词子句",
+    "formula": "when / before / after / as soon as + 现在式",
+    "rule": "谈论未来时，时间副词子句通常用现在式代替 will。",
+    "example": "We will begin as soon as the manager arrives.",
+    "translation": "经理一到，我们就会开始。",
+    "common_error": "在时间副词子句中使用 will。",
+    "tags": ["时间副词子句", "现在式", "未来"]
+  },
+  {
+    "id": "agreement-singular",
+    "category": "主谓一致",
+    "formula": "单数主语 + 单数动词",
+    "rule": "主语中心词为单数时，动词使用单数形式；介词短语不改变主语单复数。",
+    "example": "The list of suppliers is updated monthly.",
+    "translation": "供应商名单每月更新。",
+    "common_error": "把 of 后面的复数名词误当成主语。",
+    "tags": ["主谓一致", "单数主语", "介词短语"]
+  },
+  {
+    "id": "agreement-each",
+    "category": "主谓一致",
+    "formula": "each / every + 单数动词",
+    "rule": "each、every、everyone 等表达在语法上通常视为单数。",
+    "example": "Each manager submits a monthly report.",
+    "translation": "每位经理都提交月度报告。",
+    "common_error": "因为后面出现复数名词而误用复数动词。",
+    "tags": ["主谓一致", "each", "every"]
+  },
+  {
+    "id": "relative-person",
+    "category": "关系代名词",
+    "formula": "人 + who + V",
+    "rule": "先行词是人，且空格在关系子句中作主语时，使用 who。",
+    "example": "Employees who attend the seminar must register.",
+    "translation": "参加研讨会的员工必须登记。",
+    "common_error": "指人且作主语时误用 which 或 whom。",
+    "tags": ["关系代名词", "who", "人"]
+  },
+  {
+    "id": "relative-whose",
+    "category": "关系代名词",
+    "formula": "whose + 名词",
+    "rule": "whose 后接名词，表示该名词属于前面提到的人或事物。",
+    "example": "The designer whose proposal was selected will lead the project.",
+    "translation": "提案获选的设计师将负责该项目。",
+    "common_error": "需要表达所属关系时误用 who。",
+    "tags": ["关系代名词", "whose", "所属关系"]
+  },
+  {
+    "id": "collocation-responsible",
+    "category": "固定搭配",
+    "formula": "be responsible for + 名词 / V-ing",
+    "rule": "be responsible for 表示“负责……”，for 后接名词或 V-ing。",
+    "example": "She is responsible for arranging inspections.",
+    "translation": "她负责安排检查。",
+    "common_error": "在 responsible 后误用 to 或 with。",
+    "tags": ["固定搭配", "responsible for", "V-ing"]
+  },
+  {
+    "id": "collocation-in-advance",
+    "category": "固定搭配",
+    "formula": "in advance",
+    "rule": "in advance 表示“提前”。",
+    "example": "Please reserve your seat in advance.",
+    "translation": "请提前预订座位。",
+    "common_error": "误写为 in early 或 in front。",
+    "tags": ["固定搭配", "in advance", "提前"]
+  },
+  {
+    "id": "business-vocab",
+    "category": "商务词汇",
+    "formula": "商务场景 + 合适词义",
+    "rule": "根据采购、会议、人事、运输等商务场景，选择最符合上下文的词。",
+    "example": "The supplier provided a price quotation.",
+    "translation": "供应商提供了一份报价。",
+    "common_error": "只看词形相似，不判断商务场景和词义。",
+    "tags": ["商务词汇", "上下文", "词义"]
+  },
+  {
+    "id": "dedicated-to-doing",
+    "category": "固定搭配",
+    "formula": "be dedicated to + V-ing",
+    "rule": "to 是前置词，后面接 V-ing。",
+    "example": "The company is dedicated to improving customer service.",
+    "translation": "该公司致力于改善客户服务。",
+    "common_error": "误以为 to 是不定词符号，写成 be dedicated to improve。",
+    "tags": ["固定搭配", "前置词 to", "V-ing"]
+  },
+  {
+    "id": "have-yet-to-do",
+    "category": "固定搭配",
+    "formula": "have / has yet to + 原形动词",
+    "rule": "表示尚未做某事。",
+    "example": "The board has yet to announce a date.",
+    "translation": "董事会尚未公布日期。",
+    "common_error": "在 to 后使用 V-ing，或误解为已经完成。",
+    "tags": ["固定搭配", "yet", "不定词"]
+  },
+  {
+    "id": "along-with-agreement",
+    "category": "主谓一致",
+    "formula": "A along with B + 与 A 一致的动词",
+    "rule": "主谓一致看 A，along with B 不改变主语的单复数。",
+    "example": "The manager, along with her assistants, is attending the meeting.",
+    "translation": "经理和她的助理们正在参加会议。",
+    "common_error": "受到 B 的复数形式影响，误用复数动词。",
+    "tags": ["主谓一致", "along with", "插入成分"]
+  },
+  {
+    "id": "prior-to",
+    "category": "前置词",
+    "formula": "prior to + 名词 / V-ing",
+    "rule": "prior to 是前置词，后面接名词或 V-ing。",
+    "example": "Approval must be obtained prior to construction.",
+    "translation": "施工前必须获得批准。",
+    "common_error": "在 prior to 后直接使用原形动词。",
+    "tags": ["前置词", "prior to", "V-ing"]
+  },
+  {
+    "id": "whereas-clause",
+    "category": "连接词",
+    "formula": "whereas + S + V",
+    "rule": "whereas 是连接词，连接两个完整句子，表示对比。",
+    "example": "Nonprofits rely on donations, whereas businesses generate revenue through sales.",
+    "translation": "非营利组织依靠捐款，而企业通过销售获得收入。",
+    "common_error": "在 whereas 后只接名词，未构成完整句子。",
+    "tags": ["连接词", "whereas", "对比"]
+  },
+  {
+    "id": "whoever-subject",
+    "category": "关系代名词",
+    "formula": "whoever + V",
+    "rule": "whoever 等于 anyone who，可引导主语从句。",
+    "example": "Whoever missed the meeting should review the minutes.",
+    "translation": "任何错过会议的人都应该查看会议记录。",
+    "common_error": "把 whoever 后的从句误当成疑问句，或重复添加主语。",
+    "tags": ["关系代名词", "whoever", "主语从句"]
+  }
+]
