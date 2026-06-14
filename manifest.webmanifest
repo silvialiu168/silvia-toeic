@@ -1,0 +1,18 @@
+{
+  "name": "Silvia TOEIC Lab",
+  "short_name": "TOEIC Lab",
+  "description": "适合通勤时使用的 TOEIC Part 5 离线练习工具",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f4ed",
+  "theme_color": "#17324d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
