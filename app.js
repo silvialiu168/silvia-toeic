@@ -40,12 +40,15 @@ const elements = {
   categorySelect: document.querySelector("#categorySelect"),
   allQuestionsButton: document.querySelector("#allQuestionsButton"),
   mistakesButton: document.querySelector("#mistakesButton"),
+  weakButton: document.querySelector("#weakButton"),
   clearMistakesButton: document.querySelector("#clearMistakesButton"),
   installButton: document.querySelector("#installButton"),
   connectionStatus: document.querySelector("#connectionStatus"),
   masteryPercent: document.querySelector("#masteryPercent"),
   masteryBar: document.querySelector("#masteryBar"),
   masteryList: document.querySelector("#masteryList"),
+  categoryDashboard: document.querySelector("#categoryDashboard"),
+  weakestList: document.querySelector("#weakestList"),
   questionCount: document.querySelector("#questionCount"),
   loadingState: document.querySelector("#loadingState"),
   errorState: document.querySelector("#errorState"),
@@ -110,6 +113,8 @@ function startPractice(category) {
     : state.questions.filter((question) => question.category === category);
   state.filteredQuestions = state.mode === "mistakes"
     ? categoryQuestions.filter((question) => state.progress.mistakes[question.id])
+    : state.mode === "weak"
+      ? categoryQuestions.filter((question) => getWeakKnowledgeIds().includes(question.knowledge_id || question.knowledgeId))
     : categoryQuestions;
   state.currentIndex = 0;
   state.recentQuestionIds = [];
@@ -124,7 +129,9 @@ function renderPracticeState() {
     elements.errorState.classList.remove("hidden");
     elements.errorState.textContent = state.mode === "mistakes"
       ? "目前没有符合此分类的错题。答错的题目会自动加入错题本。"
-      : "此分类目前没有题目。";
+      : state.mode === "weak"
+        ? "目前还没有可判断的薄弱知识点，请先完成一些练习。"
+        : "此分类目前没有题目。";
     elements.questionCount.textContent = "共 0 题";
     return;
   }
@@ -134,7 +141,7 @@ function renderPracticeState() {
 }
 
 function renderQuestion() {
-  const question = state.mode === "all"
+  const question = state.mode === "all" || state.mode === "weak"
     ? chooseSmartQuestion()
     : state.filteredQuestions[state.currentIndex];
   state.currentQuestion = question;
@@ -240,9 +247,9 @@ function getKnowledgeWeight(knowledgeId) {
     ? (Date.now() - new Date(stats.lastWrongAt).getTime()) / 86400000
     : Infinity;
   const recentWrongBoost = daysSinceWrong <= 3 ? 3 : daysSinceWrong <= 14 ? 1.5 : 0;
-  const errorRate = stats.attempts ? stats.wrongCount / stats.attempts : 0;
+  const errorRate = stats.attempts ? stats.wrong / stats.attempts : 0;
   const stabilityReduction = Math.min(stats.correctStreak * 0.35, 1.5);
-  return Math.max(0.5, 1 + stats.wrongCount * 0.8 + errorRate * 3 + recentWrongBoost - stabilityReduction);
+  return Math.max(0.5, 1 + stats.wrong * 0.8 + errorRate * 3 + recentWrongBoost - stabilityReduction);
 }
 
 function loadProgress() {
@@ -253,7 +260,7 @@ function loadProgress() {
       totalAttempts: saved.totalAttempts || 0,
       correctAttempts: saved.correctAttempts || 0,
       mistakes: saved.mistakes || {},
-      knowledgeStats: saved.knowledgeStats || {}
+      knowledgeStats: normalizeKnowledgeStats(saved.knowledgeStats || {})
     };
   } catch {
     return { attemptedIds: [], totalAttempts: 0, correctAttempts: 0, mistakes: {}, knowledgeStats: {} };
@@ -262,6 +269,25 @@ function loadProgress() {
 
 function saveProgress() {
   localStorage.setItem("toeicPart5Progress", JSON.stringify(state.progress));
+}
+
+function normalizeKnowledgeStats(stats) {
+  return Object.fromEntries(Object.entries(stats).map(([id, value]) => {
+    const attempts = value.attempts || 0;
+    const wrong = value.wrong ?? value.wrongCount ?? 0;
+    const correct = value.correct ?? Math.max(0, attempts - wrong);
+    const accuracy = attempts ? Math.round((correct / attempts) * 100) : 0;
+    return [id, {
+      attempts,
+      correct,
+      wrong,
+      accuracy,
+      mastery: accuracy,
+      last_practiced: value.last_practiced || value.lastAnsweredAt || null,
+      correctStreak: value.correctStreak || 0,
+      lastWrongAt: value.lastWrongAt || null
+    }];
+  }));
 }
 
 function recordAnswer(question, isCorrect) {
@@ -283,20 +309,26 @@ function recordAnswer(question, isCorrect) {
   }
   const knowledgeStats = state.progress.knowledgeStats[knowledgeId] || {
     attempts: 0,
-    wrongCount: 0,
+    correct: 0,
+    wrong: 0,
+    accuracy: 0,
+    mastery: 0,
+    last_practiced: null,
     correctStreak: 0,
-    lastWrongAt: null,
-    lastAnsweredAt: null
+    lastWrongAt: null
   };
   knowledgeStats.attempts += 1;
-  knowledgeStats.lastAnsweredAt = now;
+  knowledgeStats.last_practiced = now;
   if (isCorrect) {
+    knowledgeStats.correct += 1;
     knowledgeStats.correctStreak += 1;
   } else {
-    knowledgeStats.wrongCount += 1;
+    knowledgeStats.wrong += 1;
     knowledgeStats.correctStreak = 0;
     knowledgeStats.lastWrongAt = now;
   }
+  knowledgeStats.accuracy = Math.round((knowledgeStats.correct / knowledgeStats.attempts) * 100);
+  knowledgeStats.mastery = knowledgeStats.accuracy;
   state.progress.knowledgeStats[knowledgeId] = knowledgeStats;
   saveProgress();
 }
@@ -321,7 +353,7 @@ function updateMastery() {
   }, {});
   const results = knowledgeItems.map((item) => {
     const stats = state.progress.knowledgeStats[item.id];
-    const score = calculateMastery(stats);
+    const score = stats ? stats.mastery : 0;
     const weight = (categoryWeights[item.category] || 8) / categoryCounts[item.category];
     return { item, score, weight };
   });
@@ -336,30 +368,71 @@ function updateMastery() {
     ...results
       .sort((a, b) => a.score - b.score)
       .map(({ item, score, weight }) => {
+        const stats = state.progress.knowledgeStats[item.id];
+        const status = getMasteryStatus(stats);
         const row = document.createElement("div");
         row.className = "mastery-row";
         row.innerHTML = `
           <div>
             <strong>${item.formula}</strong>
-            <small>${item.category} · 权重 ${weight.toFixed(1)}%</small>
+            <small>${item.category} · 权重 ${weight.toFixed(1)}% · 最近练习 ${formatDate(stats?.last_practiced)}</small>
           </div>
           <span class="mini-track"><span style="width:${score}%"></span></span>
-          <b>${score}%</b>
+          <b>${score}%<small>${stats?.attempts || 0} 次 · ${status}</small></b>
         `;
         return row;
       })
   );
+  updateCategoryDashboard(knowledgeItems);
+  updateWeakestList(knowledgeItems);
 }
 
-function calculateMastery(stats) {
-  if (!stats || !stats.attempts) return 0;
-  const practiceScore = Math.min(stats.attempts / 5, 1) * 35;
-  const accuracy = (stats.attempts - stats.wrongCount) / stats.attempts;
-  const accuracyScore = accuracy * 45;
-  const stabilityScore = Math.min(stats.correctStreak / 3, 1) * 20;
-  const recentWrongPenalty = stats.lastWrongAt &&
-    Date.now() - new Date(stats.lastWrongAt).getTime() < 3 * 86400000 ? 10 : 0;
-  return Math.max(0, Math.min(100, Math.round(practiceScore + accuracyScore + stabilityScore - recentWrongPenalty)));
+function getMasteryStatus(stats) {
+  if (!stats || stats.attempts < 3) return "样本不足";
+  if (stats.accuracy >= 85) return "熟悉";
+  if (stats.accuracy >= 60) return "待加强";
+  return "薄弱";
+}
+
+function getWeakKnowledgeIds() {
+  return Object.values(state.knowledge)
+    .filter((item) => {
+      const stats = state.progress.knowledgeStats[item.id];
+      return stats && stats.attempts >= 3 && stats.accuracy < 60;
+    })
+    .map((item) => item.id);
+}
+
+function updateCategoryDashboard(knowledgeItems) {
+  elements.categoryDashboard.replaceChildren(...categories.map((category) => {
+    const ids = knowledgeItems.filter((item) => item.category === category).map((item) => item.id);
+    const stats = ids.map((id) => state.progress.knowledgeStats[id]).filter(Boolean);
+    const attempts = stats.reduce((sum, item) => sum + item.attempts, 0);
+    const correct = stats.reduce((sum, item) => sum + item.correct, 0);
+    const accuracy = attempts ? Math.round((correct / attempts) * 100) : 0;
+    const card = document.createElement("div");
+    card.innerHTML = `<span>${category}</span><strong>${accuracy}%</strong><small>${attempts} 次作答</small>`;
+    return card;
+  }));
+}
+
+function updateWeakestList(knowledgeItems) {
+  const weakest = knowledgeItems
+    .map((item) => ({ item, stats: state.progress.knowledgeStats[item.id] }))
+    .filter(({ stats }) => stats && stats.attempts > 0)
+    .sort((a, b) => a.stats.accuracy - b.stats.accuracy || b.stats.attempts - a.stats.attempts)
+    .slice(0, 5);
+  elements.weakestList.replaceChildren(...weakest.map(({ item, stats }) => {
+    const badge = document.createElement("span");
+    badge.textContent = `${item.formula} · ${stats.accuracy}%`;
+    return badge;
+  }));
+  elements.weakestList.parentElement.classList.toggle("hidden", weakest.length === 0);
+}
+
+function formatDate(value) {
+  if (!value) return "尚未练习";
+  return new Date(value).toLocaleDateString("zh-CN");
 }
 
 function nextQuestion() {
@@ -374,6 +447,7 @@ elements.categorySelect.addEventListener("change", (event) => startPractice(even
 elements.nextButton.addEventListener("click", nextQuestion);
 elements.allQuestionsButton.addEventListener("click", () => setMode("all"));
 elements.mistakesButton.addEventListener("click", () => setMode("mistakes"));
+elements.weakButton.addEventListener("click", () => setMode("weak"));
 elements.clearMistakesButton.addEventListener("click", clearMistakes);
 elements.showExplanationButton.addEventListener("click", () => {
   const willShow = elements.explanationPanel.classList.contains("hidden");
@@ -418,6 +492,7 @@ function setMode(mode) {
   state.mode = mode;
   elements.allQuestionsButton.classList.toggle("active", mode === "all");
   elements.mistakesButton.classList.toggle("active", mode === "mistakes");
+  elements.weakButton.classList.toggle("active", mode === "weak");
   startPractice(elements.categorySelect.value);
 }
 
