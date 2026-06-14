@@ -1,0 +1,1262 @@
+﻿[
+    {
+        "word":  "increase",
+        "id":  "V_GSAT_001",
+        "forms":  {
+                      "past_participle":  "increased",
+                      "third_person":  "increases",
+                      "past":  "increased",
+                      "ing":  "increasing",
+                      "base":  "increase"
+                  },
+        "word_family":  {
+                            "noun":  "increase",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "increase"
+                        },
+        "common_collocations":  [
+                                    "increase skills",
+                                    "increase clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 increase 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word increase.",
+                             "translation":  "学生应该理解 increase 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use increase.",
+                             "translation":  "这个例句展示如何使用 increase。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to increase",
+        "chinese":  "increase 常用词义"
+    },
+    {
+        "word":  "reduce",
+        "id":  "V_GSAT_002",
+        "forms":  {
+                      "past_participle":  "reduced",
+                      "third_person":  "reduces",
+                      "past":  "reduced",
+                      "ing":  "reducing",
+                      "base":  "reduce"
+                  },
+        "word_family":  {
+                            "noun":  "reduce",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "reduce"
+                        },
+        "common_collocations":  [
+                                    "reduce skills",
+                                    "reduce clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 reduce 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word reduce.",
+                             "translation":  "学生应该理解 reduce 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use reduce.",
+                             "translation":  "这个例句展示如何使用 reduce。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to reduce",
+        "chinese":  "reduce 常用词义"
+    },
+    {
+        "word":  "environment",
+        "id":  "V_GSAT_003",
+        "forms":  {
+                      "past_participle":  "environmented",
+                      "third_person":  "environments",
+                      "past":  "environmented",
+                      "ing":  "environmenting",
+                      "base":  "environment"
+                  },
+        "word_family":  {
+                            "noun":  "environment",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "environment"
+                        },
+        "common_collocations":  [
+                                    "environment skills",
+                                    "environment clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 environment 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word environment.",
+                             "translation":  "学生应该理解 environment 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use environment.",
+                             "translation":  "这个例句展示如何使用 environment。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to environment",
+        "chinese":  "environment 常用词义"
+    },
+    {
+        "word":  "influence",
+        "id":  "V_GSAT_004",
+        "forms":  {
+                      "past_participle":  "influenced",
+                      "third_person":  "influences",
+                      "past":  "influenced",
+                      "ing":  "influencing",
+                      "base":  "influence"
+                  },
+        "word_family":  {
+                            "noun":  "influence",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "influence"
+                        },
+        "common_collocations":  [
+                                    "influence skills",
+                                    "influence clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 influence 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word influence.",
+                             "translation":  "学生应该理解 influence 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use influence.",
+                             "translation":  "这个例句展示如何使用 influence。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to influence",
+        "chinese":  "influence 常用词义"
+    },
+    {
+        "word":  "improve",
+        "id":  "V_GSAT_005",
+        "forms":  {
+                      "past_participle":  "improved",
+                      "third_person":  "improves",
+                      "past":  "improved",
+                      "ing":  "improving",
+                      "base":  "improve"
+                  },
+        "word_family":  {
+                            "noun":  "improve",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "improve"
+                        },
+        "common_collocations":  [
+                                    "improve skills",
+                                    "improve clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 improve 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word improve.",
+                             "translation":  "学生应该理解 improve 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use improve.",
+                             "translation":  "这个例句展示如何使用 improve。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to improve",
+        "chinese":  "improve 常用词义"
+    },
+    {
+        "word":  "require",
+        "id":  "V_GSAT_006",
+        "forms":  {
+                      "past_participle":  "required",
+                      "third_person":  "requires",
+                      "past":  "required",
+                      "ing":  "requiring",
+                      "base":  "require"
+                  },
+        "word_family":  {
+                            "noun":  "require",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "require"
+                        },
+        "common_collocations":  [
+                                    "require skills",
+                                    "require clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 require 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word require.",
+                             "translation":  "学生应该理解 require 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use require.",
+                             "translation":  "这个例句展示如何使用 require。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to require",
+        "chinese":  "require 常用词义"
+    },
+    {
+        "word":  "provide",
+        "id":  "V_GSAT_007",
+        "forms":  {
+                      "past_participle":  "provided",
+                      "third_person":  "provides",
+                      "past":  "provided",
+                      "ing":  "providing",
+                      "base":  "provide"
+                  },
+        "word_family":  {
+                            "noun":  "provide",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "provide"
+                        },
+        "common_collocations":  [
+                                    "provide skills",
+                                    "provide clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 provide 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word provide.",
+                             "translation":  "学生应该理解 provide 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use provide.",
+                             "translation":  "这个例句展示如何使用 provide。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to provide",
+        "chinese":  "provide 常用词义"
+    },
+    {
+        "word":  "achieve",
+        "id":  "V_GSAT_008",
+        "forms":  {
+                      "past_participle":  "achieved",
+                      "third_person":  "achieves",
+                      "past":  "achieved",
+                      "ing":  "achieving",
+                      "base":  "achieve"
+                  },
+        "word_family":  {
+                            "noun":  "achieve",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "achieve"
+                        },
+        "common_collocations":  [
+                                    "achieve skills",
+                                    "achieve clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 achieve 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word achieve.",
+                             "translation":  "学生应该理解 achieve 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use achieve.",
+                             "translation":  "这个例句展示如何使用 achieve。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to achieve",
+        "chinese":  "achieve 常用词义"
+    },
+    {
+        "word":  "consider",
+        "id":  "V_GSAT_009",
+        "forms":  {
+                      "past_participle":  "considered",
+                      "third_person":  "considers",
+                      "past":  "considered",
+                      "ing":  "considering",
+                      "base":  "consider"
+                  },
+        "word_family":  {
+                            "noun":  "consider",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "consider"
+                        },
+        "common_collocations":  [
+                                    "consider skills",
+                                    "consider clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 consider 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word consider.",
+                             "translation":  "学生应该理解 consider 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use consider.",
+                             "translation":  "这个例句展示如何使用 consider。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to consider",
+        "chinese":  "consider 常用词义"
+    },
+    {
+        "word":  "develop",
+        "id":  "V_GSAT_010",
+        "forms":  {
+                      "past_participle":  "developed",
+                      "third_person":  "develops",
+                      "past":  "developed",
+                      "ing":  "developing",
+                      "base":  "develop"
+                  },
+        "word_family":  {
+                            "noun":  "develop",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "develop"
+                        },
+        "common_collocations":  [
+                                    "develop skills",
+                                    "develop clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 develop 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word develop.",
+                             "translation":  "学生应该理解 develop 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use develop.",
+                             "translation":  "这个例句展示如何使用 develop。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to develop",
+        "chinese":  "develop 常用词义"
+    },
+    {
+        "word":  "benefit",
+        "id":  "V_GSAT_011",
+        "forms":  {
+                      "past_participle":  "benefited",
+                      "third_person":  "benefits",
+                      "past":  "benefited",
+                      "ing":  "benefiting",
+                      "base":  "benefit"
+                  },
+        "word_family":  {
+                            "noun":  "benefit",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "benefit"
+                        },
+        "common_collocations":  [
+                                    "benefit skills",
+                                    "benefit clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 benefit 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word benefit.",
+                             "translation":  "学生应该理解 benefit 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use benefit.",
+                             "translation":  "这个例句展示如何使用 benefit。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to benefit",
+        "chinese":  "benefit 常用词义"
+    },
+    {
+        "word":  "challenge",
+        "id":  "V_GSAT_012",
+        "forms":  {
+                      "past_participle":  "challenged",
+                      "third_person":  "challenges",
+                      "past":  "challenged",
+                      "ing":  "challenging",
+                      "base":  "challenge"
+                  },
+        "word_family":  {
+                            "noun":  "challenge",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "challenge"
+                        },
+        "common_collocations":  [
+                                    "challenge skills",
+                                    "challenge clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 challenge 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word challenge.",
+                             "translation":  "学生应该理解 challenge 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use challenge.",
+                             "translation":  "这个例句展示如何使用 challenge。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to challenge",
+        "chinese":  "challenge 常用词义"
+    },
+    {
+        "word":  "community",
+        "id":  "V_GSAT_013",
+        "forms":  {
+                      "past_participle":  "communitied",
+                      "third_person":  "communities",
+                      "past":  "communitied",
+                      "ing":  "communitying",
+                      "base":  "community"
+                  },
+        "word_family":  {
+                            "noun":  "community",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "community"
+                        },
+        "common_collocations":  [
+                                    "community skills",
+                                    "community clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 community 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word community.",
+                             "translation":  "学生应该理解 community 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use community.",
+                             "translation":  "这个例句展示如何使用 community。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to community",
+        "chinese":  "community 常用词义"
+    },
+    {
+        "word":  "experience",
+        "id":  "V_GSAT_014",
+        "forms":  {
+                      "past_participle":  "experienced",
+                      "third_person":  "experiences",
+                      "past":  "experienced",
+                      "ing":  "experiencing",
+                      "base":  "experience"
+                  },
+        "word_family":  {
+                            "noun":  "experience",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "experience"
+                        },
+        "common_collocations":  [
+                                    "experience skills",
+                                    "experience clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 experience 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word experience.",
+                             "translation":  "学生应该理解 experience 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use experience.",
+                             "translation":  "这个例句展示如何使用 experience。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to experience",
+        "chinese":  "experience 常用词义"
+    },
+    {
+        "word":  "government",
+        "id":  "V_GSAT_015",
+        "forms":  {
+                      "past_participle":  "governmented",
+                      "third_person":  "governments",
+                      "past":  "governmented",
+                      "ing":  "governmenting",
+                      "base":  "government"
+                  },
+        "word_family":  {
+                            "noun":  "government",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "government"
+                        },
+        "common_collocations":  [
+                                    "government skills",
+                                    "government clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 government 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word government.",
+                             "translation":  "学生应该理解 government 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use government.",
+                             "translation":  "这个例句展示如何使用 government。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to government",
+        "chinese":  "government 常用词义"
+    },
+    {
+        "word":  "opportunity",
+        "id":  "V_GSAT_016",
+        "forms":  {
+                      "past_participle":  "opportunitied",
+                      "third_person":  "opportunities",
+                      "past":  "opportunitied",
+                      "ing":  "opportunitying",
+                      "base":  "opportunity"
+                  },
+        "word_family":  {
+                            "noun":  "opportunity",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "opportunity"
+                        },
+        "common_collocations":  [
+                                    "opportunity skills",
+                                    "opportunity clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 opportunity 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word opportunity.",
+                             "translation":  "学生应该理解 opportunity 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use opportunity.",
+                             "translation":  "这个例句展示如何使用 opportunity。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to opportunity",
+        "chinese":  "opportunity 常用词义"
+    },
+    {
+        "word":  "responsible",
+        "id":  "V_GSAT_017",
+        "forms":  {
+                      "past_participle":  "responsibled",
+                      "third_person":  "responsibles",
+                      "past":  "responsibled",
+                      "ing":  "responsibling",
+                      "base":  "responsible"
+                  },
+        "word_family":  {
+                            "noun":  "responsible",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "responsible"
+                        },
+        "common_collocations":  [
+                                    "responsible skills",
+                                    "responsible clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 responsible 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word responsible.",
+                             "translation":  "学生应该理解 responsible 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use responsible.",
+                             "translation":  "这个例句展示如何使用 responsible。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to responsible",
+        "chinese":  "responsible 常用词义"
+    },
+    {
+        "word":  "significant",
+        "id":  "V_GSAT_018",
+        "forms":  {
+                      "past_participle":  "significanted",
+                      "third_person":  "significants",
+                      "past":  "significanted",
+                      "ing":  "significanting",
+                      "base":  "significant"
+                  },
+        "word_family":  {
+                            "noun":  "significant",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "significant"
+                        },
+        "common_collocations":  [
+                                    "significant skills",
+                                    "significant clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 significant 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word significant.",
+                             "translation":  "学生应该理解 significant 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use significant.",
+                             "translation":  "这个例句展示如何使用 significant。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to significant",
+        "chinese":  "significant 常用词义"
+    },
+    {
+        "word":  "technology",
+        "id":  "V_GSAT_019",
+        "forms":  {
+                      "past_participle":  "technologied",
+                      "third_person":  "technologies",
+                      "past":  "technologied",
+                      "ing":  "technologying",
+                      "base":  "technology"
+                  },
+        "word_family":  {
+                            "noun":  "technology",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "technology"
+                        },
+        "common_collocations":  [
+                                    "technology skills",
+                                    "technology clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 technology 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word technology.",
+                             "translation":  "学生应该理解 technology 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use technology.",
+                             "translation":  "这个例句展示如何使用 technology。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to technology",
+        "chinese":  "technology 常用词义"
+    },
+    {
+        "word":  "education",
+        "id":  "V_GSAT_020",
+        "forms":  {
+                      "past_participle":  "educationed",
+                      "third_person":  "educations",
+                      "past":  "educationed",
+                      "ing":  "educationing",
+                      "base":  "education"
+                  },
+        "word_family":  {
+                            "noun":  "education",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "education"
+                        },
+        "common_collocations":  [
+                                    "education skills",
+                                    "education clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 education 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word education.",
+                             "translation":  "学生应该理解 education 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use education.",
+                             "translation":  "这个例句展示如何使用 education。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to education",
+        "chinese":  "education 常用词义"
+    },
+    {
+        "word":  "suggest",
+        "id":  "V_GSAT_021",
+        "forms":  {
+                      "past_participle":  "suggested",
+                      "third_person":  "suggests",
+                      "past":  "suggested",
+                      "ing":  "suggesting",
+                      "base":  "suggest"
+                  },
+        "word_family":  {
+                            "noun":  "suggest",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "suggest"
+                        },
+        "common_collocations":  [
+                                    "suggest skills",
+                                    "suggest clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 suggest 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word suggest.",
+                             "translation":  "学生应该理解 suggest 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use suggest.",
+                             "translation":  "这个例句展示如何使用 suggest。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to suggest",
+        "chinese":  "suggest 常用词义"
+    },
+    {
+        "word":  "support",
+        "id":  "V_GSAT_022",
+        "forms":  {
+                      "past_participle":  "supported",
+                      "third_person":  "supports",
+                      "past":  "supported",
+                      "ing":  "supporting",
+                      "base":  "support"
+                  },
+        "word_family":  {
+                            "noun":  "support",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "support"
+                        },
+        "common_collocations":  [
+                                    "support skills",
+                                    "support clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 support 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word support.",
+                             "translation":  "学生应该理解 support 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use support.",
+                             "translation":  "这个例句展示如何使用 support。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to support",
+        "chinese":  "support 常用词义"
+    },
+    {
+        "word":  "compare",
+        "id":  "V_GSAT_023",
+        "forms":  {
+                      "past_participle":  "compared",
+                      "third_person":  "compares",
+                      "past":  "compared",
+                      "ing":  "comparing",
+                      "base":  "compare"
+                  },
+        "word_family":  {
+                            "noun":  "compare",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "compare"
+                        },
+        "common_collocations":  [
+                                    "compare skills",
+                                    "compare clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 compare 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word compare.",
+                             "translation":  "学生应该理解 compare 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use compare.",
+                             "translation":  "这个例句展示如何使用 compare。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to compare",
+        "chinese":  "compare 常用词义"
+    },
+    {
+        "word":  "protect",
+        "id":  "V_GSAT_024",
+        "forms":  {
+                      "past_participle":  "protected",
+                      "third_person":  "protects",
+                      "past":  "protected",
+                      "ing":  "protecting",
+                      "base":  "protect"
+                  },
+        "word_family":  {
+                            "noun":  "protect",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "protect"
+                        },
+        "common_collocations":  [
+                                    "protect skills",
+                                    "protect clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 protect 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word protect.",
+                             "translation":  "学生应该理解 protect 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use protect.",
+                             "translation":  "这个例句展示如何使用 protect。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to protect",
+        "chinese":  "protect 常用词义"
+    },
+    {
+        "word":  "resource",
+        "id":  "V_GSAT_025",
+        "forms":  {
+                      "past_participle":  "resourced",
+                      "third_person":  "resources",
+                      "past":  "resourced",
+                      "ing":  "resourcing",
+                      "base":  "resource"
+                  },
+        "word_family":  {
+                            "noun":  "resource",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "resource"
+                        },
+        "common_collocations":  [
+                                    "resource skills",
+                                    "resource clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 resource 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word resource.",
+                             "translation":  "学生应该理解 resource 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use resource.",
+                             "translation":  "这个例句展示如何使用 resource。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to resource",
+        "chinese":  "resource 常用词义"
+    },
+    {
+        "word":  "solution",
+        "id":  "V_GSAT_026",
+        "forms":  {
+                      "past_participle":  "solutioned",
+                      "third_person":  "solutions",
+                      "past":  "solutioned",
+                      "ing":  "solutioning",
+                      "base":  "solution"
+                  },
+        "word_family":  {
+                            "noun":  "solution",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "solution"
+                        },
+        "common_collocations":  [
+                                    "solution skills",
+                                    "solution clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 solution 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word solution.",
+                             "translation":  "学生应该理解 solution 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use solution.",
+                             "translation":  "这个例句展示如何使用 solution。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to solution",
+        "chinese":  "solution 常用词义"
+    },
+    {
+        "word":  "effect",
+        "id":  "V_GSAT_027",
+        "forms":  {
+                      "past_participle":  "effected",
+                      "third_person":  "effects",
+                      "past":  "effected",
+                      "ing":  "effecting",
+                      "base":  "effect"
+                  },
+        "word_family":  {
+                            "noun":  "effect",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "effect"
+                        },
+        "common_collocations":  [
+                                    "effect skills",
+                                    "effect clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 effect 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word effect.",
+                             "translation":  "学生应该理解 effect 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use effect.",
+                             "translation":  "这个例句展示如何使用 effect。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to effect",
+        "chinese":  "effect 常用词义"
+    },
+    {
+        "word":  "purpose",
+        "id":  "V_GSAT_028",
+        "forms":  {
+                      "past_participle":  "purposed",
+                      "third_person":  "purposes",
+                      "past":  "purposed",
+                      "ing":  "purposing",
+                      "base":  "purpose"
+                  },
+        "word_family":  {
+                            "noun":  "purpose",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "purpose"
+                        },
+        "common_collocations":  [
+                                    "purpose skills",
+                                    "purpose clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 purpose 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word purpose.",
+                             "translation":  "学生应该理解 purpose 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use purpose.",
+                             "translation":  "这个例句展示如何使用 purpose。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to purpose",
+        "chinese":  "purpose 常用词义"
+    },
+    {
+        "word":  "quality",
+        "id":  "V_GSAT_029",
+        "forms":  {
+                      "past_participle":  "qualitied",
+                      "third_person":  "qualities",
+                      "past":  "qualitied",
+                      "ing":  "qualitying",
+                      "base":  "quality"
+                  },
+        "word_family":  {
+                            "noun":  "quality",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "quality"
+                        },
+        "common_collocations":  [
+                                    "quality skills",
+                                    "quality clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 quality 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word quality.",
+                             "translation":  "学生应该理解 quality 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use quality.",
+                             "translation":  "这个例句展示如何使用 quality。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to quality",
+        "chinese":  "quality 常用词义"
+    },
+    {
+        "word":  "available",
+        "id":  "V_GSAT_030",
+        "forms":  {
+                      "past_participle":  "availabled",
+                      "third_person":  "availables",
+                      "past":  "availabled",
+                      "ing":  "availabling",
+                      "base":  "available"
+                  },
+        "word_family":  {
+                            "noun":  "available",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "available"
+                        },
+        "common_collocations":  [
+                                    "available skills",
+                                    "available clearly"
+                                ],
+        "tags":  [
+                     "gsat",
+                     "common"
+                 ],
+        "level":  "gsat",
+        "common_error":  "注意 available 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word available.",
+                             "translation":  "学生应该理解 available 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use available.",
+                             "translation":  "这个例句展示如何使用 available。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to available",
+        "chinese":  "available 常用词义"
+    }
+]
