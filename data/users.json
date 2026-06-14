@@ -1,0 +1,32 @@
+[
+  {
+    "id": "silvia",
+    "name": "Silvia",
+    "goal": "TOEIC 900",
+    "level": "toeic",
+    "stages": ["700", "800", "850", "900"],
+    "current_stage": "700",
+    "stats_key": "liu_trainer_silvia_stats",
+    "vocab_key": "liu_trainer_silvia_vocab"
+  },
+  {
+    "id": "brother",
+    "name": "Ray",
+    "goal": "学测英文顶标",
+    "level": "gsat",
+    "stages": ["后标", "均标", "前标", "顶标"],
+    "current_stage": "后标",
+    "stats_key": "liu_trainer_brother_stats",
+    "vocab_key": "liu_trainer_brother_vocab"
+  },
+  {
+    "id": "younger",
+    "name": "Sean",
+    "goal": "会考英文 A+",
+    "level": "junior",
+    "stages": ["B", "B+", "A", "A+", "A++"],
+    "current_stage": "B",
+    "stats_key": "liu_trainer_younger_stats",
+    "vocab_key": "liu_trainer_younger_vocab"
+  }
+]
