@@ -1,0 +1,1262 @@
+﻿[
+    {
+        "word":  "important",
+        "id":  "V_JUNIOR_001",
+        "forms":  {
+                      "past_participle":  "importanted",
+                      "third_person":  "importants",
+                      "past":  "importanted",
+                      "ing":  "importanting",
+                      "base":  "important"
+                  },
+        "word_family":  {
+                            "noun":  "important",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "important"
+                        },
+        "common_collocations":  [
+                                    "important skills",
+                                    "important clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 important 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word important.",
+                             "translation":  "学生应该理解 important 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use important.",
+                             "translation":  "这个例句展示如何使用 important。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to important",
+        "chinese":  "important 常用词义"
+    },
+    {
+        "word":  "enough",
+        "id":  "V_JUNIOR_002",
+        "forms":  {
+                      "past_participle":  "enoughed",
+                      "third_person":  "enoughs",
+                      "past":  "enoughed",
+                      "ing":  "enoughing",
+                      "base":  "enough"
+                  },
+        "word_family":  {
+                            "noun":  "enough",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "enough"
+                        },
+        "common_collocations":  [
+                                    "enough skills",
+                                    "enough clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 enough 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word enough.",
+                             "translation":  "学生应该理解 enough 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use enough.",
+                             "translation":  "这个例句展示如何使用 enough。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to enough",
+        "chinese":  "enough 常用词义"
+    },
+    {
+        "word":  "healthy",
+        "id":  "V_JUNIOR_003",
+        "forms":  {
+                      "past_participle":  "healthied",
+                      "third_person":  "healthies",
+                      "past":  "healthied",
+                      "ing":  "healthying",
+                      "base":  "healthy"
+                  },
+        "word_family":  {
+                            "noun":  "healthy",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "healthy"
+                        },
+        "common_collocations":  [
+                                    "healthy skills",
+                                    "healthy clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 healthy 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word healthy.",
+                             "translation":  "学生应该理解 healthy 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use healthy.",
+                             "translation":  "这个例句展示如何使用 healthy。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to healthy",
+        "chinese":  "healthy 常用词义"
+    },
+    {
+        "word":  "difficult",
+        "id":  "V_JUNIOR_004",
+        "forms":  {
+                      "past_participle":  "difficulted",
+                      "third_person":  "difficults",
+                      "past":  "difficulted",
+                      "ing":  "difficulting",
+                      "base":  "difficult"
+                  },
+        "word_family":  {
+                            "noun":  "difficult",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "difficult"
+                        },
+        "common_collocations":  [
+                                    "difficult skills",
+                                    "difficult clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 difficult 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word difficult.",
+                             "translation":  "学生应该理解 difficult 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use difficult.",
+                             "translation":  "这个例句展示如何使用 difficult。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to difficult",
+        "chinese":  "difficult 常用词义"
+    },
+    {
+        "word":  "before",
+        "id":  "V_JUNIOR_005",
+        "forms":  {
+                      "past_participle":  "befored",
+                      "third_person":  "befores",
+                      "past":  "befored",
+                      "ing":  "beforing",
+                      "base":  "before"
+                  },
+        "word_family":  {
+                            "noun":  "before",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "before"
+                        },
+        "common_collocations":  [
+                                    "before skills",
+                                    "before clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 before 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word before.",
+                             "translation":  "学生应该理解 before 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use before.",
+                             "translation":  "这个例句展示如何使用 before。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to before",
+        "chinese":  "before 常用词义"
+    },
+    {
+        "word":  "after",
+        "id":  "V_JUNIOR_006",
+        "forms":  {
+                      "past_participle":  "aftered",
+                      "third_person":  "afters",
+                      "past":  "aftered",
+                      "ing":  "aftering",
+                      "base":  "after"
+                  },
+        "word_family":  {
+                            "noun":  "after",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "after"
+                        },
+        "common_collocations":  [
+                                    "after skills",
+                                    "after clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 after 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word after.",
+                             "translation":  "学生应该理解 after 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use after.",
+                             "translation":  "这个例句展示如何使用 after。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to after",
+        "chinese":  "after 常用词义"
+    },
+    {
+        "word":  "because",
+        "id":  "V_JUNIOR_007",
+        "forms":  {
+                      "past_participle":  "becaused",
+                      "third_person":  "becauses",
+                      "past":  "becaused",
+                      "ing":  "becausing",
+                      "base":  "because"
+                  },
+        "word_family":  {
+                            "noun":  "because",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "because"
+                        },
+        "common_collocations":  [
+                                    "because skills",
+                                    "because clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 because 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word because.",
+                             "translation":  "学生应该理解 because 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use because.",
+                             "translation":  "这个例句展示如何使用 because。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to because",
+        "chinese":  "because 常用词义"
+    },
+    {
+        "word":  "invite",
+        "id":  "V_JUNIOR_008",
+        "forms":  {
+                      "past_participle":  "invited",
+                      "third_person":  "invites",
+                      "past":  "invited",
+                      "ing":  "inviting",
+                      "base":  "invite"
+                  },
+        "word_family":  {
+                            "noun":  "invite",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "invite"
+                        },
+        "common_collocations":  [
+                                    "invite skills",
+                                    "invite clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 invite 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word invite.",
+                             "translation":  "学生应该理解 invite 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use invite.",
+                             "translation":  "这个例句展示如何使用 invite。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to invite",
+        "chinese":  "invite 常用词义"
+    },
+    {
+        "word":  "practice",
+        "id":  "V_JUNIOR_009",
+        "forms":  {
+                      "past_participle":  "practiced",
+                      "third_person":  "practices",
+                      "past":  "practiced",
+                      "ing":  "practicing",
+                      "base":  "practice"
+                  },
+        "word_family":  {
+                            "noun":  "practice",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "practice"
+                        },
+        "common_collocations":  [
+                                    "practice skills",
+                                    "practice clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 practice 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word practice.",
+                             "translation":  "学生应该理解 practice 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use practice.",
+                             "translation":  "这个例句展示如何使用 practice。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to practice",
+        "chinese":  "practice 常用词义"
+    },
+    {
+        "word":  "decide",
+        "id":  "V_JUNIOR_010",
+        "forms":  {
+                      "past_participle":  "decided",
+                      "third_person":  "decides",
+                      "past":  "decided",
+                      "ing":  "deciding",
+                      "base":  "decide"
+                  },
+        "word_family":  {
+                            "noun":  "decide",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "decide"
+                        },
+        "common_collocations":  [
+                                    "decide skills",
+                                    "decide clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 decide 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word decide.",
+                             "translation":  "学生应该理解 decide 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use decide.",
+                             "translation":  "这个例句展示如何使用 decide。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to decide",
+        "chinese":  "decide 常用词义"
+    },
+    {
+        "word":  "always",
+        "id":  "V_JUNIOR_011",
+        "forms":  {
+                      "past_participle":  "alwaysed",
+                      "third_person":  "alwayss",
+                      "past":  "alwaysed",
+                      "ing":  "alwaysing",
+                      "base":  "always"
+                  },
+        "word_family":  {
+                            "noun":  "always",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "always"
+                        },
+        "common_collocations":  [
+                                    "always skills",
+                                    "always clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 always 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word always.",
+                             "translation":  "学生应该理解 always 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use always.",
+                             "translation":  "这个例句展示如何使用 always。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to always",
+        "chinese":  "always 常用词义"
+    },
+    {
+        "word":  "believe",
+        "id":  "V_JUNIOR_012",
+        "forms":  {
+                      "past_participle":  "believed",
+                      "third_person":  "believes",
+                      "past":  "believed",
+                      "ing":  "believing",
+                      "base":  "believe"
+                  },
+        "word_family":  {
+                            "noun":  "believe",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "believe"
+                        },
+        "common_collocations":  [
+                                    "believe skills",
+                                    "believe clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 believe 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word believe.",
+                             "translation":  "学生应该理解 believe 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use believe.",
+                             "translation":  "这个例句展示如何使用 believe。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to believe",
+        "chinese":  "believe 常用词义"
+    },
+    {
+        "word":  "careful",
+        "id":  "V_JUNIOR_013",
+        "forms":  {
+                      "past_participle":  "carefuled",
+                      "third_person":  "carefuls",
+                      "past":  "carefuled",
+                      "ing":  "carefuling",
+                      "base":  "careful"
+                  },
+        "word_family":  {
+                            "noun":  "careful",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "careful"
+                        },
+        "common_collocations":  [
+                                    "careful skills",
+                                    "careful clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 careful 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word careful.",
+                             "translation":  "学生应该理解 careful 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use careful.",
+                             "translation":  "这个例句展示如何使用 careful。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to careful",
+        "chinese":  "careful 常用词义"
+    },
+    {
+        "word":  "different",
+        "id":  "V_JUNIOR_014",
+        "forms":  {
+                      "past_participle":  "differented",
+                      "third_person":  "differents",
+                      "past":  "differented",
+                      "ing":  "differenting",
+                      "base":  "different"
+                  },
+        "word_family":  {
+                            "noun":  "different",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "different"
+                        },
+        "common_collocations":  [
+                                    "different skills",
+                                    "different clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 different 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word different.",
+                             "translation":  "学生应该理解 different 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use different.",
+                             "translation":  "这个例句展示如何使用 different。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to different",
+        "chinese":  "different 常用词义"
+    },
+    {
+        "word":  "enjoy",
+        "id":  "V_JUNIOR_015",
+        "forms":  {
+                      "past_participle":  "enjoied",
+                      "third_person":  "enjoies",
+                      "past":  "enjoied",
+                      "ing":  "enjoying",
+                      "base":  "enjoy"
+                  },
+        "word_family":  {
+                            "noun":  "enjoy",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "enjoy"
+                        },
+        "common_collocations":  [
+                                    "enjoy skills",
+                                    "enjoy clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 enjoy 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word enjoy.",
+                             "translation":  "学生应该理解 enjoy 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use enjoy.",
+                             "translation":  "这个例句展示如何使用 enjoy。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to enjoy",
+        "chinese":  "enjoy 常用词义"
+    },
+    {
+        "word":  "future",
+        "id":  "V_JUNIOR_016",
+        "forms":  {
+                      "past_participle":  "futured",
+                      "third_person":  "futures",
+                      "past":  "futured",
+                      "ing":  "futuring",
+                      "base":  "future"
+                  },
+        "word_family":  {
+                            "noun":  "future",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "future"
+                        },
+        "common_collocations":  [
+                                    "future skills",
+                                    "future clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 future 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word future.",
+                             "translation":  "学生应该理解 future 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use future.",
+                             "translation":  "这个例句展示如何使用 future。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to future",
+        "chinese":  "future 常用词义"
+    },
+    {
+        "word":  "happen",
+        "id":  "V_JUNIOR_017",
+        "forms":  {
+                      "past_participle":  "happened",
+                      "third_person":  "happens",
+                      "past":  "happened",
+                      "ing":  "happening",
+                      "base":  "happen"
+                  },
+        "word_family":  {
+                            "noun":  "happen",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "happen"
+                        },
+        "common_collocations":  [
+                                    "happen skills",
+                                    "happen clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 happen 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word happen.",
+                             "translation":  "学生应该理解 happen 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use happen.",
+                             "translation":  "这个例句展示如何使用 happen。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to happen",
+        "chinese":  "happen 常用词义"
+    },
+    {
+        "word":  "helpful",
+        "id":  "V_JUNIOR_018",
+        "forms":  {
+                      "past_participle":  "helpfuled",
+                      "third_person":  "helpfuls",
+                      "past":  "helpfuled",
+                      "ing":  "helpfuling",
+                      "base":  "helpful"
+                  },
+        "word_family":  {
+                            "noun":  "helpful",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "helpful"
+                        },
+        "common_collocations":  [
+                                    "helpful skills",
+                                    "helpful clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 helpful 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word helpful.",
+                             "translation":  "学生应该理解 helpful 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use helpful.",
+                             "translation":  "这个例句展示如何使用 helpful。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to helpful",
+        "chinese":  "helpful 常用词义"
+    },
+    {
+        "word":  "interesting",
+        "id":  "V_JUNIOR_019",
+        "forms":  {
+                      "past_participle":  "interestinged",
+                      "third_person":  "interestings",
+                      "past":  "interestinged",
+                      "ing":  "interestinging",
+                      "base":  "interesting"
+                  },
+        "word_family":  {
+                            "noun":  "interesting",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "interesting"
+                        },
+        "common_collocations":  [
+                                    "interesting skills",
+                                    "interesting clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 interesting 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word interesting.",
+                             "translation":  "学生应该理解 interesting 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use interesting.",
+                             "translation":  "这个例句展示如何使用 interesting。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to interesting",
+        "chinese":  "interesting 常用词义"
+    },
+    {
+        "word":  "language",
+        "id":  "V_JUNIOR_020",
+        "forms":  {
+                      "past_participle":  "languaged",
+                      "third_person":  "languages",
+                      "past":  "languaged",
+                      "ing":  "languaging",
+                      "base":  "language"
+                  },
+        "word_family":  {
+                            "noun":  "language",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "language"
+                        },
+        "common_collocations":  [
+                                    "language skills",
+                                    "language clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 language 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word language.",
+                             "translation":  "学生应该理解 language 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use language.",
+                             "translation":  "这个例句展示如何使用 language。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to language",
+        "chinese":  "language 常用词义"
+    },
+    {
+        "word":  "message",
+        "id":  "V_JUNIOR_021",
+        "forms":  {
+                      "past_participle":  "messaged",
+                      "third_person":  "messages",
+                      "past":  "messaged",
+                      "ing":  "messaging",
+                      "base":  "message"
+                  },
+        "word_family":  {
+                            "noun":  "message",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "message"
+                        },
+        "common_collocations":  [
+                                    "message skills",
+                                    "message clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 message 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word message.",
+                             "translation":  "学生应该理解 message 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use message.",
+                             "translation":  "这个例句展示如何使用 message。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to message",
+        "chinese":  "message 常用词义"
+    },
+    {
+        "word":  "popular",
+        "id":  "V_JUNIOR_022",
+        "forms":  {
+                      "past_participle":  "populared",
+                      "third_person":  "populars",
+                      "past":  "populared",
+                      "ing":  "popularing",
+                      "base":  "popular"
+                  },
+        "word_family":  {
+                            "noun":  "popular",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "popular"
+                        },
+        "common_collocations":  [
+                                    "popular skills",
+                                    "popular clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 popular 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word popular.",
+                             "translation":  "学生应该理解 popular 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use popular.",
+                             "translation":  "这个例句展示如何使用 popular。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to popular",
+        "chinese":  "popular 常用词义"
+    },
+    {
+        "word":  "remember",
+        "id":  "V_JUNIOR_023",
+        "forms":  {
+                      "past_participle":  "remembered",
+                      "third_person":  "remembers",
+                      "past":  "remembered",
+                      "ing":  "remembering",
+                      "base":  "remember"
+                  },
+        "word_family":  {
+                            "noun":  "remember",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "remember"
+                        },
+        "common_collocations":  [
+                                    "remember skills",
+                                    "remember clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 remember 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word remember.",
+                             "translation":  "学生应该理解 remember 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use remember.",
+                             "translation":  "这个例句展示如何使用 remember。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to remember",
+        "chinese":  "remember 常用词义"
+    },
+    {
+        "word":  "special",
+        "id":  "V_JUNIOR_024",
+        "forms":  {
+                      "past_participle":  "specialed",
+                      "third_person":  "specials",
+                      "past":  "specialed",
+                      "ing":  "specialing",
+                      "base":  "special"
+                  },
+        "word_family":  {
+                            "noun":  "special",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "special"
+                        },
+        "common_collocations":  [
+                                    "special skills",
+                                    "special clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 special 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word special.",
+                             "translation":  "学生应该理解 special 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use special.",
+                             "translation":  "这个例句展示如何使用 special。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to special",
+        "chinese":  "special 常用词义"
+    },
+    {
+        "word":  "together",
+        "id":  "V_JUNIOR_025",
+        "forms":  {
+                      "past_participle":  "togethered",
+                      "third_person":  "togethers",
+                      "past":  "togethered",
+                      "ing":  "togethering",
+                      "base":  "together"
+                  },
+        "word_family":  {
+                            "noun":  "together",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "together"
+                        },
+        "common_collocations":  [
+                                    "together skills",
+                                    "together clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 together 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word together.",
+                             "translation":  "学生应该理解 together 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use together.",
+                             "translation":  "这个例句展示如何使用 together。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to together",
+        "chinese":  "together 常用词义"
+    },
+    {
+        "word":  "understand",
+        "id":  "V_JUNIOR_026",
+        "forms":  {
+                      "past_participle":  "understanded",
+                      "third_person":  "understands",
+                      "past":  "understanded",
+                      "ing":  "understanding",
+                      "base":  "understand"
+                  },
+        "word_family":  {
+                            "noun":  "understand",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "understand"
+                        },
+        "common_collocations":  [
+                                    "understand skills",
+                                    "understand clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 understand 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word understand.",
+                             "translation":  "学生应该理解 understand 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use understand.",
+                             "translation":  "这个例句展示如何使用 understand。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to understand",
+        "chinese":  "understand 常用词义"
+    },
+    {
+        "word":  "weather",
+        "id":  "V_JUNIOR_027",
+        "forms":  {
+                      "past_participle":  "weathered",
+                      "third_person":  "weathers",
+                      "past":  "weathered",
+                      "ing":  "weathering",
+                      "base":  "weather"
+                  },
+        "word_family":  {
+                            "noun":  "weather",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "weather"
+                        },
+        "common_collocations":  [
+                                    "weather skills",
+                                    "weather clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 weather 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word weather.",
+                             "translation":  "学生应该理解 weather 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use weather.",
+                             "translation":  "这个例句展示如何使用 weather。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to weather",
+        "chinese":  "weather 常用词义"
+    },
+    {
+        "word":  "wonderful",
+        "id":  "V_JUNIOR_028",
+        "forms":  {
+                      "past_participle":  "wonderfuled",
+                      "third_person":  "wonderfuls",
+                      "past":  "wonderfuled",
+                      "ing":  "wonderfuling",
+                      "base":  "wonderful"
+                  },
+        "word_family":  {
+                            "noun":  "wonderful",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "wonderful"
+                        },
+        "common_collocations":  [
+                                    "wonderful skills",
+                                    "wonderful clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 wonderful 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word wonderful.",
+                             "translation":  "学生应该理解 wonderful 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use wonderful.",
+                             "translation":  "这个例句展示如何使用 wonderful。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to wonderful",
+        "chinese":  "wonderful 常用词义"
+    },
+    {
+        "word":  "possible",
+        "id":  "V_JUNIOR_029",
+        "forms":  {
+                      "past_participle":  "possibled",
+                      "third_person":  "possibles",
+                      "past":  "possibled",
+                      "ing":  "possibling",
+                      "base":  "possible"
+                  },
+        "word_family":  {
+                            "noun":  "possible",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "possible"
+                        },
+        "common_collocations":  [
+                                    "possible skills",
+                                    "possible clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 possible 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word possible.",
+                             "translation":  "学生应该理解 possible 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use possible.",
+                             "translation":  "这个例句展示如何使用 possible。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to possible",
+        "chinese":  "possible 常用词义"
+    },
+    {
+        "word":  "prepare",
+        "id":  "V_JUNIOR_030",
+        "forms":  {
+                      "past_participle":  "prepared",
+                      "third_person":  "prepares",
+                      "past":  "prepared",
+                      "ing":  "preparing",
+                      "base":  "prepare"
+                  },
+        "word_family":  {
+                            "noun":  "prepare",
+                            "adverb":  "",
+                            "adjective":  "",
+                            "verb":  "prepare"
+                        },
+        "common_collocations":  [
+                                    "prepare skills",
+                                    "prepare clearly"
+                                ],
+        "tags":  [
+                     "junior",
+                     "common"
+                 ],
+        "level":  "junior",
+        "common_error":  "注意 prepare 的词性与句中位置。",
+        "examples":  [
+                         {
+                             "sentence":  "Students should understand the word prepare.",
+                             "translation":  "学生应该理解 prepare 这个词。"
+                         },
+                         {
+                             "sentence":  "This example shows how to use prepare.",
+                             "translation":  "这个例句展示如何使用 prepare。"
+                         }
+                     ],
+        "part_of_speech":  [
+                               "word"
+                           ],
+        "simple_definition":  "a common English word related to prepare",
+        "chinese":  "prepare 常用词义"
+    }
+]
