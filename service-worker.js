@@ -1,4 +1,4 @@
-const CACHE_NAME = "silvia-toeic-lab-v5";
+const CACHE_NAME = "family-english-trainer-v6";
 const APP_FILES = [
   "./",
   "./index.html",
@@ -8,6 +8,23 @@ const APP_FILES = [
   "./questions.json",
   "./manifest.webmanifest",
   "./icon.svg"
+  ,"./icon-192.png"
+  ,"./icon-512.png"
+  ,"./data/users.json"
+  ,"./data/knowledge_common.json"
+  ,"./data/knowledge_toeic.json"
+  ,"./data/knowledge_gsat.json"
+  ,"./data/knowledge_junior.json"
+  ,"./data/questions_toeic.json"
+  ,"./data/questions_gsat.json"
+  ,"./data/questions_junior.json"
+  ,"./data/vocab_gsat.json"
+  ,"./data/vocab_junior.json"
+  ,"./data/vocab_toeic.json"
+  ,"./data/knowledge_tree.json"
+  ,"./data/reading_toeic.json"
+  ,"./data/reading_gsat.json"
+  ,"./data/reading_junior.json"
 ];
 
 self.addEventListener("install", (event) => {
