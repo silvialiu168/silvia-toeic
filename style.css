@@ -161,6 +161,58 @@ select {
   color: var(--wrong);
 }
 
+.mode-button.weak {
+  color: var(--accent-dark);
+}
+
+.weak-summary {
+  margin-bottom: 10px;
+  padding: 9px 12px;
+  background: #fff8f2;
+  border: 1px solid #f0d4c1;
+  border-radius: 10px;
+  font-size: 0.82rem;
+}
+
+.weakest-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 5px;
+}
+
+.weakest-list span {
+  padding: 3px 7px;
+  color: var(--wrong);
+  background: white;
+  border-radius: 999px;
+}
+
+.category-dashboard {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 7px;
+  margin: 10px 0;
+}
+
+.category-dashboard div {
+  padding: 7px;
+  text-align: center;
+  background: #f7f9fb;
+  border-radius: 8px;
+}
+
+.category-dashboard span,
+.category-dashboard small {
+  display: block;
+  color: var(--muted);
+  font-size: 0.7rem;
+}
+
+.category-dashboard strong {
+  color: var(--navy-light);
+}
+
 .mode-button.install {
   color: white;
   background: var(--correct);
@@ -251,6 +303,11 @@ select {
 .mastery-row b {
   color: var(--navy-light);
   text-align: right;
+}
+
+.mastery-row b small {
+  display: block;
+  white-space: nowrap;
 }
 
 .quiz-card,
@@ -573,6 +630,14 @@ footer {
     grid-template-columns: minmax(120px, 1.5fr) 1fr 38px;
     gap: 6px;
     font-size: 0.75rem;
+  }
+
+  .weak-summary {
+    padding: 6px 8px;
+  }
+
+  .category-dashboard {
+    grid-template-columns: repeat(2, 1fr);
   }
 
   .quiz-card {
