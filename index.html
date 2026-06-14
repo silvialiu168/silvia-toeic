@@ -39,19 +39,25 @@
       <div class="practice-modes" role="group" aria-label="练习范围">
         <button id="allQuestionsButton" class="mode-button active" type="button">练习全部题目</button>
         <button id="mistakesButton" class="mode-button" type="button">只练错题</button>
+        <button id="weakButton" class="mode-button weak" type="button">练习薄弱知识点</button>
         <button id="clearMistakesButton" class="mode-button danger" type="button">清空错题本</button>
         <button id="installButton" class="mode-button install hidden" type="button">安装到手机</button>
       </div>
       <span id="questionCount" class="question-count"></span>
       <span id="connectionStatus" class="connection-status">在线</span>
     </section>
+    <section class="weak-summary">
+      <strong>最薄弱的 5 个知识点</strong>
+      <div id="weakestList" class="weakest-list"></div>
+    </section>
     <details class="mastery-panel">
       <summary>
-        <span>知识点完成度</span>
+        <span>知识点掌握度 Dashboard</span>
         <strong id="masteryPercent">0%</strong>
         <span class="mastery-track"><span id="masteryBar"></span></span>
       </summary>
-      <p class="mastery-note">按照 TOEIC Part 5 常见考点权重，并结合练习次数、正确率和近期表现计算。</p>
+      <p class="mastery-note">熟悉度目前等于正确率；作答不足 3 次时显示“样本不足”。</p>
+      <div id="categoryDashboard" class="category-dashboard"></div>
       <div id="masteryList" class="mastery-list"></div>
     </details>
 
