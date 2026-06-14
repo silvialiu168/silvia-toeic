@@ -1,4 +1,4 @@
-const CACHE_NAME = "silvia-toeic-lab-v2";
+const CACHE_NAME = "silvia-toeic-lab-v5";
 const APP_FILES = [
   "./",
   "./index.html",
