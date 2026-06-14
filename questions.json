@@ -1,0 +1,884 @@
+[
+  {
+    "id": 1,
+    "question": "The receptionist greeted every visitor _____.",
+    "options": [
+      "courteous",
+      "courteously",
+      "courtesy",
+      "courteousness"
+    ],
+    "answer": 1,
+    "explanation": "动词 / 形容词 + 副词。副词用于说明动作如何发生，或修饰形容词。 本题正确答案是 “courteously”。",
+    "knowledge_id": "pos-adverb",
+    "category": "词性判断"
+  },
+  {
+    "id": 2,
+    "question": "The revised software operates much more _____ than the previous version.",
+    "options": [
+      "efficient",
+      "efficiency",
+      "efficiently",
+      "efficiencies"
+    ],
+    "answer": 2,
+    "explanation": "动词 / 形容词 + 副词。副词用于说明动作如何发生，或修饰形容词。 本题正确答案是 “efficiently”。",
+    "knowledge_id": "pos-adverb",
+    "category": "词性判断"
+  },
+  {
+    "id": 3,
+    "question": "Please read the warranty terms _____ before signing the form.",
+    "options": [
+      "careful",
+      "carefully",
+      "care",
+      "carefulness"
+    ],
+    "answer": 1,
+    "explanation": "动词 / 形容词 + 副词。副词用于说明动作如何发生，或修饰形容词。 本题正确答案是 “carefully”。",
+    "knowledge_id": "pos-adverb",
+    "category": "词性判断"
+  },
+  {
+    "id": 4,
+    "question": "Ms. Patel's _____ of the budget helped the team reduce costs.",
+    "options": [
+      "review",
+      "reviewed",
+      "reviewing",
+      "reviewable"
+    ],
+    "answer": 0,
+    "explanation": "冠词 / 所有格 + 名词。冠词 a、an、the 或所有格后通常接名词。 本题正确答案是 “review”。",
+    "knowledge_id": "pos-noun",
+    "category": "词性判断"
+  },
+  {
+    "id": 5,
+    "question": "The committee reached a _____ after reviewing all proposals.",
+    "options": [
+      "decide",
+      "decisive",
+      "decision",
+      "decisively"
+    ],
+    "answer": 2,
+    "explanation": "冠词 / 所有格 + 名词。冠词 a、an、the 或所有格后通常接名词。 本题正确答案是 “decision”。",
+    "knowledge_id": "pos-noun",
+    "category": "词性判断"
+  },
+  {
+    "id": 6,
+    "question": "Our _____ of the new branch will begin next week.",
+    "options": [
+      "inspect",
+      "inspection",
+      "inspective",
+      "inspecting"
+    ],
+    "answer": 1,
+    "explanation": "冠词 / 所有格 + 名词。冠词 a、an、the 或所有格后通常接名词。 本题正确答案是 “inspection”。",
+    "knowledge_id": "pos-noun",
+    "category": "词性判断"
+  },
+  {
+    "id": 7,
+    "question": "The updated employee handbook is now _____ online.",
+    "options": [
+      "availability",
+      "avail",
+      "available",
+      "availably"
+    ],
+    "answer": 2,
+    "explanation": "be / seem / become + 形容词。连系动词后常用形容词说明主语的状态或特征。 本题正确答案是 “available”。",
+    "knowledge_id": "pos-adjective",
+    "category": "词性判断"
+  },
+  {
+    "id": 8,
+    "question": "Customers were _____ with the speed of the repair service.",
+    "options": [
+      "satisfaction",
+      "satisfy",
+      "satisfied",
+      "satisfactorily"
+    ],
+    "answer": 2,
+    "explanation": "be / seem / become + 形容词。连系动词后常用形容词说明主语的状态或特征。 本题正确答案是 “satisfied”。",
+    "knowledge_id": "pos-adjective",
+    "category": "词性判断"
+  },
+  {
+    "id": 9,
+    "question": "The instructions for submitting expenses are _____ and easy to follow.",
+    "options": [
+      "clarity",
+      "clearly",
+      "clarify",
+      "clear"
+    ],
+    "answer": 3,
+    "explanation": "be / seem / become + 形容词。连系动词后常用形容词说明主语的状态或特征。 本题正确答案是 “clear”。",
+    "knowledge_id": "pos-adjective",
+    "category": "词性判断"
+  },
+  {
+    "id": 10,
+    "question": "The annual awards ceremony will be held _____ November 18.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "for"
+    ],
+    "answer": 1,
+    "explanation": "at + 时间点；on + 日期；in + 月份/年份。具体时间点常用 at，日期或星期常用 on，月份、年份或较长期间常用 in。 本题正确答案是 “on”。",
+    "knowledge_id": "prep-time",
+    "category": "前置词"
+  },
+  {
+    "id": 11,
+    "question": "The accounting department closes _____ 6:00 P.M. on Fridays.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "during"
+    ],
+    "answer": 0,
+    "explanation": "at + 时间点；on + 日期；in + 月份/年份。具体时间点常用 at，日期或星期常用 on，月份、年份或较长期间常用 in。 本题正确答案是 “at”。",
+    "knowledge_id": "prep-time",
+    "category": "前置词"
+  },
+  {
+    "id": 12,
+    "question": "Construction of the new warehouse began _____ 2025.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "by"
+    ],
+    "answer": 2,
+    "explanation": "at + 时间点；on + 日期；in + 月份/年份。具体时间点常用 at，日期或星期常用 on，月份、年份或较长期间常用 in。 本题正确答案是 “in”。",
+    "knowledge_id": "prep-time",
+    "category": "前置词"
+  },
+  {
+    "id": 13,
+    "question": "The auditorium has been reserved _____ the product launch.",
+    "options": [
+      "for",
+      "from",
+      "with",
+      "among"
+    ],
+    "answer": 0,
+    "explanation": "for + 名词。for 后接名词时，可以表示目的、用途或对象。 本题正确答案是 “for”。",
+    "knowledge_id": "prep-purpose",
+    "category": "前置词"
+  },
+  {
+    "id": 14,
+    "question": "This discount is available _____ first-time customers.",
+    "options": [
+      "beside",
+      "for",
+      "during",
+      "upon"
+    ],
+    "answer": 1,
+    "explanation": "for + 名词。for 后接名词时，可以表示目的、用途或对象。 本题正确答案是 “for”。",
+    "knowledge_id": "prep-purpose",
+    "category": "前置词"
+  },
+  {
+    "id": 15,
+    "question": "The attached guide provides instructions _____ new employees.",
+    "options": [
+      "of",
+      "at",
+      "for",
+      "between"
+    ],
+    "answer": 2,
+    "explanation": "for + 名词。for 后接名词时，可以表示目的、用途或对象。 本题正确答案是 “for”。",
+    "knowledge_id": "prep-purpose",
+    "category": "前置词"
+  },
+  {
+    "id": 16,
+    "question": "_____ the office was closed, the support team answered calls remotely.",
+    "options": [
+      "Despite",
+      "Although",
+      "Because of",
+      "Unless"
+    ],
+    "answer": 1,
+    "explanation": "although + S + V。although 后接完整句子，表示“虽然”；despite 后接名词。 本题正确答案是 “Although”。",
+    "knowledge_id": "conj-contrast",
+    "category": "连接词"
+  },
+  {
+    "id": 17,
+    "question": "_____ demand was lower than expected, the company met its sales target.",
+    "options": [
+      "Although",
+      "During",
+      "Despite",
+      "Because of"
+    ],
+    "answer": 0,
+    "explanation": "although + S + V。although 后接完整句子，表示“虽然”；despite 后接名词。 本题正确答案是 “Although”。",
+    "knowledge_id": "conj-contrast",
+    "category": "连接词"
+  },
+  {
+    "id": 18,
+    "question": "_____ the printer is inexpensive, it produces high-quality images.",
+    "options": [
+      "Despite",
+      "Although",
+      "Since of",
+      "In spite"
+    ],
+    "answer": 1,
+    "explanation": "although + S + V。although 后接完整句子，表示“虽然”；despite 后接名词。 本题正确答案是 “Although”。",
+    "knowledge_id": "conj-contrast",
+    "category": "连接词"
+  },
+  {
+    "id": 19,
+    "question": "The delivery was delayed _____ a highway had been closed.",
+    "options": [
+      "because",
+      "because of",
+      "although",
+      "despite"
+    ],
+    "answer": 0,
+    "explanation": "because + S + V；because of + 名词。because 后接完整句子说明原因；because of 后接名词或名词短语。 本题正确答案是 “because”。",
+    "knowledge_id": "conj-cause",
+    "category": "连接词"
+  },
+  {
+    "id": 20,
+    "question": "We extended the registration period _____ many employees requested more time.",
+    "options": [
+      "yet",
+      "because",
+      "whereas",
+      "unless"
+    ],
+    "answer": 1,
+    "explanation": "because + S + V；because of + 名词。because 后接完整句子说明原因；because of 后接名词或名词短语。 本题正确答案是 “because”。",
+    "knowledge_id": "conj-cause",
+    "category": "连接词"
+  },
+  {
+    "id": 21,
+    "question": "The meeting room was changed _____ the original room was too small.",
+    "options": [
+      "despite",
+      "because of",
+      "because",
+      "although of"
+    ],
+    "answer": 2,
+    "explanation": "because + S + V；because of + 名词。because 后接完整句子说明原因；because of 后接名词或名词短语。 本题正确答案是 “because”。",
+    "knowledge_id": "conj-cause",
+    "category": "连接词"
+  },
+  {
+    "id": 22,
+    "question": "We will issue a receipt after the payment _____.",
+    "options": [
+      "arrives",
+      "will arrive",
+      "arrived",
+      "arriving"
+    ],
+    "answer": 0,
+    "explanation": "when / before / after / as soon as + 现在式。谈论未来时，时间副词子句通常用现在式代替 will。 本题正确答案是 “arrives”。",
+    "knowledge_id": "time-clause",
+    "category": "时间副词子句"
+  },
+  {
+    "id": 23,
+    "question": "Before Ms. Lopez _____ the contract, she will consult the legal team.",
+    "options": [
+      "will sign",
+      "signs",
+      "signed",
+      "signing"
+    ],
+    "answer": 1,
+    "explanation": "when / before / after / as soon as + 现在式。谈论未来时，时间副词子句通常用现在式代替 will。 本题正确答案是 “signs”。",
+    "knowledge_id": "time-clause",
+    "category": "时间副词子句"
+  },
+  {
+    "id": 24,
+    "question": "The technicians will begin work as soon as the replacement part _____.",
+    "options": [
+      "will arrive",
+      "arrive",
+      "arrives",
+      "arrived"
+    ],
+    "answer": 2,
+    "explanation": "when / before / after / as soon as + 现在式。谈论未来时，时间副词子句通常用现在式代替 will。 本题正确答案是 “arrives”。",
+    "knowledge_id": "time-clause",
+    "category": "时间副词子句"
+  },
+  {
+    "id": 25,
+    "question": "The schedule of training sessions _____ posted near the elevator.",
+    "options": [
+      "are",
+      "is",
+      "have",
+      "were"
+    ],
+    "answer": 1,
+    "explanation": "单数主语 + 单数动词。主语中心词为单数时，动词使用单数形式；介词短语不改变主语单复数。 本题正确答案是 “is”。",
+    "knowledge_id": "agreement-singular",
+    "category": "主谓一致"
+  },
+  {
+    "id": 26,
+    "question": "A collection of customer comments _____ included in the report.",
+    "options": [
+      "is",
+      "are",
+      "have",
+      "being"
+    ],
+    "answer": 0,
+    "explanation": "单数主语 + 单数动词。主语中心词为单数时，动词使用单数形式；介词短语不改变主语单复数。 本题正确答案是 “is”。",
+    "knowledge_id": "agreement-singular",
+    "category": "主谓一致"
+  },
+  {
+    "id": 27,
+    "question": "The quality of these materials _____ our high standards.",
+    "options": [
+      "meet",
+      "meets",
+      "meeting",
+      "have met"
+    ],
+    "answer": 1,
+    "explanation": "单数主语 + 单数动词。主语中心词为单数时，动词使用单数形式；介词短语不改变主语单复数。 本题正确答案是 “meets”。",
+    "knowledge_id": "agreement-singular",
+    "category": "主谓一致"
+  },
+  {
+    "id": 28,
+    "question": "Each of the applicants _____ two professional references.",
+    "options": [
+      "provide",
+      "provides",
+      "providing",
+      "have provided"
+    ],
+    "answer": 1,
+    "explanation": "each / every + 单数动词。each、every、everyone 等表达在语法上通常视为单数。 本题正确答案是 “provides”。",
+    "knowledge_id": "agreement-each",
+    "category": "主谓一致"
+  },
+  {
+    "id": 29,
+    "question": "Every conference room _____ a video display.",
+    "options": [
+      "have",
+      "are having",
+      "has",
+      "having"
+    ],
+    "answer": 2,
+    "explanation": "each / every + 单数动词。each、every、everyone 等表达在语法上通常视为单数。 本题正确答案是 “has”。",
+    "knowledge_id": "agreement-each",
+    "category": "主谓一致"
+  },
+  {
+    "id": 30,
+    "question": "Each employee _____ responsible for updating the contact list.",
+    "options": [
+      "is",
+      "are",
+      "have",
+      "be"
+    ],
+    "answer": 0,
+    "explanation": "each / every + 单数动词。each、every、everyone 等表达在语法上通常视为单数。 本题正确答案是 “is”。",
+    "knowledge_id": "agreement-each",
+    "category": "主谓一致"
+  },
+  {
+    "id": 31,
+    "question": "Applicants _____ have relevant experience will be contacted first.",
+    "options": [
+      "which",
+      "who",
+      "whose",
+      "whom"
+    ],
+    "answer": 1,
+    "explanation": "人 + who + V。先行词是人，且空格在关系子句中作主语时，使用 who。 本题正确答案是 “who”。",
+    "knowledge_id": "relative-person",
+    "category": "关系代名词"
+  },
+  {
+    "id": 32,
+    "question": "The consultant _____ prepared the report will present it tomorrow.",
+    "options": [
+      "who",
+      "which",
+      "whom",
+      "whose"
+    ],
+    "answer": 0,
+    "explanation": "人 + who + V。先行词是人，且空格在关系子句中作主语时，使用 who。 本题正确答案是 “who”。",
+    "knowledge_id": "relative-person",
+    "category": "关系代名词"
+  },
+  {
+    "id": 33,
+    "question": "Customers _____ subscribe this month will receive a discount.",
+    "options": [
+      "whom",
+      "whose",
+      "which",
+      "who"
+    ],
+    "answer": 3,
+    "explanation": "人 + who + V。先行词是人，且空格在关系子句中作主语时，使用 who。 本题正确答案是 “who”。",
+    "knowledge_id": "relative-person",
+    "category": "关系代名词"
+  },
+  {
+    "id": 34,
+    "question": "Employees _____ badges have expired should visit the security desk.",
+    "options": [
+      "who",
+      "whose",
+      "which",
+      "whom"
+    ],
+    "answer": 1,
+    "explanation": "whose + 名词。whose 后接名词，表示该名词属于前面提到的人或事物。 本题正确答案是 “whose”。",
+    "knowledge_id": "relative-whose",
+    "category": "关系代名词"
+  },
+  {
+    "id": 35,
+    "question": "The supplier _____ products passed inspection received a new contract.",
+    "options": [
+      "whose",
+      "who",
+      "which",
+      "whom"
+    ],
+    "answer": 0,
+    "explanation": "whose + 名词。whose 后接名词，表示该名词属于前面提到的人或事物。 本题正确答案是 “whose”。",
+    "knowledge_id": "relative-whose",
+    "category": "关系代名词"
+  },
+  {
+    "id": 36,
+    "question": "We thanked the volunteers _____ efforts made the event successful.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "answer": 2,
+    "explanation": "whose + 名词。whose 后接名词，表示该名词属于前面提到的人或事物。 本题正确答案是 “whose”。",
+    "knowledge_id": "relative-whose",
+    "category": "关系代名词"
+  },
+  {
+    "id": 37,
+    "question": "Ms. Hall is responsible _____ preparing the weekly sales report.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "at"
+    ],
+    "answer": 1,
+    "explanation": "be responsible for + 名词 / V-ing。be responsible for 表示“负责……”，for 后接名词或 V-ing。 本题正确答案是 “for”。",
+    "knowledge_id": "collocation-responsible",
+    "category": "固定搭配"
+  },
+  {
+    "id": 38,
+    "question": "The maintenance team is responsible for _____ the elevators.",
+    "options": [
+      "inspect",
+      "inspected",
+      "inspecting",
+      "inspection"
+    ],
+    "answer": 2,
+    "explanation": "be responsible for + 名词 / V-ing。be responsible for 表示“负责……”，for 后接名词或 V-ing。 本题正确答案是 “inspecting”。",
+    "knowledge_id": "collocation-responsible",
+    "category": "固定搭配"
+  },
+  {
+    "id": 39,
+    "question": "Who is responsible _____ approving travel requests?",
+    "options": [
+      "for",
+      "to",
+      "by",
+      "from"
+    ],
+    "answer": 0,
+    "explanation": "be responsible for + 名词 / V-ing。be responsible for 表示“负责……”，for 后接名词或 V-ing。 本题正确答案是 “for”。",
+    "knowledge_id": "collocation-responsible",
+    "category": "固定搭配"
+  },
+  {
+    "id": 40,
+    "question": "Please notify the hotel at least 24 hours in _____.",
+    "options": [
+      "front",
+      "advance",
+      "early",
+      "priority"
+    ],
+    "answer": 1,
+    "explanation": "in advance。in advance 表示“提前”。 本题正确答案是 “advance”。",
+    "knowledge_id": "collocation-in-advance",
+    "category": "固定搭配"
+  },
+  {
+    "id": 41,
+    "question": "Meeting materials will be distributed in _____ so participants can prepare.",
+    "options": [
+      "advanced",
+      "advance",
+      "advancing",
+      "advancement"
+    ],
+    "answer": 1,
+    "explanation": "in advance。in advance 表示“提前”。 本题正确答案是 “advance”。",
+    "knowledge_id": "collocation-in-advance",
+    "category": "固定搭配"
+  },
+  {
+    "id": 42,
+    "question": "Employees should request vacation time well in _____.",
+    "options": [
+      "before",
+      "forward",
+      "advance",
+      "ahead"
+    ],
+    "answer": 2,
+    "explanation": "in advance。in advance 表示“提前”。 本题正确答案是 “advance”。",
+    "knowledge_id": "collocation-in-advance",
+    "category": "固定搭配"
+  },
+  {
+    "id": 43,
+    "question": "The human resources department will _____ qualified candidates next week.",
+    "options": [
+      "interview",
+      "transport",
+      "invoice",
+      "manufacture"
+    ],
+    "answer": 0,
+    "explanation": "商务场景 + 合适词义。根据采购、会议、人事、运输等商务场景，选择最符合上下文的词。 本题正确答案是 “interview”。",
+    "knowledge_id": "business-vocab",
+    "category": "商务词汇"
+  },
+  {
+    "id": 44,
+    "question": "Please attach all original _____ when submitting an expense report.",
+    "options": [
+      "receipts",
+      "shipments",
+      "vacancies",
+      "brochures"
+    ],
+    "answer": 0,
+    "explanation": "商务场景 + 合适词义。根据采购、会议、人事、运输等商务场景，选择最符合上下文的词。 本题正确答案是 “receipts”。",
+    "knowledge_id": "business-vocab",
+    "category": "商务词汇"
+  },
+  {
+    "id": 45,
+    "question": "The supplier offered a ten percent _____ for orders over 500 units.",
+    "options": [
+      "agenda",
+      "discount",
+      "candidate",
+      "warranty"
+    ],
+    "answer": 1,
+    "explanation": "商务场景 + 合适词义。根据采购、会议、人事、运输等商务场景，选择最符合上下文的词。 本题正确答案是 “discount”。",
+    "knowledge_id": "business-vocab",
+    "category": "商务词汇"
+  },
+  {
+    "id": 46,
+    "question": "The research team is dedicated to _____ safer packaging materials.",
+    "options": [
+      "develop",
+      "developed",
+      "developing",
+      "development"
+    ],
+    "answer": 2,
+    "explanation": "be dedicated to + V-ing。to 是前置词，后面接 V-ing。 本题正确答案是 “developing”。",
+    "knowledge_id": "dedicated-to-doing",
+    "category": "固定搭配"
+  },
+  {
+    "id": 47,
+    "question": "Our staff members are dedicated to _____ every customer promptly.",
+    "options": [
+      "assist",
+      "assisting",
+      "assisted",
+      "be assisted"
+    ],
+    "answer": 1,
+    "explanation": "be dedicated to + V-ing。to 是前置词，后面接 V-ing。 本题正确答案是 “assisting”。",
+    "knowledge_id": "dedicated-to-doing",
+    "category": "固定搭配"
+  },
+  {
+    "id": 48,
+    "question": "The organization is dedicated to _____ waste in its offices.",
+    "options": [
+      "reduce",
+      "reduced",
+      "reducing",
+      "reduction"
+    ],
+    "answer": 2,
+    "explanation": "be dedicated to + V-ing。to 是前置词，后面接 V-ing。 本题正确答案是 “reducing”。",
+    "knowledge_id": "dedicated-to-doing",
+    "category": "固定搭配"
+  },
+  {
+    "id": 49,
+    "question": "The directors have yet to _____ the revised budget.",
+    "options": [
+      "approve",
+      "approved",
+      "approving",
+      "approval"
+    ],
+    "answer": 0,
+    "explanation": "have / has yet to + 原形动词。表示尚未做某事。 本题正确答案是 “approve”。",
+    "knowledge_id": "have-yet-to-do",
+    "category": "固定搭配"
+  },
+  {
+    "id": 50,
+    "question": "Ms. Green has yet to _____ her travel schedule.",
+    "options": [
+      "confirmed",
+      "confirming",
+      "confirmation",
+      "confirm"
+    ],
+    "answer": 3,
+    "explanation": "have / has yet to + 原形动词。表示尚未做某事。 本题正确答案是 “confirm”。",
+    "knowledge_id": "have-yet-to-do",
+    "category": "固定搭配"
+  },
+  {
+    "id": 51,
+    "question": "The supplier has yet to _____ our request for a price estimate.",
+    "options": [
+      "answer",
+      "answered",
+      "answering",
+      "answers"
+    ],
+    "answer": 0,
+    "explanation": "have / has yet to + 原形动词。表示尚未做某事。 本题正确答案是 “answer”。",
+    "knowledge_id": "have-yet-to-do",
+    "category": "固定搭配"
+  },
+  {
+    "id": 52,
+    "question": "The sales director, along with two assistants, _____ visiting the branch today.",
+    "options": [
+      "are",
+      "is",
+      "have",
+      "were"
+    ],
+    "answer": 1,
+    "explanation": "A along with B + 与 A 一致的动词。主谓一致看 A，along with B 不改变主语的单复数。 本题正确答案是 “is”。",
+    "knowledge_id": "along-with-agreement",
+    "category": "主谓一致"
+  },
+  {
+    "id": 53,
+    "question": "The new printer, along with several ink cartridges, _____ tomorrow.",
+    "options": [
+      "arrive",
+      "arrives",
+      "are arriving",
+      "have arrived"
+    ],
+    "answer": 1,
+    "explanation": "A along with B + 与 A 一致的动词。主谓一致看 A，along with B 不改变主语的单复数。 本题正确答案是 “arrives”。",
+    "knowledge_id": "along-with-agreement",
+    "category": "主谓一致"
+  },
+  {
+    "id": 54,
+    "question": "Ms. Evans, along with her colleagues, _____ prepared a proposal.",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "answer": 1,
+    "explanation": "A along with B + 与 A 一致的动词。主谓一致看 A，along with B 不改变主语的单复数。 本题正确答案是 “has”。",
+    "knowledge_id": "along-with-agreement",
+    "category": "主谓一致"
+  },
+  {
+    "id": 55,
+    "question": "All equipment must be inspected prior to _____ shipped.",
+    "options": [
+      "be",
+      "being",
+      "been",
+      "is"
+    ],
+    "answer": 1,
+    "explanation": "prior to + 名词 / V-ing。prior to 是前置词，后面接名词或 V-ing。 本题正确答案是 “being”。",
+    "knowledge_id": "prior-to",
+    "category": "前置词"
+  },
+  {
+    "id": 56,
+    "question": "Visitors must obtain a badge prior to _____ the laboratory.",
+    "options": [
+      "enter",
+      "entered",
+      "entering",
+      "enters"
+    ],
+    "answer": 2,
+    "explanation": "prior to + 名词 / V-ing。prior to 是前置词，后面接名词或 V-ing。 本题正确答案是 “entering”。",
+    "knowledge_id": "prior-to",
+    "category": "前置词"
+  },
+  {
+    "id": 57,
+    "question": "The final schedule will be shared prior to the _____.",
+    "options": [
+      "meet",
+      "meeting",
+      "met",
+      "meets"
+    ],
+    "answer": 1,
+    "explanation": "prior to + 名词 / V-ing。prior to 是前置词，后面接名词或 V-ing。 本题正确答案是 “meeting”。",
+    "knowledge_id": "prior-to",
+    "category": "前置词"
+  },
+  {
+    "id": 58,
+    "question": "The downtown store opens at 8:00, _____ the airport location opens at 6:00.",
+    "options": [
+      "despite",
+      "whereas",
+      "because of",
+      "during"
+    ],
+    "answer": 1,
+    "explanation": "whereas + S + V。whereas 是连接词，连接两个完整句子，表示对比。 本题正确答案是 “whereas”。",
+    "knowledge_id": "whereas-clause",
+    "category": "连接词"
+  },
+  {
+    "id": 59,
+    "question": "Paper applications take several days to process, _____ online forms are reviewed immediately.",
+    "options": [
+      "whereas",
+      "unless",
+      "because of",
+      "despite"
+    ],
+    "answer": 0,
+    "explanation": "whereas + S + V。whereas 是连接词，连接两个完整句子，表示对比。 本题正确答案是 “whereas”。",
+    "knowledge_id": "whereas-clause",
+    "category": "连接词"
+  },
+  {
+    "id": 60,
+    "question": "The basic plan covers repairs, _____ the premium plan includes replacement service.",
+    "options": [
+      "in spite of",
+      "whereas",
+      "during",
+      "because of"
+    ],
+    "answer": 1,
+    "explanation": "whereas + S + V。whereas 是连接词，连接两个完整句子，表示对比。 本题正确答案是 “whereas”。",
+    "knowledge_id": "whereas-clause",
+    "category": "连接词"
+  },
+  {
+    "id": 61,
+    "question": "_____ submits the lowest qualified bid will receive the contract.",
+    "options": [
+      "Whoever",
+      "Whomever",
+      "Which",
+      "Who"
+    ],
+    "answer": 0,
+    "explanation": "whoever + V。whoever 等于 anyone who，可引导主语从句。 本题正确答案是 “Whoever”。",
+    "knowledge_id": "whoever-subject",
+    "category": "关系代名词"
+  },
+  {
+    "id": 62,
+    "question": "_____ is assigned to the front desk should greet all visitors.",
+    "options": [
+      "Whom",
+      "Whoever",
+      "Which employee",
+      "Whose"
+    ],
+    "answer": 1,
+    "explanation": "whoever + V。whoever 等于 anyone who，可引导主语从句。 本题正确答案是 “Whoever”。",
+    "knowledge_id": "whoever-subject",
+    "category": "关系代名词"
+  },
+  {
+    "id": 63,
+    "question": "_____ completes the survey will receive a confirmation email.",
+    "options": [
+      "Whomever",
+      "Who",
+      "Whoever",
+      "Which"
+    ],
+    "answer": 2,
+    "explanation": "whoever + V。whoever 等于 anyone who，可引导主语从句。 本题正确答案是 “Whoever”。",
+    "knowledge_id": "whoever-subject",
+    "category": "关系代名词"
+  }
+]
