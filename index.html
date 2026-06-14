@@ -2,104 +2,52 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="本地 TOEIC Part 5 练习工具">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#17324d">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="default">
-  <meta name="apple-mobile-web-app-title" content="Silvia TOEIC Lab">
-  <title>Silvia TOEIC Lab</title>
+  <title>Family English Challenge</title>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header class="site-header">
-    <div class="header-inner">
-      <div>
-        <p class="eyebrow">Daily Practice</p>
-        <h1>Silvia TOEIC Lab</h1>
-        <p class="subtitle">错得多的多练，稳定掌握的少练。</p>
-      </div>
-      <div class="stats-grid" aria-live="polite">
-        <div class="stat-card"><span>总题数</span><strong id="totalCount">0</strong></div>
-        <div class="stat-card"><span>已答题数</span><strong id="answeredCount">0</strong></div>
-        <div class="stat-card"><span>正确率</span><strong id="accuracy">0%</strong></div>
-        <div class="stat-card"><span>错题数量</span><strong id="mistakeCount">0</strong></div>
-      </div>
-    </div>
+  <header>
+    <button id="homeButton" class="ghost hidden">Dashboard</button>
+    <div><small>LIU FAMILY</small><h1 id="pageTitle">Family English Challenge</h1></div>
+    <button id="installButton" class="ghost hidden">安装</button>
   </header>
 
-  <main class="page-shell">
-    <section class="toolbar" aria-label="练习设置">
-      <label for="categorySelect">练习分类</label>
-      <select id="categorySelect">
-        <option value="全部">全部分类</option>
-      </select>
-      <div class="practice-modes" role="group" aria-label="练习范围">
-        <button id="allQuestionsButton" class="mode-button active" type="button">练习全部题目</button>
-        <button id="mistakesButton" class="mode-button" type="button">只练错题</button>
-        <button id="weakButton" class="mode-button weak" type="button">练习薄弱知识点</button>
-        <button id="clearMistakesButton" class="mode-button danger" type="button">清空错题本</button>
-        <button id="installButton" class="mode-button install hidden" type="button">安装到手机</button>
+  <main>
+    <section id="familyView">
+      <div class="hero">
+        <p>一起练习，一起进步</p>
+        <div class="family-score"><strong id="completedToday">0</strong><span>今日完成人数</span></div>
       </div>
-      <span id="questionCount" class="question-count"></span>
-      <span id="connectionStatus" class="connection-status">在线</span>
-    </section>
-    <section class="weak-summary">
-      <strong>最薄弱的 5 个知识点</strong>
-      <div id="weakestList" class="weakest-list"></div>
-    </section>
-    <details class="mastery-panel">
-      <summary>
-        <span>知识点掌握度 Dashboard</span>
-        <strong id="masteryPercent">0%</strong>
-        <span class="mastery-track"><span id="masteryBar"></span></span>
-      </summary>
-      <p class="mastery-note">熟悉度目前等于正确率；作答不足 3 次时显示“样本不足”。</p>
-      <div id="categoryDashboard" class="category-dashboard"></div>
-      <div id="masteryList" class="mastery-list"></div>
-    </details>
-
-    <section id="loadingState" class="status-panel">正在载入题目...</section>
-    <section id="errorState" class="status-panel error-panel hidden"></section>
-
-    <article id="quizCard" class="quiz-card hidden">
-      <div class="quiz-meta">
-        <span id="categoryBadge" class="category-badge"></span>
-        <span id="progressText"></span>
-      </div>
-
-      <p id="questionText" class="question-text"></p>
-      <div id="options" class="options" role="group" aria-label="答案选项"></div>
-
-      <section id="feedback" class="feedback hidden" aria-live="polite">
-        <div id="resultBanner" class="result-banner"></div>
-        <button id="showExplanationButton" class="explanation-button" type="button">查看解析</button>
-        <div id="explanationPanel" class="explanation-panel hidden">
-          <div class="answer-block">
-            <h2>中文解析</h2>
-            <p id="explanation"></p>
-          </div>
-          <div class="knowledge-block">
-            <h2>对应知识点</h2>
-            <h3 id="knowledgeFormula"></h3>
-            <dl class="knowledge-details">
-              <div><dt>规则</dt><dd id="knowledgeRule"></dd></div>
-              <div><dt>例句</dt><dd id="knowledgeExample"></dd></div>
-              <div><dt>翻译</dt><dd id="knowledgeTranslation"></dd></div>
-              <div><dt>常见错误</dt><dd id="knowledgeError"></dd></div>
-            </dl>
-            <div id="knowledgeTags" class="knowledge-tags"></div>
-          </div>
-        </div>
+      <div id="userCards" class="dashboard-users"></div>
+      <section class="panel"><h2>家庭排行榜</h2><div id="leaderboard"></div></section>
+      <section class="panel goals">
+        <h2>每日目标</h2>
+        <div><b>20</b><span>单词</span></div><div><b>20</b><span>文法</span></div><div><b>30</b><span>分钟学习</span></div>
       </section>
+      <section class="panel"><h2>家庭总挑战</h2><p id="familyChallenge"></p></section>
+      <section class="panel"><h2>家庭知识点热力图</h2><div id="heatmap" class="heatmap"></div></section>
+    </section>
 
-      <button id="nextButton" class="next-button" type="button" disabled>下一题</button>
-    </article>
+    <section id="learnerView">
+      <section id="dashboardPage" class="page active"></section>
+      <section id="learnPage" class="page"></section>
+      <section id="mistakesPage" class="page"></section>
+      <section id="growthPage" class="page"></section>
+      <section id="familyPage" class="page"></section>
+    </section>
   </main>
 
-  <footer>所有题目均为原创练习题，不采用正式教材原题。</footer>
+  <nav id="bottomNav" class="hidden">
+    <button data-page="dashboardPage" class="active">首页</button>
+    <button data-page="learnPage">练习</button>
+    <button data-page="mistakesPage">错题</button>
+    <button data-page="growthPage">成长</button>
+    <button data-page="familyPage">家庭</button>
+  </nav>
   <script src="app.js"></script>
 </body>
 </html>
