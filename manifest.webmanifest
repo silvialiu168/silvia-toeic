@@ -1,17 +1,23 @@
 {
-  "name": "Silvia TOEIC Lab",
-  "short_name": "TOEIC Lab",
-  "description": "适合通勤时使用的 TOEIC Part 5 离线练习工具",
+  "name": "Family English Challenge",
+  "short_name": "Family English",
+  "description": "Silvia、Ray 和 Sean 的家庭英语练习平台",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f7f4ed",
+  "background_color": "#f5f2ea",
   "theme_color": "#17324d",
   "icons": [
     {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ]
