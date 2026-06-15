@@ -1,57 +1,53 @@
-﻿const CACHE_NAME = "family-english-trainer-v7";
+const CACHE_NAME = "family-english-trainer-v8";
 const APP_FILES = [
   "./",
   "./index.html",
-  "./style.css",
-  "./app.js",
+  "./style.css?v=8",
+  "./app.js?v=8",
   "./knowledge.json",
   "./questions.json",
   "./manifest.webmanifest",
-  "./icon.svg"
-  ,"./icon-192.png"
-  ,"./icon-512.png"
-  ,"./data/users.json"
-  ,"./data/knowledge_common.json"
-  ,"./data/knowledge_toeic.json"
-  ,"./data/knowledge_gsat.json"
-  ,"./data/knowledge_junior.json"
-  ,"./data/questions_toeic.json"
-  ,"./data/questions_gsat.json"
-  ,"./data/questions_junior.json"
-  ,"./data/vocab_gsat.json"
-  ,"./data/vocab_junior.json"
-  ,"./data/vocab_toeic.json"
-  ,"./data/knowledge_tree.json"
-  ,"./data/reading_toeic.json"
-  ,"./data/reading_gsat.json"
-  ,"./data/reading_junior.json"
+  "./icon.svg",
+  "./icon-192.png",
+  "./icon-512.png",
+  "./data/users.json",
+  "./data/knowledge_common.json",
+  "./data/knowledge_toeic.json",
+  "./data/knowledge_gsat.json",
+  "./data/knowledge_junior.json",
+  "./data/questions_toeic.json",
+  "./data/questions_gsat.json",
+  "./data/questions_junior.json",
+  "./data/vocab_gsat.json",
+  "./data/vocab_junior.json",
+  "./data/vocab_toeic.json",
+  "./data/knowledge_tree.json",
+  "./data/reading_toeic.json",
+  "./data/reading_gsat.json",
+  "./data/reading_junior.json"
 ];
 
-self.addEventListener("install", (event) => {
-  event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(APP_FILES)));
+self.addEventListener("install", event => {
+  event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(APP_FILES)));
   self.skipWaiting();
 });
 
-self.addEventListener("activate", (event) => {
-  event.waitUntil(
-    caches.keys().then((keys) =>
-      Promise.all(keys.filter((key) => key !== CACHE_NAME).map((key) => caches.delete(key)))
-    )
-  );
+self.addEventListener("activate", event => {
+  event.waitUntil(caches.keys().then(keys =>
+    Promise.all(keys.filter(key => key !== CACHE_NAME).map(key => caches.delete(key)))
+  ));
   self.clients.claim();
 });
 
-self.addEventListener("fetch", (event) => {
+self.addEventListener("fetch", event => {
   if (event.request.method !== "GET") return;
-
   event.respondWith(
     fetch(event.request)
-      .then((response) => {
+      .then(response => {
         const copy = response.clone();
-        caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+        caches.open(CACHE_NAME).then(cache => cache.put(event.request, copy));
         return response;
       })
-      .catch(() => caches.match(event.request).then((cached) => cached || caches.match("./index.html")))
+      .catch(() => caches.match(event.request).then(cached => cached || caches.match("./index.html")))
   );
 });
-
