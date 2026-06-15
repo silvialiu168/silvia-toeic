@@ -1,4 +1,4 @@
-const CACHE_NAME = "family-english-trainer-v6";
+﻿const CACHE_NAME = "family-english-trainer-v7";
 const APP_FILES = [
   "./",
   "./index.html",
@@ -54,3 +54,4 @@ self.addEventListener("fetch", (event) => {
       .catch(() => caches.match(event.request).then((cached) => cached || caches.match("./index.html")))
   );
 });
+
