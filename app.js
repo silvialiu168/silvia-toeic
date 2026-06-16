@@ -1,4 +1,4 @@
-﻿const DATA="data/", DATA_VERSION="32", $=s=>document.querySelector(s);
+﻿const DATA="data/", DATA_VERSION="33", $=s=>document.querySelector(s);
 const state={users:[],user:null,questions:[],knowledge:[],vocab:[],pastPapers:null,stats:null,vocabStats:null,current:null,vocabQuestion:null,grammarMode:"smart",vocabMode:"en-zh"};
 const today=()=>new Date().toISOString().slice(0,10);
 const read=k=>{try{return JSON.parse(localStorage.getItem(k))}catch{return null}};
@@ -10,8 +10,14 @@ const userData=u=>({stats:normalizeStats(read(u.stats_key)),vocab:normalizeVocab
 const points=u=>{const d=userData(u);return d.stats.correct*10+Object.values(d.vocab.words).reduce((s,x)=>s+(x.correct||0)*5,0)+(d.stats.bonus_points||0)};
 async function json(f){return(await fetch(`${DATA}${f}?v=${DATA_VERSION}`)).json()}
 function save(){localStorage.setItem(state.user.stats_key,JSON.stringify(state.stats));localStorage.setItem(state.user.vocab_key,JSON.stringify(state.vocabStats))}
+function resetLocalRecordsFromQuery(){
+  if(new URLSearchParams(location.search).get("reset")!=="records")return;
+  Object.keys(localStorage).filter(k=>k.startsWith("liu_trainer_")).forEach(k=>localStorage.removeItem(k));
+  if(history.replaceState)history.replaceState(null,"",location.pathname+"?reset=done");
+}
 
 async function init(){
+  resetLocalRecordsFromQuery();
   state.users=await json("users.json");migrateOldSilviaData();setupNav();setupInstall();await activateUser(state.users[0],false);renderDashboard();showPage("dashboardPage");
 }
 function migrateOldSilviaData(){
@@ -265,6 +271,7 @@ function renderAll(){renderDashboard();renderLearn();renderMistakes();renderGrow
 function updateStreak(){const dates=new Set([...Object.keys(state.stats.daily),...Object.values(state.vocabStats.words).map(x=>x.last_practiced?.slice(0,10)).filter(Boolean)]);let n=0,d=new Date();while(dates.has(d.toISOString().slice(0,10))){n++;d.setDate(d.getDate()-1)}state.stats.streak=n}
 function setupInstall(){let prompt;window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();prompt=e;$("#installButton").classList.remove("hidden")});$("#installButton").onclick=()=>prompt?.prompt();if("serviceWorker"in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("service-worker.js"))}
 init();
+
 
 
 

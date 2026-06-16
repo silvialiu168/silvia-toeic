@@ -1,9 +1,9 @@
-﻿const CACHE_NAME = "family-english-trainer-v32-vocab-quality";
+﻿const CACHE_NAME = "family-english-trainer-v33-reset-records";
 const APP_FILES = [
   "./",
   "./index.html",
-  "./style.css?v=32",
-  "./app.js?v=32",
+  "./style.css?v=33",
+  "./app.js?v=33",
   "./knowledge.json",
   "./questions.json",
   "./manifest.webmanifest",
@@ -54,6 +54,7 @@ self.addEventListener("fetch", event => {
       .catch(() => caches.match(event.request).then(cached => cached || caches.match("./index.html")))
   );
 });
+
 
 
 
