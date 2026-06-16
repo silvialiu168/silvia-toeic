@@ -1,12 +1,16 @@
-[
-  {"chapter":"Chapter 1 词性","topics":["名词","动词","形容词","副词","代名词","冠词","数量词"]},
+﻿[
+  {"chapter":"Chapter 1 詞性","topics":["名詞","動詞","形容詞","副詞","代名詞","冠詞","數量詞"]},
   {"chapter":"Chapter 2 句型","topics":["S + V","S + V + O","S + V + C","S + V + O + O","S + V + O + C"]},
-  {"chapter":"Chapter 3 时态","topics":["现在式","过去式","未来式","现在完成式","过去完成式"]},
-  {"chapter":"Chapter 4 被动语态","topics":["被动语态"]},
-  {"chapter":"Chapter 5 不定词与动名词","topics":["to V","V-ing"]},
-  {"chapter":"Chapter 6 介词","topics":["in","on","at","by","for","with","to"]},
-  {"chapter":"Chapter 7 连词","topics":["because","although","if","when","while","whereas"]},
-  {"chapter":"Chapter 8 关系代名词","topics":["who","which","whose","that"]},
-  {"chapter":"Chapter 9 时间副词子句","topics":["when","before","after","until","once","as soon as"]},
-  {"chapter":"Chapter 10 主谓一致","topics":["along with","together with","as well as"]}
+  {"chapter":"Chapter 3 時態","topics":["現在式","過去式","未来式","現在完成式","過去完成式"]},
+  {"chapter":"Chapter 4 被動語態","topics":["被動語態"]},
+  {"chapter":"Chapter 5 不定詞與動名詞","topics":["to V","V-ing"]},
+  {"chapter":"Chapter 6 介詞","topics":["in","on","at","by","for","with","to"]},
+  {"chapter":"Chapter 7 連詞","topics":["because","although","if","when","while","whereas"]},
+  {"chapter":"Chapter 8 關係代名詞","topics":["who","which","whose","that"]},
+  {"chapter":"Chapter 9 時間副詞子句","topics":["when","before","after","until","once","as soon as"]},
+  {"chapter":"Chapter 10 主謂一致","topics":["along with","together with","as well as"]}
 ]
+
+
+
+

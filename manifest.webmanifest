@@ -1,7 +1,7 @@
-{
+﻿{
   "name": "Family English Challenge",
   "short_name": "Family English",
-  "description": "Silvia、Ray 和 Sean 的家庭英语练习平台",
+  "description": "Silvia、Ray 和 Sean 的家庭英語練習平台",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -22,3 +22,7 @@
     }
   ]
 }
+
+
+
+

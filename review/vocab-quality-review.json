@@ -1,0 +1,2047 @@
+﻿[
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0018",
+        "word":  "adjective",
+        "part_of_speech":  [
+                               "adjective"
+                           ],
+        "meaning":  "形容詞的",
+        "issues":  [
+                       "文法術語詞性或中文釋義需要統一"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議改為：adjective / n. / 形容詞",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0033",
+        "word":  "aid",
+        "part_of_speech":  [
+                               "noun",
+                               "verb"
+                           ],
+        "meaning":  "幫助、援助、幫助者、有幫助的事物 資助、援助、幫助",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0036",
+        "word":  "air conditioner",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "空調機",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0041",
+        "word":  "alarm clock",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "鬧鐘",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0092",
+        "word":  "baby sitter",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "褓母",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0093",
+        "word":  "backward",
+        "part_of_speech":  [
+                               "adverb",
+                               "adjective"
+                           ],
+        "meaning":  "向後地(的) 相反地(的) 追溯、退步、由好變壞 向後地(的) 相 反地(的) 追溯、退步、由好變壞",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0099",
+        "word":  "bar",
+        "part_of_speech":  [
+                               "noun",
+                               "verb"
+                           ],
+        "meaning":  "條、棒(常用作柵欄、扣栓物) 橫木、酒吧間、柵、障礙物 禁止、 阻擋、妨礙、把門關住、除…之外(Bar)律師業",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0116",
+        "word":  "being be",
+        "part_of_speech":  [
+                               "verb",
+                               "noun"
+                           ],
+        "meaning":  "的現在分詞 存在、生存",
+        "issues":  [
+                       "單字含空格但不是片語",
+                       "疑似原形與 V-ing 被拼接"
+                   ],
+        "severity":  "block",
+        "suggestion":  "",
+        "practiceReady":  false
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0123",
+        "word":  "bicycle riding",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "騎腳踏車",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0124",
+        "word":  "bill",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "帳單、單子、清單、鈔票、喙、鳥嘴",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0128",
+        "word":  "blame",
+        "part_of_speech":  [
+                               "verb",
+                               "noun"
+                           ],
+        "meaning":  "責備、責怪、把…歸咎於 (過錯、事故等的)責任、責怪、責備",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0138",
+        "word":  "both xxx and",
+        "part_of_speech":  [
+
+                           ],
+        "meaning":  "兩個都…、既…又…",
+        "issues":  [
+                       "單字含空格但不是片語",
+                       "含占位符 xxx，疑似未清理資料"
+                   ],
+        "severity":  "block",
+        "suggestion":  "",
+        "practiceReady":  false
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0161",
+        "word":  "bus stop",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "公共汽車站",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0184",
+        "word":  "cartoon",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "(報刊上的)政治性漫畫、諷刺畫、卡通畫、漫畫(常有解說詞) 卡通 片、動畫片",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0190",
+        "word":  "CD player",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "雷射唱片播放器",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0215",
+        "word":  "Chinese New Year",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "農曆新年",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0218",
+        "word":  "Christmas Eve",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "聖誕前夕",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0223",
+        "word":  "class leader",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "班長",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0247",
+        "word":  "computer game",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "電腦遊戲",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0256",
+        "word":  "contact lens",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "隱形眼鏡",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0261",
+        "word":  "convenience store",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "便利商店",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0271",
+        "word":  "couple",
+        "part_of_speech":  [
+                               "noun",
+                               "verb"
+                           ],
+        "meaning":  "夫妻、一對、一雙、兩三個、一些 連接、結合",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0279",
+        "word":  "credit card",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "信用卡",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0286",
+        "word":  "culture center",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "文化中心",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0346",
+        "word":  "division",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "分開、分割、區分、除法、公司(軍事)師、分配、分界線",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0349",
+        "word":  "dodge ball",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "躲避球",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0354",
+        "word":  "Double Tenth Day",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "雙十節",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0360",
+        "word":  "Dragon-boat Festival",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "端午節",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0385",
+        "word":  "either xxx or",
+        "part_of_speech":  [
+
+                           ],
+        "meaning":  "或者…或者…",
+        "issues":  [
+                       "單字含空格但不是片語",
+                       "含占位符 xxx，疑似未清理資料"
+                   ],
+        "severity":  "block",
+        "suggestion":  "",
+        "practiceReady":  false
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0426",
+        "word":  "expensive fruit",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "高級水果、昂貴的水果",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0430",
+        "word":  "extra large",
+        "part_of_speech":  [
+                               "adjective"
+                           ],
+        "meaning":  "特大號的",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0433",
+        "word":  "failure",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "失敗、失敗者、缺乏、失靈、故障、破產、疏忽(美)不及格",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0435",
+        "word":  "family name",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "姓",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0440",
+        "word":  "fast food",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "速食",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0441",
+        "word":  "fast food restaurant",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "速食餐廳",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0444",
+        "word":  "favor",
+        "part_of_speech":  [
+                               "noun",
+                               "verb"
+                           ],
+        "meaning":  "好感、喜愛、贊同、支援、恩惠、好事 贊同、偏愛",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0454",
+        "word":  "figure",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "數字、外形、輪廓、人物、體形、身材、插圖",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0457",
+        "word":  "fire station",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "消防站",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0459",
+        "word":  "first grade",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "一年級",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0460",
+        "word":  "first name",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "名",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0466",
+        "word":  "flat tire",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "洩了氣的輪胎",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0470",
+        "word":  "flower shop",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "花店",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0476",
+        "word":  "food restaurant",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "餐廳",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0494",
+        "word":  "French fries",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "炸薯條",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0495",
+        "word":  "fried chicken",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "炸雞",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0496",
+        "word":  "fried rice",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "炒飯",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0502",
+        "word":  "function",
+        "part_of_speech":  [
+                               "noun",
+                               "verb"
+                           ],
+        "meaning":  "官能、功能、作用、職責、典禮、儀式、[數]函數 (器官等)活動、 運行、行使職責",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0506",
+        "word":  "gas station",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "加油站",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0525",
+        "word":  "given name",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "名字、教名",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0534",
+        "word":  "good looking",
+        "part_of_speech":  [
+                               "adjective"
+                           ],
+        "meaning":  "美貌的、漂亮的、英俊的",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0581",
+        "word":  "Hong Kong",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "香港",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0615",
+        "word":  "insist",
+        "part_of_speech":  [
+                               "verb"
+                           ],
+        "meaning":  "(on、 upon)堅持、堅決主張、堅決要求 堅持、堅決主張、堅決認 為",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0618",
+        "word":  "instant noodle",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "速食麵、泡麵、方便麵",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0658",
+        "word":  "Lantern Festival",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "元宵節",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0659",
+        "word":  "last name",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "姓",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0680",
+        "word":  "Los Angeles",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "洛杉磯",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0685",
+        "word":  "lunch box",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "午餐盒、飯盒",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0716",
+        "word":  "men\u0027s room",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "男廁",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0721",
+        "word":  "Michael Jackson",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "麥可傑克森(人名)",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0723",
+        "word":  "microwave oven",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "微波爐 Mid-Autumn Festival 中秋節",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0726",
+        "word":  "milk shake",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "奶昔",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0734",
+        "word":  "moon cake",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "月餅",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0737",
+        "word":  "Mother\u0027s Day",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "母親節",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0741",
+        "word":  "movie star",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "電影明星",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0742",
+        "word":  "movie theater",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "電影院",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0763",
+        "word":  "neither xxx nor",
+        "part_of_speech":  [
+                               "phrase"
+                           ],
+        "meaning":  "既不…也不…",
+        "issues":  [
+                       "含占位符 xxx，疑似未清理資料"
+                   ],
+        "severity":  "block",
+        "suggestion":  "",
+        "practiceReady":  false
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0767",
+        "word":  "New Year\u0027s Day",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "新年元旦",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0768",
+        "word":  "New York",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "紐約",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0771",
+        "word":  "nice looking",
+        "part_of_speech":  [
+                               "adjective"
+                           ],
+        "meaning":  "美貌的、漂亮的、英俊的",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0780",
+        "word":  "not only xxx but also",
+        "part_of_speech":  [
+
+                           ],
+        "meaning":  "不僅…而且…",
+        "issues":  [
+                       "單字含空格但不是片語",
+                       "含占位符 xxx，疑似未清理資料"
+                   ],
+        "severity":  "block",
+        "suggestion":  "",
+        "practiceReady":  false
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0784",
+        "word":  "object",
+        "part_of_speech":  [
+                               "noun",
+                               "verb"
+                           ],
+        "meaning":  "物體、實物、目的、目標、物件 反對、不贊成",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0802",
+        "word":  "outer space",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "外太空、星際空間",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0833",
+        "word":  "pencil box",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "鉛筆盒",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0834",
+        "word":  "pencil case",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "鉛筆盒",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0862",
+        "word":  "police officer",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "警官",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0863",
+        "word":  "police station",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "警察局",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0869",
+        "word":  "pop music",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "流行音樂",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0885",
+        "word":  "press",
+        "part_of_speech":  [
+                               "verb",
+                               "noun"
+                           ],
+        "meaning":  "壓、按、壓迫、壓榨、逼迫 壓、按、報刊、出版社、新聞界",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0888",
+        "word":  "primary school",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "小學",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0926",
+        "word":  "raise",
+        "part_of_speech":  [
+                               "verb"
+                           ],
+        "meaning":  "舉起、提高、提升、增加、籌集、引起、飼養、提出",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0933",
+        "word":  "reading test",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "閱讀測驗",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0967",
+        "word":  "roll",
+        "part_of_speech":  [
+                               "verb",
+                               "noun"
+                           ],
+        "meaning":  "(使…)滾動、轉動、碾、軋、卷、繞 (一)卷、麵包卷",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0968",
+        "word":  "roller skating",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "輪式溜冰",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0976",
+        "word":  "rubber band",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "橡皮筋",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0979",
+        "word":  "running nose",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "流鼻水",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0989",
+        "word":  "San Francisco",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "舊金山",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_0996",
+        "word":  "scene",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "(戲劇等的)一場、鏡頭、地點、背景、景色、舞臺",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1004",
+        "word":  "second grade",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "二年級",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1016",
+        "word":  "sense",
+        "part_of_speech":  [
+                               "noun",
+                               "verb"
+                           ],
+        "meaning":  "感言、官能、感覺、意義、判斷力 覺得、意識到",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1019",
+        "word":  "serve",
+        "part_of_speech":  [
+                               "verb"
+                           ],
+        "meaning":  "為…服務/盡責、招待、符合 服務、供職、服役、起作用(as)",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1075",
+        "word":  "social science",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "社會科學",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1079",
+        "word":  "soft drink",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "碳酸飲料、不含酒精飲料",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1083",
+        "word":  "sore throat",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "喉嚨痛",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1100",
+        "word":  "stamp collecting",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "集郵",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1104",
+        "word":  "stationery store",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "文具店",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1107",
+        "word":  "step",
+        "part_of_speech":  [
+                               "noun",
+                               "verb"
+                           ],
+        "meaning":  "步、腳步、步驟、臺階 跨步、行走、踩、踏上(on)",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1120",
+        "word":  "struggle",
+        "part_of_speech":  [
+                               "noun",
+                               "verb"
+                           ],
+        "meaning":  "鬥爭、奮鬥、努力、掙扎 鬥爭、奮鬥、努力、掙扎",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1135",
+        "word":  "support",
+        "part_of_speech":  [
+                               "verb",
+                               "noun"
+                           ],
+        "meaning":  "支援、擁護、供養、支撐、維持 支援、支承、支撐",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1147",
+        "word":  "table cloth",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "桌布",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1148",
+        "word":  "table tennis",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "乒乓球、桌球",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1158",
+        "word":  "tape recorder",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "錄音機",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1160",
+        "word":  "Teacher\u0027s Day",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "教師節",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1171",
+        "word":  "Thanksgiving Day",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "感恩節",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1179",
+        "word":  "through",
+        "part_of_speech":  [
+                               "preposition",
+                               "adverb"
+                           ],
+        "meaning":  "穿過、通過、以、用、憑藉、經由、從頭到尾 從頭到尾、徹底",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1186",
+        "word":  "tie",
+        "part_of_speech":  [
+                               "verb",
+                               "noun"
+                           ],
+        "meaning":  "拴、紮、捆、繫上 領帶、領結、聯繫",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1189",
+        "word":  "tip",
+        "part_of_speech":  [
+                               "noun",
+                               "verb"
+                           ],
+        "meaning":  "頂、尖端、梢、傾斜、輕擊、末端、小費、秘密消息 在…頂端裝 附加物、使傾斜、使翻倒、暗示、輕擊、給、洩漏、給小費",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1207",
+        "word":  "track",
+        "part_of_speech":  [
+                               "noun",
+                               "verb"
+                           ],
+        "meaning":  "跑道、小路、軌道、足跡、蹤跡 跟蹤、追蹤",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1211",
+        "word":  "traffic jam",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "交通阻塞",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1212",
+        "word":  "traffic light",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "交通燈號誌",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1213",
+        "word":  "traffic lights",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "紅綠燈、交通燈",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1214",
+        "word":  "traffic sign",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "交通號誌",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1215",
+        "word":  "train station",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "火車站",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1218",
+        "word":  "trash can",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "垃圾桶",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1222",
+        "word":  "treat",
+        "part_of_speech":  [
+                               "verb",
+                               "noun"
+                           ],
+        "meaning":  "對待、處理、醫療、醫治、款待、招待 款待、請客",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1224",
+        "word":  "trick",
+        "part_of_speech":  [
+                               "verb",
+                               "noun"
+                           ],
+        "meaning":  "欺詐、哄騙 詭計、花招、把戲、戲法、惡作劇",
+        "issues":  [
+                       "會考階段中文釋義過長"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議保留 1-2 個會考常用義即可",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1254",
+        "word":  "Valentine\u0027s Day",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "西洋情人節",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1274",
+        "word":  "washing machine",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "洗衣機",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1297",
+        "word":  "women\u0027s room",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "女廁所",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1309",
+        "word":  "Youth Day",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "青年節",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Sean 會考",
+        "file":  "data\\vocab_junior.json",
+        "id":  "JUNIOR_OFFICIAL_1973",
+        "word":  "soy sauce",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "醬油",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Ray 學測",
+        "file":  "data\\vocab_gsat.json",
+        "id":  "GSAT_OFFICIAL_L2_0183",
+        "word":  "conflict vi.",
+        "part_of_speech":  [
+                               "verb",
+                               "noun"
+                           ],
+        "meaning":  "conflict 衝突",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Ray 學測",
+        "file":  "data\\vocab_gsat.json",
+        "id":  "GSAT_OFFICIAL_L2_0187",
+        "word":  "contact vt.",
+        "part_of_speech":  [
+                               "verb",
+                               "noun"
+                           ],
+        "meaning":  "contact 接觸",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Ray 學測",
+        "file":  "data\\vocab_gsat.json",
+        "id":  "GSAT_OFFICIAL_L2_0932",
+        "word":  "bean curd",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "豆腐",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Ray 學測",
+        "file":  "data\\vocab_gsat.json",
+        "id":  "GSAT_OFFICIAL_L4_0024",
+        "word":  "adjective",
+        "part_of_speech":  [
+                               "noun",
+                               "adjective"
+                           ],
+        "meaning":  "形容詞 形容詞的",
+        "issues":  [
+                       "文法術語詞性或中文釋義需要統一"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議改為：adjective / n. / 形容詞",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Ray 學測",
+        "file":  "data\\vocab_gsat.json",
+        "id":  "GSAT_OFFICIAL_L4_0030",
+        "word":  "adverb",
+        "part_of_speech":  [
+                               "noun",
+                               "adjective"
+                           ],
+        "meaning":  "副詞 副詞的",
+        "issues":  [
+                       "文法術語詞性或中文釋義需要統一"
+                   ],
+        "severity":  "review",
+        "suggestion":  "建議改為：adverb / n. / 副詞",
+        "practiceReady":  null
+    },
+    {
+        "learner":  "Ray 學測",
+        "file":  "data\\vocab_gsat.json",
+        "id":  "GSAT_OFFICIAL_L5_1075",
+        "word":  "zip code",
+        "part_of_speech":  [
+                               "noun"
+                           ],
+        "meaning":  "郵遞區號",
+        "issues":  [
+                       "單字含空格但不是片語"
+                   ],
+        "severity":  "review",
+        "suggestion":  "",
+        "practiceReady":  null
+    }
+]

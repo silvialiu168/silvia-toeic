@@ -1,57 +1,57 @@
 ﻿[
     {
         "id":  "pos-adverb",
-        "category":  "词性判断",
-        "formula":  "动词 / 形容词 + 副词",
-        "rule":  "副词用于说明动作如何发生，或修饰形容词。",
+        "category":  "詞性判斷",
+        "formula":  "動詞 / 形容詞 + 副詞",
+        "rule":  "副詞用於說明動作如何發生，或修飾形容詞。",
         "example":  "The team responded promptly to the request.",
-        "translation":  "团队迅速回应了该请求。",
-        "common_error":  "误用形容词 prompt 修饰动词 responded。",
+        "translation":  "团队迅速回應了该请求。",
+        "common_error":  "誤用形容詞 prompt 修飾動詞 responded。",
         "tags":  [
-                     "副词",
-                     "词性",
+                     "副詞",
+                     "詞性",
                      "-ly"
                  ]
     },
     {
         "id":  "pos-noun",
-        "category":  "词性判断",
-        "formula":  "冠词 / 所有格 + 名词",
-        "rule":  "冠词 a、an、the 或所有格后通常接名词。",
+        "category":  "詞性判斷",
+        "formula":  "冠詞 / 所有格 + 名詞",
+        "rule":  "冠詞 a、an、the 或所有格後通常接名詞。",
         "example":  "Her analysis of the report was thorough.",
         "translation":  "她对报告的分析很全面。",
-        "common_error":  "在所有格后误用动词或形容词。",
+        "common_error":  "在所有格後誤用動詞或形容詞。",
         "tags":  [
-                     "名词",
+                     "名詞",
                      "所有格",
-                     "冠词"
+                     "冠詞"
                  ]
     },
     {
         "id":  "pos-adjective",
-        "category":  "词性判断",
-        "formula":  "be / seem / become + 形容词",
-        "rule":  "连系动词后常用形容词说明主语的状态或特征。",
+        "category":  "詞性判斷",
+        "formula":  "be / seem / become + 形容詞",
+        "rule":  "連綴動詞後常用形容詞說明主語的狀態或特徵。",
         "example":  "The conference room is spacious.",
-        "translation":  "这间会议室很宽敞。",
-        "common_error":  "在 be 动词后误用副词。",
+        "translation":  "這間會议室很宽敞。",
+        "common_error":  "在 be 動詞後誤用副詞。",
         "tags":  [
-                     "形容词",
-                     "连系动词",
-                     "词性"
+                     "形容詞",
+                     "連綴動詞",
+                     "詞性"
                  ]
     },
     {
         "id":  "prep-time",
-        "category":  "前置词",
-        "formula":  "at + 时间点；on + 日期；in + 月份/年份",
-        "rule":  "具体时间点常用 at，日期或星期常用 on，月份、年份或较长期间常用 in。",
+        "category":  "介係詞",
+        "formula":  "at + 時間點；on + 日期；in + 月份/年份",
+        "rule":  "具體時間點常用 at，日期或星期常用 on，月份、年份或較長期間常用 in。",
         "example":  "The session will begin at 9:30 A.M.",
-        "translation":  "课程将在上午九点半开始。",
+        "translation":  "课程將在上午九點半開始。",
         "common_error":  "混用 at、on 和 in。",
         "tags":  [
-                     "前置词",
-                     "时间",
+                     "介係詞",
+                     "時間",
                      "at",
                      "on",
                      "in"
@@ -59,28 +59,28 @@
     },
     {
         "id":  "prep-purpose",
-        "category":  "前置词",
-        "formula":  "for + 名词",
-        "rule":  "for 后接名词时，可以表示目的、用途或对象。",
+        "category":  "介係詞",
+        "formula":  "for + 名詞",
+        "rule":  "for 後接名詞時，可以表示目的、用途或對象。",
         "example":  "This room is reserved for interviews.",
-        "translation":  "这个房间预留用于面试。",
-        "common_error":  "表达用途时误选与上下文无关的前置词。",
+        "translation":  "這個房間预留用於面試。",
+        "common_error":  "表達用途時誤選與上下文無關的介係詞。",
         "tags":  [
-                     "前置词",
+                     "介係詞",
                      "for",
                      "用途"
                  ]
     },
     {
         "id":  "conj-contrast",
-        "category":  "连接词",
+        "category":  "連接詞",
         "formula":  "although + S + V",
-        "rule":  "although 后接完整句子，表示“虽然”；despite 后接名词。",
+        "rule":  "although 後接完整句子，表示“虽然”；despite 後接名詞。",
         "example":  "Although the shipment was late, the client accepted it.",
         "translation":  "虽然货物迟到了，客户仍接受了它。",
-        "common_error":  "在完整句子前误用 despite。",
+        "common_error":  "在完整句子前誤用 despite。",
         "tags":  [
-                     "连接词",
+                     "連接詞",
                      "转折",
                      "although",
                      "despite"
@@ -88,58 +88,62 @@
     },
     {
         "id":  "conj-cause",
-        "category":  "连接词",
-        "formula":  "because + S + V；because of + 名词",
-        "rule":  "because 后接完整句子说明原因；because of 后接名词或名词短语。",
+        "category":  "連接詞",
+        "formula":  "because + S + V；because of + 名詞",
+        "rule":  "because 後接完整句子說明原因；because of 後接名詞或名詞短語。",
         "example":  "The event was postponed because it was raining.",
-        "translation":  "活动因为下雨而延期。",
-        "common_error":  "混淆 because 和 because of 后面的结构。",
+        "translation":  "活動因為下雨而延期。",
+        "common_error":  "混淆 because 和 because of 後面的結構。",
         "tags":  [
-                     "连接词",
+                     "連接詞",
                      "原因",
                      "because"
                  ]
     },
     {
         "id":  "time-clause",
-        "category":  "时间副词子句",
-        "formula":  "when / before / after / as soon as + 现在式",
-        "rule":  "谈论未来时，时间副词子句通常用现在式代替 will。",
+        "category":  "時間副詞子句",
+        "formula":  "when / before / after / as soon as + 現在式",
+        "rule":  "谈论未来時，時間副詞子句通常用現在式代替 will。",
         "example":  "We will begin as soon as the manager arrives.",
-        "translation":  "经理一到，我们就会开始。",
-        "common_error":  "在时间副词子句中使用 will。",
+        "translation":  "經理一到，我们就會開始。",
+        "common_error":  "在時間副詞子句中使用 will。",
         "tags":  [
-                     "时间副词子句",
-                     "现在式",
+                     "時間副詞子句",
+                     "現在式",
                      "未来"
                  ]
     },
     {
         "id":  "agreement-singular",
-        "category":  "主谓一致",
-        "formula":  "单数主语 + 单数动词",
-        "rule":  "主语中心词为单数时，动词使用单数形式；介词短语不改变主语单复数。",
+        "category":  "主謂一致",
+        "formula":  "單數主語 + 單數動詞",
+        "rule":  "主語中心詞為單數時，動詞使用單數形式；介詞短語不改变主語單複數。",
         "example":  "The list of suppliers is updated monthly.",
-        "translation":  "供应商名单每月更新。",
-        "common_error":  "把 of 后面的复数名词误当成主语。",
+        "translation":  "供應商名單每月更新。",
+        "common_error":  "把 of 後面的複數名詞誤当成主語。",
         "tags":  [
-                     "主谓一致",
-                     "单数主语",
-                     "介词短语"
+                     "主謂一致",
+                     "單數主語",
+                     "介詞短語"
                  ]
     },
     {
         "id":  "agreement-each",
-        "category":  "主谓一致",
-        "formula":  "each / every + 单数动词",
-        "rule":  "each、every、everyone 等表达在语法上通常视为单数。",
+        "category":  "主謂一致",
+        "formula":  "each / every + 單數動詞",
+        "rule":  "each、every、everyone 等表達在語法上通常视為單數。",
         "example":  "Each manager submits a monthly report.",
-        "translation":  "每位经理都提交月度报告。",
-        "common_error":  "因为后面出现复数名词而误用复数动词。",
+        "translation":  "每位經理都提交月度报告。",
+        "common_error":  "因為後面出現複數名詞而誤用複數動詞。",
         "tags":  [
-                     "主谓一致",
+                     "主謂一致",
                      "each",
                      "every"
                  ]
     }
 ]
+
+
+
+

@@ -1,9 +1,9 @@
-const CACHE_NAME = "family-english-trainer-v8";
+﻿const CACHE_NAME = "family-english-trainer-v32-vocab-quality";
 const APP_FILES = [
   "./",
   "./index.html",
-  "./style.css?v=8",
-  "./app.js?v=8",
+  "./style.css?v=32",
+  "./app.js?v=32",
   "./knowledge.json",
   "./questions.json",
   "./manifest.webmanifest",
@@ -15,9 +15,11 @@ const APP_FILES = [
   "./data/knowledge_toeic.json",
   "./data/knowledge_gsat.json",
   "./data/knowledge_junior.json",
+  "./data/knowledge_junior_past.json",
   "./data/questions_toeic.json",
   "./data/questions_gsat.json",
   "./data/questions_junior.json",
+  "./data/questions_junior_past.json",
   "./data/vocab_gsat.json",
   "./data/vocab_junior.json",
   "./data/vocab_toeic.json",
@@ -25,6 +27,7 @@ const APP_FILES = [
   "./data/reading_toeic.json",
   "./data/reading_gsat.json",
   "./data/reading_junior.json"
+  ,"./data/past_papers_junior.json"
 ];
 
 self.addEventListener("install", event => {
@@ -51,3 +54,30 @@ self.addEventListener("fetch", event => {
       .catch(() => caches.match(event.request).then(cached => cached || caches.match("./index.html")))
   );
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

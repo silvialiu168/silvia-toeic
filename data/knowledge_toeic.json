@@ -1,40 +1,40 @@
 ﻿[
     {
         "id":  "relative-person",
-        "category":  "关系代名词",
+        "category":  "關係代名詞",
         "formula":  "人 + who + V",
-        "rule":  "先行词是人，且空格在关系子句中作主语时，使用 who。",
+        "rule":  "先行詞是人，且空格在關係子句中作主語時，使用 who。",
         "example":  "Employees who attend the seminar must register.",
-        "translation":  "参加研讨会的员工必须登记。",
-        "common_error":  "指人且作主语时误用 which 或 whom。",
+        "translation":  "参加研讨會的員工必须登記。",
+        "common_error":  "指人且作主語時誤用 which 或 whom。",
         "tags":  [
-                     "关系代名词",
+                     "關係代名詞",
                      "who",
                      "人"
                  ]
     },
     {
         "id":  "relative-whose",
-        "category":  "关系代名词",
-        "formula":  "whose + 名词",
-        "rule":  "whose 后接名词，表示该名词属于前面提到的人或事物。",
+        "category":  "關係代名詞",
+        "formula":  "whose + 名詞",
+        "rule":  "whose 後接名詞，表示该名詞属於前面提到的人或事物。",
         "example":  "The designer whose proposal was selected will lead the project.",
-        "translation":  "提案获选的设计师将负责该项目。",
-        "common_error":  "需要表达所属关系时误用 who。",
+        "translation":  "提案获選的设計师將负责该項目。",
+        "common_error":  "需要表達所屬關係時誤用 who。",
         "tags":  [
-                     "关系代名词",
+                     "關係代名詞",
                      "whose",
-                     "所属关系"
+                     "所屬關係"
                  ]
     },
     {
         "id":  "collocation-responsible",
         "category":  "固定搭配",
-        "formula":  "be responsible for + 名词 / V-ing",
-        "rule":  "be responsible for 表示“负责……”，for 后接名词或 V-ing。",
+        "formula":  "be responsible for + 名詞 / V-ing",
+        "rule":  "be responsible for 表示“负责……”，for 後接名詞或 V-ing。",
         "example":  "She is responsible for arranging inspections.",
-        "translation":  "她负责安排检查。",
-        "common_error":  "在 responsible 后误用 to 或 with。",
+        "translation":  "她负责安排檢查。",
+        "common_error":  "在 responsible 後誤用 to 或 with。",
         "tags":  [
                      "固定搭配",
                      "responsible for",
@@ -48,7 +48,7 @@
         "rule":  "in advance 表示“提前”。",
         "example":  "Please reserve your seat in advance.",
         "translation":  "请提前预订座位。",
-        "common_error":  "误写为 in early 或 in front。",
+        "common_error":  "誤写為 in early 或 in front。",
         "tags":  [
                      "固定搭配",
                      "in advance",
@@ -57,86 +57,90 @@
     },
     {
         "id":  "business-vocab",
-        "category":  "商务词汇",
-        "formula":  "商务场景 + 合适词义",
-        "rule":  "根据采购、会议、人事、运输等商务场景，选择最符合上下文的词。",
+        "category":  "商務詞彙",
+        "formula":  "商務场景 + 合适詞義",
+        "rule":  "根據采购、會议、人事、运输等商務场景，選擇最符合上下文的詞。",
         "example":  "The supplier provided a price quotation.",
-        "translation":  "供应商提供了一份报价。",
-        "common_error":  "只看词形相似，不判断商务场景和词义。",
+        "translation":  "供應商提供了一份报价。",
+        "common_error":  "只看詞形相似，不判斷商務场景和詞義。",
         "tags":  [
-                     "商务词汇",
+                     "商務詞彙",
                      "上下文",
-                     "词义"
+                     "詞義"
                  ]
     },
     {
         "id":  "dedicated-to-doing",
         "category":  "固定搭配",
         "formula":  "be dedicated to + V-ing",
-        "rule":  "to 是前置词，后面接 V-ing。",
+        "rule":  "to 是介係詞，後面接 V-ing。",
         "example":  "The company is dedicated to improving customer service.",
-        "translation":  "该公司致力于改善客户服务。",
-        "common_error":  "误以为 to 是不定词符号，写成 be dedicated to improve。",
+        "translation":  "该公司致力於改善客户服務。",
+        "common_error":  "誤以為 to 是不定詞符号，写成 be dedicated to improve。",
         "tags":  [
                      "固定搭配",
-                     "前置词 to",
+                     "介係詞 to",
                      "V-ing"
                  ]
     },
     {
         "id":  "have-yet-to-do",
         "category":  "固定搭配",
-        "formula":  "have / has yet to + 原形动词",
+        "formula":  "have / has yet to + 原形動詞",
         "rule":  "表示尚未做某事。",
         "example":  "The board has yet to announce a date.",
-        "translation":  "董事会尚未公布日期。",
-        "common_error":  "在 to 后使用 V-ing，或误解为已经完成。",
+        "translation":  "董事會尚未公佈日期。",
+        "common_error":  "在 to 後使用 V-ing，或誤解為已經完成。",
         "tags":  [
                      "固定搭配",
                      "yet",
-                     "不定词"
+                     "不定詞"
                  ]
     },
     {
         "id":  "along-with-agreement",
-        "category":  "主谓一致",
-        "formula":  "A along with B + 与 A 一致的动词",
-        "rule":  "主谓一致看 A，along with B 不改变主语的单复数。",
+        "category":  "主謂一致",
+        "formula":  "A along with B + 與 A 一致的動詞",
+        "rule":  "主謂一致看 A，along with B 不改变主語的單複數。",
         "example":  "The manager, along with her assistants, is attending the meeting.",
-        "translation":  "经理和她的助理们正在参加会议。",
-        "common_error":  "受到 B 的复数形式影响，误用复数动词。",
+        "translation":  "經理和她的助理们正在参加會议。",
+        "common_error":  "受到 B 的複數形式影响，誤用複數動詞。",
         "tags":  [
-                     "主谓一致",
+                     "主謂一致",
                      "along with",
                      "插入成分"
                  ]
     },
     {
         "id":  "prior-to",
-        "category":  "前置词",
-        "formula":  "prior to + 名词 / V-ing",
-        "rule":  "prior to 是前置词，后面接名词或 V-ing。",
+        "category":  "介係詞",
+        "formula":  "prior to + 名詞 / V-ing",
+        "rule":  "prior to 是介係詞，後面接名詞或 V-ing。",
         "example":  "Approval must be obtained prior to construction.",
         "translation":  "施工前必须获得批准。",
-        "common_error":  "在 prior to 后直接使用原形动词。",
+        "common_error":  "在 prior to 後直接使用原形動詞。",
         "tags":  [
-                     "前置词",
+                     "介係詞",
                      "prior to",
                      "V-ing"
                  ]
     },
     {
         "id":  "whereas-clause",
-        "category":  "连接词",
+        "category":  "連接詞",
         "formula":  "whereas + S + V",
-        "rule":  "whereas 是连接词，连接两个完整句子，表示对比。",
+        "rule":  "whereas 是連接詞，連接两個完整句子，表示对比。",
         "example":  "Nonprofits rely on donations, whereas businesses generate revenue through sales.",
-        "translation":  "非营利组织依靠捐款，而企业通过销售获得收入。",
-        "common_error":  "在 whereas 后只接名词，未构成完整句子。",
+        "translation":  "非营利組織依靠捐款，而企業通過銷售获得收入。",
+        "common_error":  "在 whereas 後只接名詞，未構成完整句子。",
         "tags":  [
-                     "连接词",
+                     "連接詞",
                      "whereas",
                      "对比"
                  ]
     }
 ]
+
+
+
+

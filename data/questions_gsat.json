@@ -9,9 +9,16 @@
                         "courteousness"
                     ],
         "answer":  1,
-        "explanation":  "动词 / 形容词 + 副词。副词用于说明动作如何发生，或修饰形容词。 本题正确答案是 “courteously”。",
+        "explanation":  "動詞 / 形容詞 + 副詞。副詞用於說明動作如何發生，或修飾形容詞。 本題正確答案是 “courteously”。",
         "knowledge_id":  "pos-adverb",
-        "category":  "词性判断"
+        "category":  "詞性判斷",
+        "knowledgePoint":  "pos-adverb",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "接待員禮貌地迎接每一位訪客。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  2,
@@ -23,9 +30,16 @@
                         "efficiencies"
                     ],
         "answer":  2,
-        "explanation":  "动词 / 形容词 + 副词。副词用于说明动作如何发生，或修饰形容词。 本题正确答案是 “efficiently”。",
+        "explanation":  "動詞 / 形容詞 + 副詞。副詞用於說明動作如何發生，或修飾形容詞。 本題正確答案是 “efficiently”。",
         "knowledge_id":  "pos-adverb",
-        "category":  "词性判断"
+        "category":  "詞性判斷",
+        "knowledgePoint":  "pos-adverb",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "修訂版軟體的運作效率比先前版本高得多。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  3,
@@ -37,9 +51,16 @@
                         "carefulness"
                     ],
         "answer":  1,
-        "explanation":  "动词 / 形容词 + 副词。副词用于说明动作如何发生，或修饰形容词。 本题正确答案是 “carefully”。",
+        "explanation":  "動詞 / 形容詞 + 副詞。副詞用於說明動作如何發生，或修飾形容詞。 本題正確答案是 “carefully”。",
         "knowledge_id":  "pos-adverb",
-        "category":  "词性判断"
+        "category":  "詞性判斷",
+        "knowledgePoint":  "pos-adverb",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "簽署表格前，請仔細閱讀保固條款。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  4,
@@ -51,9 +72,16 @@
                         "reviewable"
                     ],
         "answer":  0,
-        "explanation":  "冠词 / 所有格 + 名词。冠词 a、an、the 或所有格后通常接名词。 本题正确答案是 “review”。",
+        "explanation":  "冠詞 / 所有格 + 名詞。冠詞 a、an、the 或所有格後通常接名詞。 本題正確答案是 “review”。",
         "knowledge_id":  "pos-noun",
-        "category":  "词性判断"
+        "category":  "詞性判斷",
+        "knowledgePoint":  "pos-noun",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "Patel女士對預算的審查有助於團隊降低成本。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  5,
@@ -65,9 +93,16 @@
                         "decisively"
                     ],
         "answer":  2,
-        "explanation":  "冠词 / 所有格 + 名词。冠词 a、an、the 或所有格后通常接名词。 本题正确答案是 “decision”。",
+        "explanation":  "冠詞 / 所有格 + 名詞。冠詞 a、an、the 或所有格後通常接名詞。 本題正確答案是 “decision”。",
         "knowledge_id":  "pos-noun",
-        "category":  "词性判断"
+        "category":  "詞性判斷",
+        "knowledgePoint":  "pos-noun",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "委員會在審查所有提案後作出決定。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  6,
@@ -79,9 +114,16 @@
                         "inspecting"
                     ],
         "answer":  1,
-        "explanation":  "冠词 / 所有格 + 名词。冠词 a、an、the 或所有格后通常接名词。 本题正确答案是 “inspection”。",
+        "explanation":  "冠詞 / 所有格 + 名詞。冠詞 a、an、the 或所有格後通常接名詞。 本題正確答案是 “inspection”。",
         "knowledge_id":  "pos-noun",
-        "category":  "词性判断"
+        "category":  "詞性判斷",
+        "knowledgePoint":  "pos-noun",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "我們將於下週開始對新分行進行檢查。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  7,
@@ -93,9 +135,16 @@
                         "availably"
                     ],
         "answer":  2,
-        "explanation":  "be / seem / become + 形容词。连系动词后常用形容词说明主语的状态或特征。 本题正确答案是 “available”。",
+        "explanation":  "be / seem / become + 形容詞。連綴動詞後常用形容詞說明主語的狀態或特徵。 本題正確答案是 “available”。",
         "knowledge_id":  "pos-adjective",
-        "category":  "词性判断"
+        "category":  "詞性判斷",
+        "knowledgePoint":  "pos-adjective",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "更新後的員工手冊現已上線。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  8,
@@ -107,9 +156,16 @@
                         "satisfactorily"
                     ],
         "answer":  2,
-        "explanation":  "be / seem / become + 形容词。连系动词后常用形容词说明主语的状态或特征。 本题正确答案是 “satisfied”。",
+        "explanation":  "be / seem / become + 形容詞。連綴動詞後常用形容詞說明主語的狀態或特徵。 本題正確答案是 “satisfied”。",
         "knowledge_id":  "pos-adjective",
-        "category":  "词性判断"
+        "category":  "詞性判斷",
+        "knowledgePoint":  "pos-adjective",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "客戶對維修服務的速度感到滿意。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  9,
@@ -121,9 +177,16 @@
                         "clear"
                     ],
         "answer":  3,
-        "explanation":  "be / seem / become + 形容词。连系动词后常用形容词说明主语的状态或特征。 本题正确答案是 “clear”。",
+        "explanation":  "be / seem / become + 形容詞。連綴動詞後常用形容詞說明主語的狀態或特徵。 本題正確答案是 “clear”。",
         "knowledge_id":  "pos-adjective",
-        "category":  "词性判断"
+        "category":  "詞性判斷",
+        "knowledgePoint":  "pos-adjective",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "提交費用的說明清晰易懂。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  10,
@@ -135,9 +198,16 @@
                         "for"
                     ],
         "answer":  1,
-        "explanation":  "at + 时间点；on + 日期；in + 月份/年份。具体时间点常用 at，日期或星期常用 on，月份、年份或较长期间常用 in。 本题正确答案是 “on”。",
+        "explanation":  "at + 時間點；on + 日期；in + 月份/年份。具體時間點常用 at，日期或星期常用 on，月份、年份或較長期間常用 in。 本題正確答案是 “on”。",
         "knowledge_id":  "prep-time",
-        "category":  "前置词"
+        "category":  "介係詞",
+        "knowledgePoint":  "prep-time",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "年度頒獎典禮將於11月18日舉行。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  11,
@@ -149,9 +219,16 @@
                         "during"
                     ],
         "answer":  0,
-        "explanation":  "at + 时间点；on + 日期；in + 月份/年份。具体时间点常用 at，日期或星期常用 on，月份、年份或较长期间常用 in。 本题正确答案是 “at”。",
+        "explanation":  "at + 時間點；on + 日期；in + 月份/年份。具體時間點常用 at，日期或星期常用 on，月份、年份或較長期間常用 in。 本題正確答案是 “at”。",
         "knowledge_id":  "prep-time",
-        "category":  "前置词"
+        "category":  "介係詞",
+        "knowledgePoint":  "prep-time",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "會計部門在星期五下午6點關門。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  12,
@@ -163,9 +240,16 @@
                         "by"
                     ],
         "answer":  2,
-        "explanation":  "at + 时间点；on + 日期；in + 月份/年份。具体时间点常用 at，日期或星期常用 on，月份、年份或较长期间常用 in。 本题正确答案是 “in”。",
+        "explanation":  "at + 時間點；on + 日期；in + 月份/年份。具體時間點常用 at，日期或星期常用 on，月份、年份或較長期間常用 in。 本題正確答案是 “in”。",
         "knowledge_id":  "prep-time",
-        "category":  "前置词"
+        "category":  "介係詞",
+        "knowledgePoint":  "prep-time",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "新倉庫的建設始於2025年。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  13,
@@ -177,9 +261,16 @@
                         "among"
                     ],
         "answer":  0,
-        "explanation":  "for + 名词。for 后接名词时，可以表示目的、用途或对象。 本题正确答案是 “for”。",
+        "explanation":  "for + 名詞。for 後接名詞時，可以表示目的、用途或對象。 本題正確答案是 “for”。",
         "knowledge_id":  "prep-purpose",
-        "category":  "前置词"
+        "category":  "介係詞",
+        "knowledgePoint":  "prep-purpose",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "禮堂已預留作產品發佈之用。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  14,
@@ -191,9 +282,16 @@
                         "upon"
                     ],
         "answer":  1,
-        "explanation":  "for + 名词。for 后接名词时，可以表示目的、用途或对象。 本题正确答案是 “for”。",
+        "explanation":  "for + 名詞。for 後接名詞時，可以表示目的、用途或對象。 本題正確答案是 “for”。",
         "knowledge_id":  "prep-purpose",
-        "category":  "前置词"
+        "category":  "介係詞",
+        "knowledgePoint":  "prep-purpose",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "此折扣適用於首次訂購的顧客。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  15,
@@ -205,9 +303,16 @@
                         "between"
                     ],
         "answer":  2,
-        "explanation":  "for + 名词。for 后接名词时，可以表示目的、用途或对象。 本题正确答案是 “for”。",
+        "explanation":  "for + 名詞。for 後接名詞時，可以表示目的、用途或對象。 本題正確答案是 “for”。",
         "knowledge_id":  "prep-purpose",
-        "category":  "前置词"
+        "category":  "介係詞",
+        "knowledgePoint":  "prep-purpose",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "隨附的指南為新員工提供了說明。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  16,
@@ -219,9 +324,16 @@
                         "Unless"
                     ],
         "answer":  1,
-        "explanation":  "although + S + V。although 后接完整句子，表示“虽然”；despite 后接名词。 本题正确答案是 “Although”。",
+        "explanation":  "although + S + V。although 後接完整句子，表示“虽然”；despite 後接名詞。 本題正確答案是 “Although”。",
         "knowledge_id":  "conj-contrast",
-        "category":  "连接词"
+        "category":  "連接詞",
+        "knowledgePoint":  "conj-contrast",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "雖然辦公室已關閉，但支援團隊會遠端接聽電話。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  17,
@@ -233,9 +345,16 @@
                         "Because of"
                     ],
         "answer":  0,
-        "explanation":  "although + S + V。although 后接完整句子，表示“虽然”；despite 后接名词。 本题正确答案是 “Although”。",
+        "explanation":  "although + S + V。although 後接完整句子，表示“虽然”；despite 後接名詞。 本題正確答案是 “Although”。",
         "knowledge_id":  "conj-contrast",
-        "category":  "连接词"
+        "category":  "連接詞",
+        "knowledgePoint":  "conj-contrast",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "雖然需求低於預期，但公司實現了銷售目標。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  18,
@@ -247,9 +366,16 @@
                         "In spite"
                     ],
         "answer":  1,
-        "explanation":  "although + S + V。although 后接完整句子，表示“虽然”；despite 后接名词。 本题正确答案是 “Although”。",
+        "explanation":  "although + S + V。although 後接完整句子，表示“虽然”；despite 後接名詞。 本題正確答案是 “Although”。",
         "knowledge_id":  "conj-contrast",
-        "category":  "连接词"
+        "category":  "連接詞",
+        "knowledgePoint":  "conj-contrast",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "雖然印表機價格便宜，但它能產生高品質的影像。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  19,
@@ -261,9 +387,16 @@
                         "despite"
                     ],
         "answer":  0,
-        "explanation":  "because + S + V；because of + 名词。because 后接完整句子说明原因；because of 后接名词或名词短语。 本题正确答案是 “because”。",
+        "explanation":  "because + S + V；because of + 名詞。because 後接完整句子說明原因；because of 後接名詞或名詞短語。 本題正確答案是 “because”。",
         "knowledge_id":  "conj-cause",
-        "category":  "连接词"
+        "category":  "連接詞",
+        "knowledgePoint":  "conj-cause",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "由於高速公路已關閉，送遞延誤。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     },
     {
         "id":  20,
@@ -275,8 +408,15 @@
                         "unless"
                     ],
         "answer":  1,
-        "explanation":  "because + S + V；because of + 名词。because 后接完整句子说明原因；because of 后接名词或名词短语。 本题正确答案是 “because”。",
+        "explanation":  "because + S + V；because of + 名詞。because 後接完整句子說明原因；because of 後接名詞或名詞短語。 本題正確答案是 “because”。",
         "knowledge_id":  "conj-cause",
-        "category":  "连接词"
+        "category":  "連接詞",
+        "knowledgePoint":  "conj-cause",
+        "source_type":  "ai_generated",
+        "review_status":  "pending_review",
+        "answer_verified":  false,
+        "sentence_translation":  "由於許多員工要求延長註冊時間，因此我們延長了註冊期限。",
+        "translation_source":  "machine_translation_mymemory_zh-TW",
+        "translation_verified":  false
     }
 ]

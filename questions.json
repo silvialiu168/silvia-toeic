@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": 1,
     "question": "The receptionist greeted every visitor _____.",
@@ -9,9 +9,9 @@
       "courteousness"
     ],
     "answer": 1,
-    "explanation": "动词 / 形容词 + 副词。副词用于说明动作如何发生，或修饰形容词。 本题正确答案是 “courteously”。",
+    "explanation": "動詞 / 形容詞 + 副詞。副詞用於說明動作如何發生，或修飾形容詞。 本題正確答案是 “courteously”。",
     "knowledge_id": "pos-adverb",
-    "category": "词性判断"
+    "category": "詞性判斷"
   },
   {
     "id": 2,
@@ -23,9 +23,9 @@
       "efficiencies"
     ],
     "answer": 2,
-    "explanation": "动词 / 形容词 + 副词。副词用于说明动作如何发生，或修饰形容词。 本题正确答案是 “efficiently”。",
+    "explanation": "動詞 / 形容詞 + 副詞。副詞用於說明動作如何發生，或修飾形容詞。 本題正確答案是 “efficiently”。",
     "knowledge_id": "pos-adverb",
-    "category": "词性判断"
+    "category": "詞性判斷"
   },
   {
     "id": 3,
@@ -37,9 +37,9 @@
       "carefulness"
     ],
     "answer": 1,
-    "explanation": "动词 / 形容词 + 副词。副词用于说明动作如何发生，或修饰形容词。 本题正确答案是 “carefully”。",
+    "explanation": "動詞 / 形容詞 + 副詞。副詞用於說明動作如何發生，或修飾形容詞。 本題正確答案是 “carefully”。",
     "knowledge_id": "pos-adverb",
-    "category": "词性判断"
+    "category": "詞性判斷"
   },
   {
     "id": 4,
@@ -51,9 +51,9 @@
       "reviewable"
     ],
     "answer": 0,
-    "explanation": "冠词 / 所有格 + 名词。冠词 a、an、the 或所有格后通常接名词。 本题正确答案是 “review”。",
+    "explanation": "冠詞 / 所有格 + 名詞。冠詞 a、an、the 或所有格後通常接名詞。 本題正確答案是 “review”。",
     "knowledge_id": "pos-noun",
-    "category": "词性判断"
+    "category": "詞性判斷"
   },
   {
     "id": 5,
@@ -65,9 +65,9 @@
       "decisively"
     ],
     "answer": 2,
-    "explanation": "冠词 / 所有格 + 名词。冠词 a、an、the 或所有格后通常接名词。 本题正确答案是 “decision”。",
+    "explanation": "冠詞 / 所有格 + 名詞。冠詞 a、an、the 或所有格後通常接名詞。 本題正確答案是 “decision”。",
     "knowledge_id": "pos-noun",
-    "category": "词性判断"
+    "category": "詞性判斷"
   },
   {
     "id": 6,
@@ -79,9 +79,9 @@
       "inspecting"
     ],
     "answer": 1,
-    "explanation": "冠词 / 所有格 + 名词。冠词 a、an、the 或所有格后通常接名词。 本题正确答案是 “inspection”。",
+    "explanation": "冠詞 / 所有格 + 名詞。冠詞 a、an、the 或所有格後通常接名詞。 本題正確答案是 “inspection”。",
     "knowledge_id": "pos-noun",
-    "category": "词性判断"
+    "category": "詞性判斷"
   },
   {
     "id": 7,
@@ -93,9 +93,9 @@
       "availably"
     ],
     "answer": 2,
-    "explanation": "be / seem / become + 形容词。连系动词后常用形容词说明主语的状态或特征。 本题正确答案是 “available”。",
+    "explanation": "be / seem / become + 形容詞。連綴動詞後常用形容詞說明主語的狀態或特徵。 本題正確答案是 “available”。",
     "knowledge_id": "pos-adjective",
-    "category": "词性判断"
+    "category": "詞性判斷"
   },
   {
     "id": 8,
@@ -107,9 +107,9 @@
       "satisfactorily"
     ],
     "answer": 2,
-    "explanation": "be / seem / become + 形容词。连系动词后常用形容词说明主语的状态或特征。 本题正确答案是 “satisfied”。",
+    "explanation": "be / seem / become + 形容詞。連綴動詞後常用形容詞說明主語的狀態或特徵。 本題正確答案是 “satisfied”。",
     "knowledge_id": "pos-adjective",
-    "category": "词性判断"
+    "category": "詞性判斷"
   },
   {
     "id": 9,
@@ -121,9 +121,9 @@
       "clear"
     ],
     "answer": 3,
-    "explanation": "be / seem / become + 形容词。连系动词后常用形容词说明主语的状态或特征。 本题正确答案是 “clear”。",
+    "explanation": "be / seem / become + 形容詞。連綴動詞後常用形容詞說明主語的狀態或特徵。 本題正確答案是 “clear”。",
     "knowledge_id": "pos-adjective",
-    "category": "词性判断"
+    "category": "詞性判斷"
   },
   {
     "id": 10,
@@ -135,9 +135,9 @@
       "for"
     ],
     "answer": 1,
-    "explanation": "at + 时间点；on + 日期；in + 月份/年份。具体时间点常用 at，日期或星期常用 on，月份、年份或较长期间常用 in。 本题正确答案是 “on”。",
+    "explanation": "at + 時間點；on + 日期；in + 月份/年份。具體時間點常用 at，日期或星期常用 on，月份、年份或較長期間常用 in。 本題正確答案是 “on”。",
     "knowledge_id": "prep-time",
-    "category": "前置词"
+    "category": "介係詞"
   },
   {
     "id": 11,
@@ -149,9 +149,9 @@
       "during"
     ],
     "answer": 0,
-    "explanation": "at + 时间点；on + 日期；in + 月份/年份。具体时间点常用 at，日期或星期常用 on，月份、年份或较长期间常用 in。 本题正确答案是 “at”。",
+    "explanation": "at + 時間點；on + 日期；in + 月份/年份。具體時間點常用 at，日期或星期常用 on，月份、年份或較長期間常用 in。 本題正確答案是 “at”。",
     "knowledge_id": "prep-time",
-    "category": "前置词"
+    "category": "介係詞"
   },
   {
     "id": 12,
@@ -163,9 +163,9 @@
       "by"
     ],
     "answer": 2,
-    "explanation": "at + 时间点；on + 日期；in + 月份/年份。具体时间点常用 at，日期或星期常用 on，月份、年份或较长期间常用 in。 本题正确答案是 “in”。",
+    "explanation": "at + 時間點；on + 日期；in + 月份/年份。具體時間點常用 at，日期或星期常用 on，月份、年份或較長期間常用 in。 本題正確答案是 “in”。",
     "knowledge_id": "prep-time",
-    "category": "前置词"
+    "category": "介係詞"
   },
   {
     "id": 13,
@@ -177,9 +177,9 @@
       "among"
     ],
     "answer": 0,
-    "explanation": "for + 名词。for 后接名词时，可以表示目的、用途或对象。 本题正确答案是 “for”。",
+    "explanation": "for + 名詞。for 後接名詞時，可以表示目的、用途或對象。 本題正確答案是 “for”。",
     "knowledge_id": "prep-purpose",
-    "category": "前置词"
+    "category": "介係詞"
   },
   {
     "id": 14,
@@ -191,9 +191,9 @@
       "upon"
     ],
     "answer": 1,
-    "explanation": "for + 名词。for 后接名词时，可以表示目的、用途或对象。 本题正确答案是 “for”。",
+    "explanation": "for + 名詞。for 後接名詞時，可以表示目的、用途或對象。 本題正確答案是 “for”。",
     "knowledge_id": "prep-purpose",
-    "category": "前置词"
+    "category": "介係詞"
   },
   {
     "id": 15,
@@ -205,9 +205,9 @@
       "between"
     ],
     "answer": 2,
-    "explanation": "for + 名词。for 后接名词时，可以表示目的、用途或对象。 本题正确答案是 “for”。",
+    "explanation": "for + 名詞。for 後接名詞時，可以表示目的、用途或對象。 本題正確答案是 “for”。",
     "knowledge_id": "prep-purpose",
-    "category": "前置词"
+    "category": "介係詞"
   },
   {
     "id": 16,
@@ -219,9 +219,9 @@
       "Unless"
     ],
     "answer": 1,
-    "explanation": "although + S + V。although 后接完整句子，表示“虽然”；despite 后接名词。 本题正确答案是 “Although”。",
+    "explanation": "although + S + V。although 後接完整句子，表示“虽然”；despite 後接名詞。 本題正確答案是 “Although”。",
     "knowledge_id": "conj-contrast",
-    "category": "连接词"
+    "category": "連接詞"
   },
   {
     "id": 17,
@@ -233,9 +233,9 @@
       "Because of"
     ],
     "answer": 0,
-    "explanation": "although + S + V。although 后接完整句子，表示“虽然”；despite 后接名词。 本题正确答案是 “Although”。",
+    "explanation": "although + S + V。although 後接完整句子，表示“虽然”；despite 後接名詞。 本題正確答案是 “Although”。",
     "knowledge_id": "conj-contrast",
-    "category": "连接词"
+    "category": "連接詞"
   },
   {
     "id": 18,
@@ -247,9 +247,9 @@
       "In spite"
     ],
     "answer": 1,
-    "explanation": "although + S + V。although 后接完整句子，表示“虽然”；despite 后接名词。 本题正确答案是 “Although”。",
+    "explanation": "although + S + V。although 後接完整句子，表示“虽然”；despite 後接名詞。 本題正確答案是 “Although”。",
     "knowledge_id": "conj-contrast",
-    "category": "连接词"
+    "category": "連接詞"
   },
   {
     "id": 19,
@@ -261,9 +261,9 @@
       "despite"
     ],
     "answer": 0,
-    "explanation": "because + S + V；because of + 名词。because 后接完整句子说明原因；because of 后接名词或名词短语。 本题正确答案是 “because”。",
+    "explanation": "because + S + V；because of + 名詞。because 後接完整句子說明原因；because of 後接名詞或名詞短語。 本題正確答案是 “because”。",
     "knowledge_id": "conj-cause",
-    "category": "连接词"
+    "category": "連接詞"
   },
   {
     "id": 20,
@@ -275,9 +275,9 @@
       "unless"
     ],
     "answer": 1,
-    "explanation": "because + S + V；because of + 名词。because 后接完整句子说明原因；because of 后接名词或名词短语。 本题正确答案是 “because”。",
+    "explanation": "because + S + V；because of + 名詞。because 後接完整句子說明原因；because of 後接名詞或名詞短語。 本題正確答案是 “because”。",
     "knowledge_id": "conj-cause",
-    "category": "连接词"
+    "category": "連接詞"
   },
   {
     "id": 21,
@@ -289,9 +289,9 @@
       "although of"
     ],
     "answer": 2,
-    "explanation": "because + S + V；because of + 名词。because 后接完整句子说明原因；because of 后接名词或名词短语。 本题正确答案是 “because”。",
+    "explanation": "because + S + V；because of + 名詞。because 後接完整句子說明原因；because of 後接名詞或名詞短語。 本題正確答案是 “because”。",
     "knowledge_id": "conj-cause",
-    "category": "连接词"
+    "category": "連接詞"
   },
   {
     "id": 22,
@@ -303,9 +303,9 @@
       "arriving"
     ],
     "answer": 0,
-    "explanation": "when / before / after / as soon as + 现在式。谈论未来时，时间副词子句通常用现在式代替 will。 本题正确答案是 “arrives”。",
+    "explanation": "when / before / after / as soon as + 現在式。谈论未来時，時間副詞子句通常用現在式代替 will。 本題正確答案是 “arrives”。",
     "knowledge_id": "time-clause",
-    "category": "时间副词子句"
+    "category": "時間副詞子句"
   },
   {
     "id": 23,
@@ -317,9 +317,9 @@
       "signing"
     ],
     "answer": 1,
-    "explanation": "when / before / after / as soon as + 现在式。谈论未来时，时间副词子句通常用现在式代替 will。 本题正确答案是 “signs”。",
+    "explanation": "when / before / after / as soon as + 現在式。谈论未来時，時間副詞子句通常用現在式代替 will。 本題正確答案是 “signs”。",
     "knowledge_id": "time-clause",
-    "category": "时间副词子句"
+    "category": "時間副詞子句"
   },
   {
     "id": 24,
@@ -331,9 +331,9 @@
       "arrived"
     ],
     "answer": 2,
-    "explanation": "when / before / after / as soon as + 现在式。谈论未来时，时间副词子句通常用现在式代替 will。 本题正确答案是 “arrives”。",
+    "explanation": "when / before / after / as soon as + 現在式。谈论未来時，時間副詞子句通常用現在式代替 will。 本題正確答案是 “arrives”。",
     "knowledge_id": "time-clause",
-    "category": "时间副词子句"
+    "category": "時間副詞子句"
   },
   {
     "id": 25,
@@ -345,9 +345,9 @@
       "were"
     ],
     "answer": 1,
-    "explanation": "单数主语 + 单数动词。主语中心词为单数时，动词使用单数形式；介词短语不改变主语单复数。 本题正确答案是 “is”。",
+    "explanation": "單數主語 + 單數動詞。主語中心詞為單數時，動詞使用單數形式；介詞短語不改变主語單複數。 本題正確答案是 “is”。",
     "knowledge_id": "agreement-singular",
-    "category": "主谓一致"
+    "category": "主謂一致"
   },
   {
     "id": 26,
@@ -359,9 +359,9 @@
       "being"
     ],
     "answer": 0,
-    "explanation": "单数主语 + 单数动词。主语中心词为单数时，动词使用单数形式；介词短语不改变主语单复数。 本题正确答案是 “is”。",
+    "explanation": "單數主語 + 單數動詞。主語中心詞為單數時，動詞使用單數形式；介詞短語不改变主語單複數。 本題正確答案是 “is”。",
     "knowledge_id": "agreement-singular",
-    "category": "主谓一致"
+    "category": "主謂一致"
   },
   {
     "id": 27,
@@ -373,9 +373,9 @@
       "have met"
     ],
     "answer": 1,
-    "explanation": "单数主语 + 单数动词。主语中心词为单数时，动词使用单数形式；介词短语不改变主语单复数。 本题正确答案是 “meets”。",
+    "explanation": "單數主語 + 單數動詞。主語中心詞為單數時，動詞使用單數形式；介詞短語不改变主語單複數。 本題正確答案是 “meets”。",
     "knowledge_id": "agreement-singular",
-    "category": "主谓一致"
+    "category": "主謂一致"
   },
   {
     "id": 28,
@@ -387,9 +387,9 @@
       "have provided"
     ],
     "answer": 1,
-    "explanation": "each / every + 单数动词。each、every、everyone 等表达在语法上通常视为单数。 本题正确答案是 “provides”。",
+    "explanation": "each / every + 單數動詞。each、every、everyone 等表達在語法上通常视為單數。 本題正確答案是 “provides”。",
     "knowledge_id": "agreement-each",
-    "category": "主谓一致"
+    "category": "主謂一致"
   },
   {
     "id": 29,
@@ -401,9 +401,9 @@
       "having"
     ],
     "answer": 2,
-    "explanation": "each / every + 单数动词。each、every、everyone 等表达在语法上通常视为单数。 本题正确答案是 “has”。",
+    "explanation": "each / every + 單數動詞。each、every、everyone 等表達在語法上通常视為單數。 本題正確答案是 “has”。",
     "knowledge_id": "agreement-each",
-    "category": "主谓一致"
+    "category": "主謂一致"
   },
   {
     "id": 30,
@@ -415,9 +415,9 @@
       "be"
     ],
     "answer": 0,
-    "explanation": "each / every + 单数动词。each、every、everyone 等表达在语法上通常视为单数。 本题正确答案是 “is”。",
+    "explanation": "each / every + 單數動詞。each、every、everyone 等表達在語法上通常视為單數。 本題正確答案是 “is”。",
     "knowledge_id": "agreement-each",
-    "category": "主谓一致"
+    "category": "主謂一致"
   },
   {
     "id": 31,
@@ -429,9 +429,9 @@
       "whom"
     ],
     "answer": 1,
-    "explanation": "人 + who + V。先行词是人，且空格在关系子句中作主语时，使用 who。 本题正确答案是 “who”。",
+    "explanation": "人 + who + V。先行詞是人，且空格在關係子句中作主語時，使用 who。 本題正確答案是 “who”。",
     "knowledge_id": "relative-person",
-    "category": "关系代名词"
+    "category": "關係代名詞"
   },
   {
     "id": 32,
@@ -443,9 +443,9 @@
       "whose"
     ],
     "answer": 0,
-    "explanation": "人 + who + V。先行词是人，且空格在关系子句中作主语时，使用 who。 本题正确答案是 “who”。",
+    "explanation": "人 + who + V。先行詞是人，且空格在關係子句中作主語時，使用 who。 本題正確答案是 “who”。",
     "knowledge_id": "relative-person",
-    "category": "关系代名词"
+    "category": "關係代名詞"
   },
   {
     "id": 33,
@@ -457,9 +457,9 @@
       "who"
     ],
     "answer": 3,
-    "explanation": "人 + who + V。先行词是人，且空格在关系子句中作主语时，使用 who。 本题正确答案是 “who”。",
+    "explanation": "人 + who + V。先行詞是人，且空格在關係子句中作主語時，使用 who。 本題正確答案是 “who”。",
     "knowledge_id": "relative-person",
-    "category": "关系代名词"
+    "category": "關係代名詞"
   },
   {
     "id": 34,
@@ -471,9 +471,9 @@
       "whom"
     ],
     "answer": 1,
-    "explanation": "whose + 名词。whose 后接名词，表示该名词属于前面提到的人或事物。 本题正确答案是 “whose”。",
+    "explanation": "whose + 名詞。whose 後接名詞，表示该名詞属於前面提到的人或事物。 本題正確答案是 “whose”。",
     "knowledge_id": "relative-whose",
-    "category": "关系代名词"
+    "category": "關係代名詞"
   },
   {
     "id": 35,
@@ -485,9 +485,9 @@
       "whom"
     ],
     "answer": 0,
-    "explanation": "whose + 名词。whose 后接名词，表示该名词属于前面提到的人或事物。 本题正确答案是 “whose”。",
+    "explanation": "whose + 名詞。whose 後接名詞，表示该名詞属於前面提到的人或事物。 本題正確答案是 “whose”。",
     "knowledge_id": "relative-whose",
-    "category": "关系代名词"
+    "category": "關係代名詞"
   },
   {
     "id": 36,
@@ -499,9 +499,9 @@
       "whom"
     ],
     "answer": 2,
-    "explanation": "whose + 名词。whose 后接名词，表示该名词属于前面提到的人或事物。 本题正确答案是 “whose”。",
+    "explanation": "whose + 名詞。whose 後接名詞，表示该名詞属於前面提到的人或事物。 本題正確答案是 “whose”。",
     "knowledge_id": "relative-whose",
-    "category": "关系代名词"
+    "category": "關係代名詞"
   },
   {
     "id": 37,
@@ -513,7 +513,7 @@
       "at"
     ],
     "answer": 1,
-    "explanation": "be responsible for + 名词 / V-ing。be responsible for 表示“负责……”，for 后接名词或 V-ing。 本题正确答案是 “for”。",
+    "explanation": "be responsible for + 名詞 / V-ing。be responsible for 表示“负责……”，for 後接名詞或 V-ing。 本題正確答案是 “for”。",
     "knowledge_id": "collocation-responsible",
     "category": "固定搭配"
   },
@@ -527,7 +527,7 @@
       "inspection"
     ],
     "answer": 2,
-    "explanation": "be responsible for + 名词 / V-ing。be responsible for 表示“负责……”，for 后接名词或 V-ing。 本题正确答案是 “inspecting”。",
+    "explanation": "be responsible for + 名詞 / V-ing。be responsible for 表示“负责……”，for 後接名詞或 V-ing。 本題正確答案是 “inspecting”。",
     "knowledge_id": "collocation-responsible",
     "category": "固定搭配"
   },
@@ -541,7 +541,7 @@
       "from"
     ],
     "answer": 0,
-    "explanation": "be responsible for + 名词 / V-ing。be responsible for 表示“负责……”，for 后接名词或 V-ing。 本题正确答案是 “for”。",
+    "explanation": "be responsible for + 名詞 / V-ing。be responsible for 表示“负责……”，for 後接名詞或 V-ing。 本題正確答案是 “for”。",
     "knowledge_id": "collocation-responsible",
     "category": "固定搭配"
   },
@@ -555,7 +555,7 @@
       "priority"
     ],
     "answer": 1,
-    "explanation": "in advance。in advance 表示“提前”。 本题正确答案是 “advance”。",
+    "explanation": "in advance。in advance 表示“提前”。 本題正確答案是 “advance”。",
     "knowledge_id": "collocation-in-advance",
     "category": "固定搭配"
   },
@@ -569,7 +569,7 @@
       "advancement"
     ],
     "answer": 1,
-    "explanation": "in advance。in advance 表示“提前”。 本题正确答案是 “advance”。",
+    "explanation": "in advance。in advance 表示“提前”。 本題正確答案是 “advance”。",
     "knowledge_id": "collocation-in-advance",
     "category": "固定搭配"
   },
@@ -583,7 +583,7 @@
       "ahead"
     ],
     "answer": 2,
-    "explanation": "in advance。in advance 表示“提前”。 本题正确答案是 “advance”。",
+    "explanation": "in advance。in advance 表示“提前”。 本題正確答案是 “advance”。",
     "knowledge_id": "collocation-in-advance",
     "category": "固定搭配"
   },
@@ -597,9 +597,9 @@
       "manufacture"
     ],
     "answer": 0,
-    "explanation": "商务场景 + 合适词义。根据采购、会议、人事、运输等商务场景，选择最符合上下文的词。 本题正确答案是 “interview”。",
+    "explanation": "商務场景 + 合适詞義。根據采购、會议、人事、运输等商務场景，選擇最符合上下文的詞。 本題正確答案是 “interview”。",
     "knowledge_id": "business-vocab",
-    "category": "商务词汇"
+    "category": "商務詞彙"
   },
   {
     "id": 44,
@@ -611,9 +611,9 @@
       "brochures"
     ],
     "answer": 0,
-    "explanation": "商务场景 + 合适词义。根据采购、会议、人事、运输等商务场景，选择最符合上下文的词。 本题正确答案是 “receipts”。",
+    "explanation": "商務场景 + 合适詞義。根據采购、會议、人事、运输等商務场景，選擇最符合上下文的詞。 本題正確答案是 “receipts”。",
     "knowledge_id": "business-vocab",
-    "category": "商务词汇"
+    "category": "商務詞彙"
   },
   {
     "id": 45,
@@ -625,9 +625,9 @@
       "warranty"
     ],
     "answer": 1,
-    "explanation": "商务场景 + 合适词义。根据采购、会议、人事、运输等商务场景，选择最符合上下文的词。 本题正确答案是 “discount”。",
+    "explanation": "商務场景 + 合适詞義。根據采购、會议、人事、运输等商務场景，選擇最符合上下文的詞。 本題正確答案是 “discount”。",
     "knowledge_id": "business-vocab",
-    "category": "商务词汇"
+    "category": "商務詞彙"
   },
   {
     "id": 46,
@@ -639,7 +639,7 @@
       "development"
     ],
     "answer": 2,
-    "explanation": "be dedicated to + V-ing。to 是前置词，后面接 V-ing。 本题正确答案是 “developing”。",
+    "explanation": "be dedicated to + V-ing。to 是介係詞，後面接 V-ing。 本題正確答案是 “developing”。",
     "knowledge_id": "dedicated-to-doing",
     "category": "固定搭配"
   },
@@ -653,7 +653,7 @@
       "be assisted"
     ],
     "answer": 1,
-    "explanation": "be dedicated to + V-ing。to 是前置词，后面接 V-ing。 本题正确答案是 “assisting”。",
+    "explanation": "be dedicated to + V-ing。to 是介係詞，後面接 V-ing。 本題正確答案是 “assisting”。",
     "knowledge_id": "dedicated-to-doing",
     "category": "固定搭配"
   },
@@ -667,7 +667,7 @@
       "reduction"
     ],
     "answer": 2,
-    "explanation": "be dedicated to + V-ing。to 是前置词，后面接 V-ing。 本题正确答案是 “reducing”。",
+    "explanation": "be dedicated to + V-ing。to 是介係詞，後面接 V-ing。 本題正確答案是 “reducing”。",
     "knowledge_id": "dedicated-to-doing",
     "category": "固定搭配"
   },
@@ -681,7 +681,7 @@
       "approval"
     ],
     "answer": 0,
-    "explanation": "have / has yet to + 原形动词。表示尚未做某事。 本题正确答案是 “approve”。",
+    "explanation": "have / has yet to + 原形動詞。表示尚未做某事。 本題正確答案是 “approve”。",
     "knowledge_id": "have-yet-to-do",
     "category": "固定搭配"
   },
@@ -695,7 +695,7 @@
       "confirm"
     ],
     "answer": 3,
-    "explanation": "have / has yet to + 原形动词。表示尚未做某事。 本题正确答案是 “confirm”。",
+    "explanation": "have / has yet to + 原形動詞。表示尚未做某事。 本題正確答案是 “confirm”。",
     "knowledge_id": "have-yet-to-do",
     "category": "固定搭配"
   },
@@ -709,7 +709,7 @@
       "answers"
     ],
     "answer": 0,
-    "explanation": "have / has yet to + 原形动词。表示尚未做某事。 本题正确答案是 “answer”。",
+    "explanation": "have / has yet to + 原形動詞。表示尚未做某事。 本題正確答案是 “answer”。",
     "knowledge_id": "have-yet-to-do",
     "category": "固定搭配"
   },
@@ -723,9 +723,9 @@
       "were"
     ],
     "answer": 1,
-    "explanation": "A along with B + 与 A 一致的动词。主谓一致看 A，along with B 不改变主语的单复数。 本题正确答案是 “is”。",
+    "explanation": "A along with B + 與 A 一致的動詞。主謂一致看 A，along with B 不改变主語的單複數。 本題正確答案是 “is”。",
     "knowledge_id": "along-with-agreement",
-    "category": "主谓一致"
+    "category": "主謂一致"
   },
   {
     "id": 53,
@@ -737,9 +737,9 @@
       "have arrived"
     ],
     "answer": 1,
-    "explanation": "A along with B + 与 A 一致的动词。主谓一致看 A，along with B 不改变主语的单复数。 本题正确答案是 “arrives”。",
+    "explanation": "A along with B + 與 A 一致的動詞。主謂一致看 A，along with B 不改变主語的單複數。 本題正確答案是 “arrives”。",
     "knowledge_id": "along-with-agreement",
-    "category": "主谓一致"
+    "category": "主謂一致"
   },
   {
     "id": 54,
@@ -751,9 +751,9 @@
       "were"
     ],
     "answer": 1,
-    "explanation": "A along with B + 与 A 一致的动词。主谓一致看 A，along with B 不改变主语的单复数。 本题正确答案是 “has”。",
+    "explanation": "A along with B + 與 A 一致的動詞。主謂一致看 A，along with B 不改变主語的單複數。 本題正確答案是 “has”。",
     "knowledge_id": "along-with-agreement",
-    "category": "主谓一致"
+    "category": "主謂一致"
   },
   {
     "id": 55,
@@ -765,9 +765,9 @@
       "is"
     ],
     "answer": 1,
-    "explanation": "prior to + 名词 / V-ing。prior to 是前置词，后面接名词或 V-ing。 本题正确答案是 “being”。",
+    "explanation": "prior to + 名詞 / V-ing。prior to 是介係詞，後面接名詞或 V-ing。 本題正確答案是 “being”。",
     "knowledge_id": "prior-to",
-    "category": "前置词"
+    "category": "介係詞"
   },
   {
     "id": 56,
@@ -779,9 +779,9 @@
       "enters"
     ],
     "answer": 2,
-    "explanation": "prior to + 名词 / V-ing。prior to 是前置词，后面接名词或 V-ing。 本题正确答案是 “entering”。",
+    "explanation": "prior to + 名詞 / V-ing。prior to 是介係詞，後面接名詞或 V-ing。 本題正確答案是 “entering”。",
     "knowledge_id": "prior-to",
-    "category": "前置词"
+    "category": "介係詞"
   },
   {
     "id": 57,
@@ -793,9 +793,9 @@
       "meets"
     ],
     "answer": 1,
-    "explanation": "prior to + 名词 / V-ing。prior to 是前置词，后面接名词或 V-ing。 本题正确答案是 “meeting”。",
+    "explanation": "prior to + 名詞 / V-ing。prior to 是介係詞，後面接名詞或 V-ing。 本題正確答案是 “meeting”。",
     "knowledge_id": "prior-to",
-    "category": "前置词"
+    "category": "介係詞"
   },
   {
     "id": 58,
@@ -807,9 +807,9 @@
       "during"
     ],
     "answer": 1,
-    "explanation": "whereas + S + V。whereas 是连接词，连接两个完整句子，表示对比。 本题正确答案是 “whereas”。",
+    "explanation": "whereas + S + V。whereas 是連接詞，連接两個完整句子，表示对比。 本題正確答案是 “whereas”。",
     "knowledge_id": "whereas-clause",
-    "category": "连接词"
+    "category": "連接詞"
   },
   {
     "id": 59,
@@ -821,9 +821,9 @@
       "despite"
     ],
     "answer": 0,
-    "explanation": "whereas + S + V。whereas 是连接词，连接两个完整句子，表示对比。 本题正确答案是 “whereas”。",
+    "explanation": "whereas + S + V。whereas 是連接詞，連接两個完整句子，表示对比。 本題正確答案是 “whereas”。",
     "knowledge_id": "whereas-clause",
-    "category": "连接词"
+    "category": "連接詞"
   },
   {
     "id": 60,
@@ -835,9 +835,9 @@
       "because of"
     ],
     "answer": 1,
-    "explanation": "whereas + S + V。whereas 是连接词，连接两个完整句子，表示对比。 本题正确答案是 “whereas”。",
+    "explanation": "whereas + S + V。whereas 是連接詞，連接两個完整句子，表示对比。 本題正確答案是 “whereas”。",
     "knowledge_id": "whereas-clause",
-    "category": "连接词"
+    "category": "連接詞"
   },
   {
     "id": 61,
@@ -849,9 +849,9 @@
       "Who"
     ],
     "answer": 0,
-    "explanation": "whoever + V。whoever 等于 anyone who，可引导主语从句。 本题正确答案是 “Whoever”。",
+    "explanation": "whoever + V。whoever 等於 anyone who，可引导主語從句。 本題正確答案是 “Whoever”。",
     "knowledge_id": "whoever-subject",
-    "category": "关系代名词"
+    "category": "關係代名詞"
   },
   {
     "id": 62,
@@ -863,9 +863,9 @@
       "Whose"
     ],
     "answer": 1,
-    "explanation": "whoever + V。whoever 等于 anyone who，可引导主语从句。 本题正确答案是 “Whoever”。",
+    "explanation": "whoever + V。whoever 等於 anyone who，可引导主語從句。 本題正確答案是 “Whoever”。",
     "knowledge_id": "whoever-subject",
-    "category": "关系代名词"
+    "category": "關係代名詞"
   },
   {
     "id": 63,
@@ -877,8 +877,12 @@
       "Which"
     ],
     "answer": 2,
-    "explanation": "whoever + V。whoever 等于 anyone who，可引导主语从句。 本题正确答案是 “Whoever”。",
+    "explanation": "whoever + V。whoever 等於 anyone who，可引导主語從句。 本題正確答案是 “Whoever”。",
     "knowledge_id": "whoever-subject",
-    "category": "关系代名词"
+    "category": "關係代名詞"
   }
 ]
+
+
+
+

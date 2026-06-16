@@ -1,0 +1,3017 @@
+{
+  "source": "動詞三態變化.pdf",
+  "raw_rows": 102,
+  "unique_words": 100,
+  "entries": [
+    {
+      "id": "JUNIOR_VERB_001",
+      "word": "cost",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "花費",
+      "chinese": "花費",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "cost",
+        "third_person": "costs",
+        "past": "cost",
+        "past_participle": "cost",
+        "ing": "costing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "cost"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_002",
+      "word": "cut",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "≘割",
+      "chinese": "≘割",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "cut",
+        "third_person": "cuts",
+        "past": "cut",
+        "past_participle": "cut",
+        "ing": "cutting"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "cut"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_003",
+      "word": "fit",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "合身",
+      "chinese": "合身",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "fit",
+        "third_person": "fits",
+        "past": "fit",
+        "past_participle": "fit",
+        "ing": "fitting"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "fit"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_004",
+      "word": "hit",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "碰撞",
+      "chinese": "碰撞",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "hit",
+        "third_person": "hits",
+        "past": "hit",
+        "past_participle": "hit",
+        "ing": "hitting"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "hit"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_005",
+      "word": "hurt",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "傷害",
+      "chinese": "傷害",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "hurt",
+        "third_person": "hurts",
+        "past": "hurt",
+        "past_participle": "hurt",
+        "ing": "hurting"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "hurt"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_006",
+      "word": "let",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "讓",
+      "chinese": "讓",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "let",
+        "third_person": "lets",
+        "past": "let",
+        "past_participle": "let",
+        "ing": "letting"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "let"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_007",
+      "word": "put",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "放置",
+      "chinese": "放置",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "put",
+        "third_person": "puts",
+        "past": "put",
+        "past_participle": "put",
+        "ing": "putting"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "put"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_008",
+      "word": "quit",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "放棄",
+      "chinese": "放棄",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "quit",
+        "third_person": "quits",
+        "past": "quit",
+        "past_participle": "quit",
+        "ing": "quitting"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "quit"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_009",
+      "word": "read",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "閱讀",
+      "chinese": "閱讀",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "read",
+        "third_person": "reads",
+        "past": "read",
+        "past_participle": "read",
+        "ing": "reading"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "read"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_010",
+      "word": "set",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "擺放",
+      "chinese": "擺放",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "set",
+        "third_person": "sets",
+        "past": "set",
+        "past_participle": "set",
+        "ing": "setting"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "set"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_011",
+      "word": "shut",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "關閉",
+      "chinese": "關閉",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "shut",
+        "third_person": "shuts",
+        "past": "shut",
+        "past_participle": "shut",
+        "ing": "shutting"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "shut"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_012",
+      "word": "spread",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "傳開",
+      "chinese": "傳開",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "spread",
+        "third_person": "spreads",
+        "past": "spread",
+        "past_participle": "spread",
+        "ing": "spreading"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "spread"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_013",
+      "word": "become",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "變成",
+      "chinese": "變成",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "become",
+        "third_person": "becomes",
+        "past": "became",
+        "past_participle": "become",
+        "ing": "becoming"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "become"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_014",
+      "word": "come",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "來",
+      "chinese": "來",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "come",
+        "third_person": "comes",
+        "past": "came",
+        "past_participle": "come",
+        "ing": "coming"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "come"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_015",
+      "word": "run",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "跑步",
+      "chinese": "跑步",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "run",
+        "third_person": "runs",
+        "past": "ran",
+        "past_participle": "run",
+        "ing": "running"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "run"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_016",
+      "word": "bend",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "彎曲",
+      "chinese": "彎曲",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "bend",
+        "third_person": "bends",
+        "past": "bent",
+        "past_participle": "bent",
+        "ing": "bending"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "bend"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_017",
+      "word": "bring",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "帶來",
+      "chinese": "帶來",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "bring",
+        "third_person": "brings",
+        "past": "brought",
+        "past_participle": "brought",
+        "ing": "bringing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "bring"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_018",
+      "word": "build",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "建築；建造",
+      "chinese": "建築；建造",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "build",
+        "third_person": "builds",
+        "past": "built",
+        "past_participle": "built",
+        "ing": "building"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "build"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_019",
+      "word": "burn",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "燃燒；燒焦",
+      "chinese": "燃燒；燒焦",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "burn",
+        "third_person": "burns",
+        "past": "burnt",
+        "past_participle": "burnt",
+        "ing": "burning"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "burn"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_020",
+      "word": "buy",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "買",
+      "chinese": "買",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "buy",
+        "third_person": "buys",
+        "past": "bought",
+        "past_participle": "bought",
+        "ing": "buying"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "buy"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_021",
+      "word": "catch",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "抓到；接到",
+      "chinese": "抓到；接到",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "catch",
+        "third_person": "catches",
+        "past": "caught",
+        "past_participle": "caught",
+        "ing": "catching"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "catch"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_022",
+      "word": "deal",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "處理",
+      "chinese": "處理",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "deal",
+        "third_person": "deals",
+        "past": "dealt",
+        "past_participle": "dealt",
+        "ing": "dealing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "deal"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_023",
+      "word": "dig",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "挖",
+      "chinese": "挖",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "dig",
+        "third_person": "digs",
+        "past": "dug",
+        "past_participle": "dug",
+        "ing": "digging"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "dig"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_024",
+      "word": "dive",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "潛水",
+      "chinese": "潛水",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "dive",
+        "third_person": "dives",
+        "past": "dove",
+        "past_participle": "dove",
+        "ing": "diving"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "dive"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_025",
+      "word": "feed",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "餵",
+      "chinese": "餵",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "feed",
+        "third_person": "feeds",
+        "past": "fed",
+        "past_participle": "fed",
+        "ing": "feeding"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "feed"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_026",
+      "word": "feel",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "感覺",
+      "chinese": "感覺",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "feel",
+        "third_person": "feels",
+        "past": "felt",
+        "past_participle": "felt",
+        "ing": "feeling"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "feel"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_027",
+      "word": "fight",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "打Ἠ；打架",
+      "chinese": "打Ἠ；打架",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "fight",
+        "third_person": "fights",
+        "past": "fought",
+        "past_participle": "fought",
+        "ing": "fighting"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "fight"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_028",
+      "word": "find",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "找到",
+      "chinese": "找到",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "find",
+        "third_person": "finds",
+        "past": "found",
+        "past_participle": "found",
+        "ing": "finding"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "find"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_029",
+      "word": "get",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "得到；獲得",
+      "chinese": "得到；獲得",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "get",
+        "third_person": "gets",
+        "past": "got",
+        "past_participle": "got",
+        "ing": "getting"
+      },
+      "alternate_forms": [
+        {
+          "past": "got",
+          "past_participle": "got/gotten"
+        }
+      ],
+      "word_family": {
+        "verb": "get"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_030",
+      "word": "hang",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "懸掛；吊死",
+      "chinese": "懸掛；吊死",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "hang",
+        "third_person": "hangs",
+        "past": "hung",
+        "past_participle": "hung",
+        "ing": "hanging"
+      },
+      "alternate_forms": [
+        {
+          "past": "hanged",
+          "past_participle": "hanged"
+        }
+      ],
+      "word_family": {
+        "verb": "hang"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_031",
+      "word": "have",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "有；吃",
+      "chinese": "有；吃",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "have",
+        "third_person": "has",
+        "past": "had",
+        "past_participle": "had",
+        "ing": "having"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "have"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_032",
+      "word": "hear",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "聽到",
+      "chinese": "聽到",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "hear",
+        "third_person": "hears",
+        "past": "heard",
+        "past_participle": "heard",
+        "ing": "hearing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "hear"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_033",
+      "word": "hold",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "抓住；保持",
+      "chinese": "抓住；保持",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "hold",
+        "third_person": "holds",
+        "past": "held",
+        "past_participle": "held",
+        "ing": "holding"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "hold"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_034",
+      "word": "keep",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "保持；保有",
+      "chinese": "保持；保有",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "keep",
+        "third_person": "keeps",
+        "past": "kept",
+        "past_participle": "kept",
+        "ing": "keeping"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "keep"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_035",
+      "word": "lead",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "帶領；領導",
+      "chinese": "帶領；領導",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "lead",
+        "third_person": "leads",
+        "past": "led",
+        "past_participle": "led",
+        "ing": "leading"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "lead"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_036",
+      "word": "leave",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "留下；離開",
+      "chinese": "留下；離開",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "leave",
+        "third_person": "leaves",
+        "past": "left",
+        "past_participle": "left",
+        "ing": "leaving"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "leave"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_037",
+      "word": "lend",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "借出",
+      "chinese": "借出",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "lend",
+        "third_person": "lends",
+        "past": "lent",
+        "past_participle": "lent",
+        "ing": "lending"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "lend"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_038",
+      "word": "light",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "點燃",
+      "chinese": "點燃",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "light",
+        "third_person": "lights",
+        "past": "lit",
+        "past_participle": "lit",
+        "ing": "lighting"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "light"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_039",
+      "word": "lose",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "輸；失去；迷路",
+      "chinese": "輸；失去；迷路",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "lose",
+        "third_person": "loses",
+        "past": "lost",
+        "past_participle": "lost",
+        "ing": "losing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "lose"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_040",
+      "word": "make",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "製造；做",
+      "chinese": "製造；做",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "make",
+        "third_person": "makes",
+        "past": "made",
+        "past_participle": "made",
+        "ing": "making"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "make"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_041",
+      "word": "mean",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "意指",
+      "chinese": "意指",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "mean",
+        "third_person": "means",
+        "past": "meant",
+        "past_participle": "meant",
+        "ing": "meaning"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "mean"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_042",
+      "word": "meet",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "遇見",
+      "chinese": "遇見",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "meet",
+        "third_person": "meets",
+        "past": "met",
+        "past_participle": "met",
+        "ing": "meeting"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "meet"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_043",
+      "word": "pay",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "Ἡ費",
+      "chinese": "Ἡ費",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "pay",
+        "third_person": "pays",
+        "past": "paid",
+        "past_participle": "paid",
+        "ing": "paying"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "pay"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_044",
+      "word": "say",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "說",
+      "chinese": "說",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "say",
+        "third_person": "says",
+        "past": "said",
+        "past_participle": "said",
+        "ing": "saying"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "say"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_045",
+      "word": "sell",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "賣",
+      "chinese": "賣",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "sell",
+        "third_person": "sells",
+        "past": "sold",
+        "past_participle": "sold",
+        "ing": "selling"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "sell"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_046",
+      "word": "send",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "寄",
+      "chinese": "寄",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "send",
+        "third_person": "sends",
+        "past": "sent",
+        "past_participle": "sent",
+        "ing": "sending"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "send"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_047",
+      "word": "shine",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "照耀；閃光",
+      "chinese": "照耀；閃光",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "shine",
+        "third_person": "shines",
+        "past": "shone",
+        "past_participle": "shone",
+        "ing": "shining"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "shine"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_048",
+      "word": "shoot",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "㋦射；開槍",
+      "chinese": "㋦射；開槍",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "shoot",
+        "third_person": "shoots",
+        "past": "shot",
+        "past_participle": "shot",
+        "ing": "shooting"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "shoot"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_049",
+      "word": "sit",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "坐",
+      "chinese": "坐",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "sit",
+        "third_person": "sits",
+        "past": "sat",
+        "past_participle": "sat",
+        "ing": "sitting"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "sit"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_050",
+      "word": "sleep",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "睡覺",
+      "chinese": "睡覺",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "sleep",
+        "third_person": "sleeps",
+        "past": "slept",
+        "past_participle": "slept",
+        "ing": "sleeping"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "sleep"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_051",
+      "word": "smell",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "聞",
+      "chinese": "聞",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "smell",
+        "third_person": "smells",
+        "past": "smelt",
+        "past_participle": "smelt",
+        "ing": "smelling"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "smell"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_052",
+      "word": "spell",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "拼字",
+      "chinese": "拼字",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "spell",
+        "third_person": "spells",
+        "past": "spelt",
+        "past_participle": "spelt",
+        "ing": "spelling"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "spell"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_053",
+      "word": "spend",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "花費；花時間",
+      "chinese": "花費；花時間",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "spend",
+        "third_person": "spends",
+        "past": "spent",
+        "past_participle": "spent",
+        "ing": "spending"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "spend"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_054",
+      "word": "stand",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "起立",
+      "chinese": "起立",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "stand",
+        "third_person": "stands",
+        "past": "stood",
+        "past_participle": "stood",
+        "ing": "standing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "stand"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_055",
+      "word": "stick",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "黏",
+      "chinese": "黏",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "stick",
+        "third_person": "sticks",
+        "past": "stuck",
+        "past_participle": "stuck",
+        "ing": "sticking"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "stick"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_056",
+      "word": "sweep",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "清掃",
+      "chinese": "清掃",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "sweep",
+        "third_person": "sweeps",
+        "past": "swept",
+        "past_participle": "swept",
+        "ing": "sweeping"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "sweep"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_057",
+      "word": "teach",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "教導",
+      "chinese": "教導",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "teach",
+        "third_person": "teaches",
+        "past": "taught",
+        "past_participle": "taught",
+        "ing": "teaching"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "teach"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_058",
+      "word": "tell",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "說；告訴",
+      "chinese": "說；告訴",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "tell",
+        "third_person": "tells",
+        "past": "told",
+        "past_participle": "told",
+        "ing": "telling"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "tell"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_059",
+      "word": "think",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "思考；想",
+      "chinese": "思考；想",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "think",
+        "third_person": "thinks",
+        "past": "thought",
+        "past_participle": "thought",
+        "ing": "thinking"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "think"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_060",
+      "word": "understand",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "了解",
+      "chinese": "了解",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "understand",
+        "third_person": "understands",
+        "past": "understood",
+        "past_participle": "understood",
+        "ing": "understanding"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "understand"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_061",
+      "word": "win",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "贏",
+      "chinese": "贏",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "win",
+        "third_person": "wins",
+        "past": "won",
+        "past_participle": "won",
+        "ing": "winning"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "win"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_062",
+      "word": "be",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "煾be動詞煿 是",
+      "chinese": "煾be動詞煿 是",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "be",
+        "third_person": "is",
+        "past": "was/were",
+        "past_participle": "been",
+        "ing": "being"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "be"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_063",
+      "word": "bear",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "生",
+      "chinese": "生",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "bear",
+        "third_person": "bears",
+        "past": "bore",
+        "past_participle": "born",
+        "ing": "bearing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "bear"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_064",
+      "word": "beat",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "打；打敗",
+      "chinese": "打；打敗",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "beat",
+        "third_person": "beats",
+        "past": "beat",
+        "past_participle": "beaten",
+        "ing": "beating"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "beat"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_065",
+      "word": "begin",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "開始",
+      "chinese": "開始",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "begin",
+        "third_person": "begins",
+        "past": "began",
+        "past_participle": "begun",
+        "ing": "beginning"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "begin"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_066",
+      "word": "bite",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "咬",
+      "chinese": "咬",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "bite",
+        "third_person": "bites",
+        "past": "bit",
+        "past_participle": "bitten",
+        "ing": "biting"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "bite"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_067",
+      "word": "blow",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "吹",
+      "chinese": "吹",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "blow",
+        "third_person": "blows",
+        "past": "blew",
+        "past_participle": "blown",
+        "ing": "blowing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "blow"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_068",
+      "word": "break",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "弄斷；弄壞",
+      "chinese": "弄斷；弄壞",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "break",
+        "third_person": "breaks",
+        "past": "broke",
+        "past_participle": "broken",
+        "ing": "breaking"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "break"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_069",
+      "word": "choose",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "選擇",
+      "chinese": "選擇",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "choose",
+        "third_person": "chooses",
+        "past": "chose",
+        "past_participle": "chosen",
+        "ing": "choosing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "choose"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_070",
+      "word": "do",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "做",
+      "chinese": "做",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "do",
+        "third_person": "does",
+        "past": "did",
+        "past_participle": "done",
+        "ing": "doing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "do"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_071",
+      "word": "draw",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "畫；繪製",
+      "chinese": "畫；繪製",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "draw",
+        "third_person": "draws",
+        "past": "drew",
+        "past_participle": "drawn",
+        "ing": "drawing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "draw"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_072",
+      "word": "drink",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "喝",
+      "chinese": "喝",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "drink",
+        "third_person": "drinks",
+        "past": "drank",
+        "past_participle": "drunk",
+        "ing": "drinking"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "drink"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_073",
+      "word": "drive",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "開車",
+      "chinese": "開車",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "drive",
+        "third_person": "drives",
+        "past": "drove",
+        "past_participle": "driven",
+        "ing": "driving"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "drive"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_074",
+      "word": "eat",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "吃",
+      "chinese": "吃",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "eat",
+        "third_person": "eats",
+        "past": "ate",
+        "past_participle": "eaten",
+        "ing": "eating"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "eat"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_075",
+      "word": "fall",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "掉落",
+      "chinese": "掉落",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "fall",
+        "third_person": "falls",
+        "past": "fell",
+        "past_participle": "fallen",
+        "ing": "falling"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "fall"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_076",
+      "word": "fly",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "飛",
+      "chinese": "飛",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "fly",
+        "third_person": "flies",
+        "past": "flew",
+        "past_participle": "flown",
+        "ing": "flying"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "fly"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_077",
+      "word": "forget",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "忘記",
+      "chinese": "忘記",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "forget",
+        "third_person": "forgets",
+        "past": "forgot",
+        "past_participle": "forgot/forgotten",
+        "ing": "forgetting"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "forget"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_078",
+      "word": "forgive",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "原諒",
+      "chinese": "原諒",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "forgive",
+        "third_person": "forgives",
+        "past": "forgave",
+        "past_participle": "forgiven",
+        "ing": "forgiving"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "forgive"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_079",
+      "word": "freeze",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "凝固；結冰",
+      "chinese": "凝固；結冰",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "freeze",
+        "third_person": "freezes",
+        "past": "froze",
+        "past_participle": "frozen",
+        "ing": "freezing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "freeze"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_080",
+      "word": "give",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "給",
+      "chinese": "給",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "give",
+        "third_person": "gives",
+        "past": "gave",
+        "past_participle": "given",
+        "ing": "giving"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "give"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_081",
+      "word": "go",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "去",
+      "chinese": "去",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "go",
+        "third_person": "goes",
+        "past": "went",
+        "past_participle": "gone",
+        "ing": "going"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "go"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_082",
+      "word": "grow",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "成長；種植",
+      "chinese": "成長；種植",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "grow",
+        "third_person": "grows",
+        "past": "grew",
+        "past_participle": "grown",
+        "ing": "growing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "grow"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_083",
+      "word": "hide",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "躲藏",
+      "chinese": "躲藏",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "hide",
+        "third_person": "hides",
+        "past": "hid",
+        "past_participle": "hidden",
+        "ing": "hiding"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "hide"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_084",
+      "word": "know",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "知道；認識",
+      "chinese": "知道；認識",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "know",
+        "third_person": "knows",
+        "past": "knew",
+        "past_participle": "known",
+        "ing": "knowing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "know"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_085",
+      "word": "lie",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "躺著",
+      "chinese": "躺著",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "lie",
+        "third_person": "lies",
+        "past": "lay",
+        "past_participle": "lain",
+        "ing": "lying"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "lie"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_086",
+      "word": "ride",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "騎乘",
+      "chinese": "騎乘",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "ride",
+        "third_person": "rides",
+        "past": "rode",
+        "past_participle": "ridden",
+        "ing": "riding"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "ride"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_087",
+      "word": "ring",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "鈴響",
+      "chinese": "鈴響",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "ring",
+        "third_person": "rings",
+        "past": "rang",
+        "past_participle": "rung",
+        "ing": "ringing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "ring"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_088",
+      "word": "rise",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "起立",
+      "chinese": "起立",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "rise",
+        "third_person": "rises",
+        "past": "rose",
+        "past_participle": "risen",
+        "ing": "rising"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "rise"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_089",
+      "word": "see",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "看到",
+      "chinese": "看到",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "see",
+        "third_person": "sees",
+        "past": "saw",
+        "past_participle": "seen",
+        "ing": "seeing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "see"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_090",
+      "word": "shake",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "搖；顫㋧",
+      "chinese": "搖；顫㋧",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "shake",
+        "third_person": "shakes",
+        "past": "shook",
+        "past_participle": "shaken",
+        "ing": "shaking"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "shake"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_091",
+      "word": "show",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "展示",
+      "chinese": "展示",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "show",
+        "third_person": "shows",
+        "past": "showed",
+        "past_participle": "shown",
+        "ing": "showing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "show"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_092",
+      "word": "sing",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "唱歌",
+      "chinese": "唱歌",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "sing",
+        "third_person": "sings",
+        "past": "sang",
+        "past_participle": "sung",
+        "ing": "singing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "sing"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_093",
+      "word": "speak",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "說；講",
+      "chinese": "說；講",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "speak",
+        "third_person": "speaks",
+        "past": "spoke",
+        "past_participle": "spoken",
+        "ing": "speaking"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "speak"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_094",
+      "word": "steal",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "偷",
+      "chinese": "偷",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "steal",
+        "third_person": "steals",
+        "past": "stole",
+        "past_participle": "stolen",
+        "ing": "stealing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "steal"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_095",
+      "word": "swim",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "游泳",
+      "chinese": "游泳",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "swim",
+        "third_person": "swims",
+        "past": "swam",
+        "past_participle": "swum",
+        "ing": "swimming"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "swim"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_096",
+      "word": "take",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "帶(往)",
+      "chinese": "帶(往)",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "take",
+        "third_person": "takes",
+        "past": "took",
+        "past_participle": "taken",
+        "ing": "taking"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "take"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_097",
+      "word": "throw",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "㋦；擲",
+      "chinese": "㋦；擲",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "throw",
+        "third_person": "throws",
+        "past": "threw",
+        "past_participle": "thrown",
+        "ing": "throwing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "throw"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_098",
+      "word": "wake",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "醒來",
+      "chinese": "醒來",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "wake",
+        "third_person": "wakes",
+        "past": "woke",
+        "past_participle": "woken",
+        "ing": "waking"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "wake"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_099",
+      "word": "wear",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "穿戴",
+      "chinese": "穿戴",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "wear",
+        "third_person": "wears",
+        "past": "wore",
+        "past_participle": "worn",
+        "ing": "wearing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "wear"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    },
+    {
+      "id": "JUNIOR_VERB_100",
+      "word": "write",
+      "part_of_speech": [
+        "verb"
+      ],
+      "meaningZh": "寫",
+      "chinese": "寫",
+      "level": "junior",
+      "topic": "動詞三態",
+      "forms": {
+        "base": "write",
+        "third_person": "writes",
+        "past": "wrote",
+        "past_participle": "written",
+        "ing": "writing"
+      },
+      "alternate_forms": [],
+      "word_family": {
+        "verb": "write"
+      },
+      "examples": [],
+      "common_collocations": [],
+      "common_error": "",
+      "tags": [
+        "junior",
+        "動詞三態"
+      ],
+      "source": "動詞三態變化.pdf"
+    }
+  ]
+}

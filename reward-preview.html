@@ -1,0 +1,38 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>激励動画视觉预览</title>
+  <style>
+    *{box-sizing:border-box}body{margin:0;padding:18px 12px 40px;background:#0a1020;color:#fff;font-family:"Noto Sans TC",sans-serif}h1{margin:0 0 6px;font-size:1.35rem}p{margin:0 0 18px;color:#aab6ca}.grid{display:grid;gap:18px;max-width:420px;margin:auto}.reward{position:relative;min-height:235px;padding:20px;overflow:hidden;border-radius:24px;box-shadow:0 20px 50px #0008}.reward:after{content:"";position:absolute;inset:0;background:linear-gradient(115deg,transparent 30%,#ffffff18 45%,transparent 60%);transform:translateX(-100%);animation:shine 2.6s infinite}.label{position:relative;z-index:2;font-size:.72rem;font-weight:900;letter-spacing:.16em}.reward h2{position:relative;z-index:2;margin:20px 0 4px;font-size:1.8rem}.reward strong{position:relative;z-index:2;display:block;font-size:3.2rem;line-height:1}.reward small{position:relative;z-index:2;display:block;margin-top:8px;font-weight:700}.stats{position:relative;z-index:2;display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-top:20px}.stats span{padding:8px 4px;text-align:center;background:#ffffff14;border:1px solid #ffffff30;border-radius:10px;font-size:.75rem}.silvia{border:1px solid #d3a7ff55;background:radial-gradient(circle at 88% 12%,#b45cff 0 8%,#7929c955 9%,transparent 34%),linear-gradient(145deg,#321158,#17102e 58%,#6b278f)}.silvia strong{color:#e3b8ff;text-shadow:0 0 18px #b45cffaa}.silvia .stats span{background:#f1dfff12;border-color:#deb9ff44}.chart{position:absolute;right:-20px;bottom:18px;width:210px;height:90px;border-top:3px solid #d9a5ff;clip-path:polygon(0 78%,17% 60%,33% 66%,50% 25%,66% 42%,83% 8%,100% 0,100% 100%,0 100%);background:#b45cff22;filter:drop-shadow(0 0 8px #b45cff)}.ray{background:radial-gradient(circle at 85% 16%,#ffcf3d 0 7%,transparent 8%),linear-gradient(140deg,#0757a5,#101d38 60%,#ed7b2a)}.ray .ball,.sean .ball{position:absolute;right:-22px;top:32px;width:132px;height:132px;border:8px solid #ffffff20;border-radius:50%}.ray .bolt{position:absolute;right:74px;top:24px;width:60px;height:145px;background:#ffcf3d;clip-path:polygon(48% 0,100% 0,66% 42%,100% 42%,18% 100%,38% 55%,0 55%)}.ray strong{color:#ffcf3d}.sean{border:1px solid #7fc9ff55;background:radial-gradient(circle at 88% 12%,#41b6ff 0 7%,#1689d955 8%,transparent 30%),linear-gradient(145deg,#061a3a,#081f4b 58%,#0b5fa9)}.sean strong{color:#9edcff;text-shadow:0 0 18px #159cffaa}.sean .zh-note{display:inline;margin:0 0 0 5px;color:#d9effcbb;font-size:.62rem;font-weight:500;letter-spacing:0;text-shadow:none;vertical-align:middle}.sean h2 .zh-note{font-size:.66rem}.sean strong .zh-note{font-size:.64rem}.court{position:absolute;right:-45px;bottom:-68px;width:220px;height:220px;border:4px solid #b9dfff33;border-radius:50%}.court:before{content:"";position:absolute;left:50%;top:-35px;width:3px;height:250px;background:#b9dfff33}.crossover{position:absolute;right:-8px;bottom:18px;width:220px;height:135px;border-top:5px solid #9edcff;border-radius:50%;transform:rotate(-20deg);filter:drop-shadow(0 0 8px #149cff);animation:dribble 1.4s ease-in-out infinite}.crossover:before,.crossover:after{content:"";position:absolute;width:15px;height:15px;background:#dbeeff;border:3px solid #168fd8;border-radius:50%;box-shadow:0 0 14px #8bd5ff}.crossover:before{left:15px;top:-10px}.crossover:after{right:20px;top:-10px}.skill-row{position:relative;z-index:2;display:flex;gap:5px;margin-top:8px}.skill-row span{padding:4px 7px;background:#ffffff12;border:1px solid #8cd4ff55;border-radius:99px;font-size:.61rem;font-weight:800}.badge{position:relative;z-index:2;display:inline-block;margin-top:13px;padding:7px 12px;color:#101d38;background:#ffcf3d;border-radius:99px;font-weight:900}.sean .badge{color:#041a3b;background:#9edcff;box-shadow:0 0 16px #159cff77}.sean .badge .zh-note{color:#0b3a5fcc}@keyframes shine{50%,100%{transform:translateX(100%)}}@keyframes dribble{50%{transform:rotate(-14deg) translateY(-5px)}}@media(min-width:900px){.grid{max-width:1100px;grid-template-columns:repeat(3,1fr)}}
+  </style>
+</head>
+<body>
+  <main class="grid">
+    <section>
+      <h1>Silvia</h1><p>Data Dashboard Mode</p>
+      <article class="reward silvia">
+        <span class="label">READING 成長</span><h2>今日目標完成</h2><strong>395 → 495</strong><small>專注提升 TOEIC Reading，距離滿分還差 100 分</small>
+        <div class="stats"><span>目前<br>395</span><span>目標<br>495</span><span>已提升<br>0</span></div><div class="chart"></div>
+      </article>
+    </section>
+    <section>
+      <h1>Ray</h1><p>Thunder Career Mode</p>
+      <article class="reward ray">
+        <div class="bolt"></div><div class="ball"></div><span class="label">THUNDER RISING</span><h2>WIN STREAK</h2><strong>7 GAMES</strong><small>KEEP THE RHYTHM. RISE TO THE TOP.</small><span class="badge">RANK UP ↑</span>
+      </article>
+    </section>
+    <section>
+      <h1>Sean</h1><p>Playmaker Career Mode</p>
+      <article class="reward sean">
+        <div class="ball"></div><div class="court"></div><div class="crossover"></div><span class="label">ELITE GUARD MODE <small class="zh-note">菁英控衛模式</small></span><h2>CROSSOVER MASTER <small class="zh-note">變向運球大師</small></h2><strong>3 IN A ROW <small class="zh-note">連續答對 3 題</small></strong><div class="skill-row"><span>HESITATION</span><span>IN-OUT</span><span>ANKLE BREAK</span></div><span class="badge">HANDLE LEVEL UP <small class="zh-note">控球技能升級</small></span>
+      </article>
+    </section>
+  </main>
+</body>
+</html>
+
+
+
+
