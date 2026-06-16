@@ -1,11 +1,9 @@
-﻿const CACHE_NAME = "family-english-trainer-v33-reset-records";
+const CACHE_NAME = "family-english-trainer-v34-mobile-fast";
 const APP_FILES = [
   "./",
   "./index.html",
-  "./style.css?v=33",
-  "./app.js?v=33",
-  "./knowledge.json",
-  "./questions.json",
+  "./style.css?v=34",
+  "./app.js?v=34",
   "./manifest.webmanifest",
   "./icon.svg",
   "./icon-192.png",
@@ -19,15 +17,11 @@ const APP_FILES = [
   "./data/questions_toeic.json",
   "./data/questions_gsat.json",
   "./data/questions_junior.json",
-  "./data/questions_junior_past.json",
-  "./data/vocab_gsat.json",
-  "./data/vocab_junior.json",
   "./data/vocab_toeic.json",
   "./data/knowledge_tree.json",
   "./data/reading_toeic.json",
   "./data/reading_gsat.json",
   "./data/reading_junior.json"
-  ,"./data/past_papers_junior.json"
 ];
 
 self.addEventListener("install", event => {
@@ -54,31 +48,3 @@ self.addEventListener("fetch", event => {
       .catch(() => caches.match(event.request).then(cached => cached || caches.match("./index.html")))
   );
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
