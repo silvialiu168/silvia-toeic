@@ -1,4 +1,4 @@
-﻿const DATA="data/", DATA_VERSION="35", $=s=>document.querySelector(s);
+﻿const DATA="data/", DATA_VERSION="37", $=s=>document.querySelector(s);
 const state={users:[],user:null,questions:[],knowledge:[],vocab:[],pastPapers:null,stats:null,vocabStats:null,current:null,vocabQuestion:null,grammarMode:"smart",vocabMode:"en-zh"};
 const today=()=>new Date().toISOString().slice(0,10);
 const read=k=>{try{return JSON.parse(localStorage.getItem(k))}catch{return null}};
@@ -126,7 +126,8 @@ function answerGrammar(i){
   const q=state.current,ok=i===q.answer,k=questionKnowledge(q),now=new Date().toISOString(),trackKnowledge=q.classification_status!=="needs_review",s=state.stats.knowledge[k]||{attempts:0,correct:0,wrong:0,wrong_streak:0};state.stats.attempts++;ok?state.stats.correct++:state.stats.wrong++;if(trackKnowledge){s.attempts++;ok?s.correct++:s.wrong++;s.wrong_streak=ok?0:(s.wrong_streak||0)+1;s.accuracy=Math.round(s.correct/s.attempts*100);s.mastery=s.accuracy;s.last_practiced=now;state.stats.knowledge[k]=s}if(!ok)state.stats.mistakes[q.id]={question:q,wrong:(state.stats.mistakes[q.id]?.wrong||0)+1};state.stats.daily[today()]={...(state.stats.daily[today()]||{}),grammar:(state.stats.daily[today()]?.grammar||0)+1};updateStreak();save();checkRewards();
   updateProgressWidgets();
   $("#grammar").querySelectorAll(".option").forEach((b,n)=>{b.disabled=true;b.classList.toggle("correct",n===q.answer);b.classList.toggle("wrong",n===i&&!ok)});$("#submitGrammar").classList.add("hidden");
-  $("#grammarResult").innerHTML=`<div class="result ${ok?"good":"bad"}">${ok?"答對":"答錯"} · 正確答案 ${q.options[q.answer]} · 累計已做 ${state.stats.attempts} 題</div><button type="button" class="primary next-grammar" id="nextG">下一題</button><div id="analysis" class="teacher-analysis">${teacherAnalysis(q,i,ok)}</div>`;$("#nextG").onclick=()=>{delete $("#grammar").dataset.locked;delete $("#grammar").dataset.selected;renderGrammar()};
+  const nextLabel=(state.stats.daily[today()]?.grammar||0)>=20?"繼續練習":"下一題";
+  $("#grammarResult").innerHTML=`<div class="result ${ok?"good":"bad"}">${ok?"答對":"答錯"} · 正確答案 ${q.options[q.answer]} · 累計已做 ${state.stats.attempts} 題</div><button type="button" class="primary next-grammar" id="nextG">${nextLabel}</button><div id="analysis" class="teacher-analysis">${teacherAnalysis(q,i,ok)}</div>`;$("#nextG").onclick=()=>{delete $("#grammar").dataset.locked;delete $("#grammar").dataset.selected;renderGrammar()};
 }
 function optionReason(q,o,i){
   const c=q.category||"",point=questionKnowledge(q)||"",lower=String(o).toLowerCase().trim(),answer=String(q.options[q.answer]).toLowerCase().trim();
@@ -210,7 +211,7 @@ function renderVocab(){
     if(hidden){book.classList.add("hidden");$("#toggleVocabBook").textContent=`展開單字本（${state.vocab.length}）`;return}
     if(!book.dataset.loaded){
       const bookWords=state.vocab.slice(0,80);
-      book.innerHTML=`${state.vocab.length>80?`<small>單字量較大，手機先顯示前 80 個；練習會使用完整詞庫。</small>`:""}${bookWords.map(v=>{const s=state.vocabStats.words[v.id];return`<div class="vocab-item"><strong>${v.word}</strong><span><b>${vocabPosLabel(v)}</b>　${vocabMeaning(v)}</span><small>${vocabStatus(s)} · ${accuracyText(s)}</small></div>`}).join("")}`;
+      book.innerHTML=`${state.vocab.length>80?`<small>單字量較大，手機先顯示前 80 個；練習會使用完整詞庫。</small>`:""}${bookWords.map(v=>{const s=state.vocabStats.words[v.id];return`<div class="vocab-item"><strong>${v.word}</strong><span>${vocabChoiceLabel(v)}</span><small>${vocabStatus(s)} · ${accuracyText(s)}</small></div>`}).join("")}`;
       book.dataset.loaded=1;
     }
     book.classList.remove("hidden");$("#toggleVocabBook").textContent="收起單字本";
@@ -222,10 +223,12 @@ function formsFor(v){
   const w=v.word,original=v.forms||{},past=original.past===`${w}ed`&&w.endsWith("e")?`${w}d`:original.past||`${w}ed`,ing=original.ing===`${w}ing`&&w.endsWith("e")?`${w.slice(0,-1)}ing`:original.ing||`${w}ing`;
   return{base:original.base||w,third_person:original.third_person||`${w}s`,past,past_participle:original.past_participle===`${w}ed`&&w.endsWith("e")?`${w}d`:original.past_participle||past,ing};
 }
-const posShort={verb:"V",noun:"N",adjective:"Adj",adverb:"Adv",preposition:"Prep",conjunction:"Conj",pronoun:"Pron"};
+const posShort={verb:"V",noun:"N",adjective:"Adj",adverb:"Adv",preposition:"Prep",conjunction:"Conj",pronoun:"Pron",phrase:"片語"};
 function vocabPos(v){return(v.part_of_speech||[]).filter(x=>x&&x!=="word")}
-function vocabPosLabel(v){return vocabPos(v).map(x=>posShort[x]||x).join(".")||"—"}
+function vocabPosLabel(v){return vocabPos(v).map(x=>posShort[x]||x).join(".")}
 function vocabMeaning(v){return v.meaningZh||v.chinese||""}
+function vocabPosText(v){return vocabPosLabel(v)||"暫未標註"}
+function vocabChoiceLabel(v,separator=" "){const pos=vocabPosLabel(v),meaning=vocabMeaning(v);return pos?`${pos}${separator}${meaning}`:meaning}
 function similarVocab(v){
   const wanted=vocabPos(v),same=state.vocab.filter(x=>x.id!==v.id&&vocabPos(x).some(p=>wanted.includes(p))),rest=state.vocab.filter(x=>x.id!==v.id&&!same.includes(x));
   return [...shuffle(same),...shuffle(rest)].slice(0,3);
@@ -241,8 +244,15 @@ function buildDailyVocabPlan(){
   state.vocabStats.daily_plans[today()]=chosen.slice(0,20);save();return state.vocabStats.daily_plans[today()];
 }
 function nextVocab(){
-  const plan=buildDailyVocabPlan(),done=Math.min(state.stats.daily[today()]?.vocab||0,19),id=plan[done];
+  const plan=buildDailyVocabPlan(),day=state.stats.daily[today()]||{},done=day.vocab_total??day.vocab??0;
+  if(done>=20){const extra=extraVocabPool(),id=extra[(done-20)%extra.length];return state.vocab.find(v=>v.id===id)||state.vocab[0]}
+  const id=plan[done];
   return state.vocab.find(v=>v.id===id)||state.vocab[0];
+}
+function extraVocabPool(){
+  const scored=state.vocab.map(v=>{const s=state.vocabStats.words[v.id]||{},status=vocabStatus(s),overdue=s.next_review&&dayDiff(s.next_review)<=0;return{v,s,status,overdue}});
+  const due=scored.filter(x=>x.overdue&&x.status!=="Mastered"),learning=scored.filter(x=>x.status==="Learning"&&!x.overdue),familiar=scored.filter(x=>x.status==="Familiar"&&!x.overdue),newWords=scored.filter(x=>x.status==="New"),mastered=scored.filter(x=>x.status==="Mastered");
+  return shuffle([...due,...learning,...familiar,...newWords,...mastered]).map(x=>x.v.id);
 }
 function addDays(n){const d=new Date();d.setDate(d.getDate()+n);return d.toISOString().slice(0,10)}
 function updateVocabLearning(s,ok){
@@ -257,14 +267,14 @@ function wordFamilyRows(v){
 function verbFormsBlock(v,f){return vocabPos(v).includes("verb")&&v.forms?`<h4>動詞變化</h4><div class="form-grid"><span><b>原形</b>${f.base}</span><span><b>第三人稱</b>${f.third_person}</span><span><b>過去式</b>${f.past}</span><span><b>過去分詞</b>${f.past_participle}</span><span><b>V-ing</b>${f.ing}</span></div>`:""}
 function vocabQuestion(){
   let v=nextVocab();if(state.vocabMode==="forms"&&(!v.forms||!vocabPos(v).includes("verb"))){const available=state.vocab.filter(x=>vocabPos(x).includes("verb")&&x.forms?.past&&x.forms?.past_participle);if(available.length)v=available[Math.floor(Math.random()*available.length)]}const others=similarVocab(v);let prompt=v.word,correct=vocabMeaning(v),opts=[];
-  if(state.vocabMode==="zh-en"){prompt=`${vocabPosLabel(v)} ${vocabMeaning(v)}`;correct=v.word;opts=[v,...others].map(x=>({value:x.word,label:`${vocabPosLabel(x)}，${x.word}`}))}
+  if(state.vocabMode==="zh-en"){prompt=vocabChoiceLabel(v);correct=v.word;opts=[v,...others].map(x=>({value:x.word,label:vocabPosLabel(x)?`${vocabPosLabel(x)}，${x.word}`:x.word}))}
   else if(state.vocabMode==="sentence"){prompt=(v.examples?.[0]?.sentence||`Please use ${v.word} correctly.`).replace(new RegExp(v.word,"i"),"_____");correct=v.word;opts=[v,...others].map(x=>({value:x.word,label:x.word}))}
   else if(state.vocabMode==="pos"){prompt=`${v.word} 最常見的詞性是？`;correct=vocabPos(v)[0]||Object.keys(v.word_family||{}).find(x=>v.word_family[x])||"word";opts=[correct,"noun","verb","adjective","adverb"].filter((x,i,a)=>a.indexOf(x)===i).slice(0,4).map(x=>({value:x,label:posShort[x]||x}))}
   else if(state.vocabMode==="forms"){const f=formsFor(v);prompt=`${v.word} 的過去式是？`;correct=f.past;opts=[correct,f.base,f.third_person,f.ing].filter((x,i,a)=>a.indexOf(x)===i).map(x=>({value:x,label:x}))}
-  else opts=[v,...others].map(x=>({value:vocabMeaning(x),label:`${vocabPosLabel(x)} ${vocabMeaning(x)}`}));
-  state.vocabQuestion={v,correct,answered:false,selected:null};$("#vocabPractice").innerHTML=`<article class="card practice-card"><span class="chip">${state.vocabMode}</span><p class="question">${prompt}</p><div class="options">${shuffle(opts).map((x,i)=>`<button type="button" class="option" data-value="${x.value}">${x.label}</button>`).join("")}</div><button type="button" class="primary submit-answer" id="submitVocab" disabled>請選擇一個答案</button><div id="vResult"></div></article>`;$("#vocabPractice .options").onclick=e=>{const b=e.target.closest(".option");if(!b||state.vocabQuestion.answered)return;$("#vocabPractice").querySelectorAll(".option").forEach(x=>x.classList.toggle("selected",x===b));state.vocabQuestion.selected=b.dataset.value;$("#submitVocab").disabled=false;$("#submitVocab").textContent="提交答案"};$("#submitVocab").onclick=()=>{if(state.vocabQuestion.selected===null||state.vocabQuestion.answered)return;state.vocabQuestion.answered=true;$("#submitVocab").disabled=true;answerVocab(state.vocabQuestion.selected)}
+  else opts=[v,...others].map(x=>({value:vocabMeaning(x),label:vocabChoiceLabel(x)}));
+  state.vocabQuestion={v,correct,answered:false,selected:null};$("#vocabPractice").innerHTML=`<article class="card practice-card vocab-practice-card"><span class="chip">${state.vocabMode}</span><p class="question vocab-question">${prompt}</p><div class="options">${shuffle(opts).map((x,i)=>`<button type="button" class="option" data-value="${x.value}">${x.label}</button>`).join("")}</div><button type="button" class="primary submit-answer" id="submitVocab" disabled>請選擇一個答案</button><div id="vResult"></div></article>`;$("#vocabPractice .options").onclick=e=>{const b=e.target.closest(".option");if(!b||state.vocabQuestion.answered)return;$("#vocabPractice").querySelectorAll(".option").forEach(x=>x.classList.toggle("selected",x===b));state.vocabQuestion.selected=b.dataset.value;$("#submitVocab").disabled=false;$("#submitVocab").textContent="提交答案"};$("#submitVocab").onclick=()=>{if(state.vocabQuestion.selected===null||state.vocabQuestion.answered)return;state.vocabQuestion.answered=true;$("#submitVocab").disabled=true;answerVocab(state.vocabQuestion.selected)}
 }
-function answerVocab(a){const{v,correct}=state.vocabQuestion,ok=a===correct,s=state.vocabStats.words[v.id]||{attempts:0,correct:0,wrong:0,wrong_streak:0,status:"New"};s.attempts++;ok?s.correct++:s.wrong++;s.wrong_streak=ok?0:(s.wrong_streak||0)+1;s.accuracy=Math.round(s.correct/s.attempts*100);s.mastery=s.accuracy;s.last_practiced=new Date().toISOString();updateVocabLearning(s,ok);state.vocabStats.words[v.id]=s;state.stats.daily[today()]={...(state.stats.daily[today()]||{}),vocab:Math.min(20,(state.stats.daily[today()]?.vocab||0)+1)};updateStreak();save();checkRewards();updateProgressWidgets();const f=formsFor(v),family=wordFamilyRows(v),example=v.examples?.find(x=>x.sentence)?.sentence,collocations=(v.common_collocations||[]).filter(Boolean);$("#vocabPractice").querySelectorAll(".option").forEach(b=>{b.disabled=true;b.classList.toggle("correct",b.dataset.value===correct);b.classList.toggle("wrong",b.dataset.value===a&&!ok)});$("#submitVocab").classList.add("hidden");$("#vResult").innerHTML=`<div class="result ${ok?"good":"bad"}">${ok?"答對":"答錯"} · ${correct}</div><button type="button" class="primary next-vocab" id="nextV">下一題</button><div class="details vocab-analysis" id="vDetails"><h3>${v.word}</h3><p><b>詞性：</b>${vocabPosLabel(v)}<br><b>意思：</b>${vocabMeaning(v)}</p>${verbFormsBlock(v,f)}${family?`<h4>詞性變化</h4><div class="form-grid">${family}</div>`:""}${example?`<p><b>例句：</b>${example}</p>`:""}${collocations.length?`<p><b>常見搭配：</b>${collocations.join("；")}</p>`:""}<p><b>熟悉度：</b>${vocabStatus(s)}<br><b>下次複習：</b>${s.next_review}</p></div>`;$("#nextV").onclick=vocabQuestion}
+function answerVocab(a){const{v,correct}=state.vocabQuestion,ok=a===correct,s=state.vocabStats.words[v.id]||{attempts:0,correct:0,wrong:0,wrong_streak:0,status:"New"};s.attempts++;ok?s.correct++:s.wrong++;s.wrong_streak=ok?0:(s.wrong_streak||0)+1;s.accuracy=Math.round(s.correct/s.attempts*100);s.mastery=s.accuracy;s.last_practiced=new Date().toISOString();updateVocabLearning(s,ok);state.vocabStats.words[v.id]=s;const day={...(state.stats.daily[today()]||{})};day.vocab_total=(day.vocab_total??day.vocab??0)+1;day.vocab=Math.min(20,(day.vocab||0)+1);state.stats.daily[today()]=day;updateStreak();save();checkRewards();updateProgressWidgets();const f=formsFor(v),family=wordFamilyRows(v),example=v.examples?.find(x=>x.sentence)?.sentence,collocations=(v.common_collocations||[]).filter(Boolean),nextLabel=day.vocab>=20?"繼續練習":"下一題";$("#vocabPractice").querySelectorAll(".option").forEach(b=>{b.disabled=true;b.classList.toggle("correct",b.dataset.value===correct);b.classList.toggle("wrong",b.dataset.value===a&&!ok)});$("#submitVocab").classList.add("hidden");$("#vResult").innerHTML=`<div class="result ${ok?"good":"bad"}">${ok?"答對":"答錯"} · ${correct}</div><button type="button" class="primary next-vocab" id="nextV">${nextLabel}</button><div class="details vocab-analysis" id="vDetails"><h3>${v.word}</h3><p><b>詞性：</b>${vocabPosText(v)}<br><b>意思：</b>${vocabMeaning(v)}</p>${verbFormsBlock(v,f)}${family?`<h4>詞性變化</h4><div class="form-grid">${family}</div>`:""}${example?`<p><b>例句：</b>${example}</p>`:""}${collocations.length?`<p><b>常見搭配：</b>${collocations.join("；")}</p>`:""}<p><b>熟悉度：</b>${vocabStatus(s)}<br><b>下次複習：</b>${s.next_review}</p></div>`;$("#nextV").onclick=vocabQuestion}
 function renderReading(){
   if(state.user.level==="junior"&&state.pastPapers){$("#reading").innerHTML=`<section class="panel"><h3>會考歷屆閱讀</h3><p>已建立 ${state.pastPapers.years.join("、")} 年來源庫，共 ${state.pastPapers.total_declared_questions} 題。</p><div class="past-paper-grid">${state.pastPapers.papers.map(p=>`<article><b>${p.year} 年</b><span>${p.declared_questions} 題</span><small>答案 ${p.answer_key_count}/${p.declared_questions} 已核對</small></article>`).join("")}</div><small>題目正在依「單題／題組／知識點」整理，完成核對後开放练习。</small></section>`;return}
   $("#reading").innerHTML=`<div class="card"><h3>閱讀中心</h3><p>V1 保留框架。未來新增 data/reading_${state.user.level}.json 即可自動擴充。</p></div>`

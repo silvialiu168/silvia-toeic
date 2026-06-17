@@ -1,9 +1,9 @@
-﻿const CACHE_NAME = "family-english-trainer-v35-toeic-vocab";
+﻿const CACHE_NAME = "family-english-trainer-v37-vocab-focus";
 const APP_FILES = [
   "./",
   "./index.html",
-  "./style.css?v=35",
-  "./app.js?v=35",
+  "./style.css?v=37",
+  "./app.js?v=37",
   "./manifest.webmanifest",
   "./icon.svg",
   "./icon-192.png",
