@@ -1,4 +1,4 @@
-﻿const DATA="data/", DATA_VERSION="34", $=s=>document.querySelector(s);
+﻿const DATA="data/", DATA_VERSION="35", $=s=>document.querySelector(s);
 const state={users:[],user:null,questions:[],knowledge:[],vocab:[],pastPapers:null,stats:null,vocabStats:null,current:null,vocabQuestion:null,grammarMode:"smart",vocabMode:"en-zh"};
 const today=()=>new Date().toISOString().slice(0,10);
 const read=k=>{try{return JSON.parse(localStorage.getItem(k))}catch{return null}};

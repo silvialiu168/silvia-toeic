@@ -1,9 +1,9 @@
-const CACHE_NAME = "family-english-trainer-v34-mobile-fast";
+﻿const CACHE_NAME = "family-english-trainer-v35-toeic-vocab";
 const APP_FILES = [
   "./",
   "./index.html",
-  "./style.css?v=34",
-  "./app.js?v=34",
+  "./style.css?v=35",
+  "./app.js?v=35",
   "./manifest.webmanifest",
   "./icon.svg",
   "./icon-192.png",
