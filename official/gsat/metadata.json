@@ -1,0 +1,2272 @@
+[
+  {
+    "year": 115,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "115學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=1&xsmsid=0J052424829869345634",
+    "published_date": "115-02-23",
+    "question_pdf": "official/gsat/115/question.pdf",
+    "answer_pdf": "official/gsat/115/answer.pdf",
+    "answer_sheet_pdf": "official/gsat/115/answer_sheet.pdf",
+    "rubric_pdf": "official/gsat/115/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 1286541,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0q054532302653501476/02-115%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%a9%a6%e5%8d%b7.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 76153,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0q040594609847120321/02-115%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 340448,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0q054339832930771045/02-115%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%ad%94%e9%a1%8c%e5%8d%b7.pdf"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 271601,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0q054335046832331817/115%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%80%83%e7%a7%91%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e5%8f%83%e8%80%83%e7%ad%94%e6%a1%88%e8%88%87%e8%a9%95%e5%88%86%e5%8e%9f%e5%89%87.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 114,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "114學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=1&xsmsid=0J052424829869345634",
+    "published_date": "114-02-26",
+    "question_pdf": "official/gsat/114/question.pdf",
+    "answer_pdf": "official/gsat/114/answer.pdf",
+    "answer_sheet_pdf": "official/gsat/114/answer_sheet.pdf",
+    "rubric_pdf": "official/gsat/114/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 594448,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0p056425554473267580/02-114%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%a9%a6%e9%a1%8c.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 100280,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0p051545433631383724/02-114%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 349783,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0p051546347999453841/114%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%ad%94%e9%a1%8c%e5%8d%b7-%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 320797,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0p055378620142741052/03-114%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%80%83%e7%a7%91%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e5%8f%83%e8%80%83%e7%ad%94%e6%a1%88%e8%88%87%e8%a9%95%e5%88%86%e5%8e%9f%e5%89%87.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 113,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "113學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=2&xsmsid=0J052424829869345634",
+    "published_date": "113-02-23",
+    "question_pdf": "official/gsat/113/question.pdf",
+    "answer_pdf": "official/gsat/113/answer.pdf",
+    "answer_sheet_pdf": "official/gsat/113/answer_sheet.pdf",
+    "rubric_pdf": "official/gsat/113/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 699425,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0o051427482769341323/02-113%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%a7%91%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 100135,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0o051427843482078305/02-113%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 348474,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0o051427743847199378/02-113%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%ad%94%e9%a1%8c%e5%8d%b7-%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 450899,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0o051427944026947323/03-113%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%80%83%e7%a7%91%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e5%8f%83%e8%80%83%e7%ad%94%e6%a1%88%e8%88%87%e8%a9%95%e5%88%86%e5%8e%9f%e5%89%87.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 112,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "112學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=3&xsmsid=0J052424829869345634",
+    "published_date": "112-02-20",
+    "question_pdf": "official/gsat/112/question.pdf",
+    "answer_pdf": "official/gsat/112/answer.pdf",
+    "answer_sheet_pdf": "official/gsat/112/answer_sheet.pdf",
+    "rubric_pdf": "official/gsat/112/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 407346,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0n045359274947649605/02-112%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%a9%a6%e5%8d%b7.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 105171,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0n045359936769376687/02-112%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e9%81%b8%e6%93%87%e9%a1%8c%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 623091,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0n045359625125497650/02-112%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%ad%94%e9%a1%8c%e5%8d%b7.pdf"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 771823,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0n049421311322447606/03-112%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e5%8f%83%e8%80%83%e7%ad%94%e6%a1%88%e8%88%87%e8%a9%95%e5%88%86%e5%8e%9f%e5%89%87.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 111,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "111學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=4&xsmsid=0J052424829869345634",
+    "published_date": "111-02-23",
+    "question_pdf": "official/gsat/111/question.pdf",
+    "answer_pdf": "official/gsat/111/answer.pdf",
+    "answer_sheet_pdf": "official/gsat/111/answer_sheet.pdf",
+    "rubric_pdf": "official/gsat/111/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 984200,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0m053357638065462325/02-111%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%a9%a6%e5%8d%b7.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 100214,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0m052625594764853905/02-111%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e9%81%b8%e6%93%87%e9%a1%8c%e7%ad%94%e6%a1%88..pdf"
+      },
+      "answer_sheet": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 617460,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0m053357759609341353/02-111%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%ad%94%e9%a1%8c%e5%8d%b7.pdf"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 766887,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0m088557831942240372/02-111%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e8%a9%95%e5%88%86%e5%8e%9f%e5%89%87.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 110,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "110學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=4&xsmsid=0J052424829869345634",
+    "published_date": "110-03-10",
+    "question_pdf": "official/gsat/110/question.pdf",
+    "answer_pdf": "official/gsat/110/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": "official/gsat/110/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 566163,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0l069608312283063557/110%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%a9%a6%e5%8d%b7%20.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 165002,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0l069608703462801602/110%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 94293,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0l069609024006780639/110%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%a7%91%e8%83%bd%e5%8a%9b%e6%b8%ac%e9%a9%97%e8%8b%b1%e6%96%87%e8%80%83%e7%a7%91%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e9%96%b1%e5%8d%b7%e8%a9%95%e5%88%86%e5%8e%9f%e5%89%87%e8%aa%aa%e6%98%8e.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 109,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "109學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=5&xsmsid=0J052424829869345634",
+    "published_date": "109-02-21",
+    "question_pdf": "official/gsat/109/question.pdf",
+    "answer_pdf": "official/gsat/109/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": "official/gsat/109/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 505860,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0k050359836694452838/02-109%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%a9%a6%e5%8d%b7-%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 165028,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0k050360046239321866/02-109%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 111223,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0k050360046863300883/109%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%a7%91%e8%83%bd%e5%8a%9b%e6%b8%ac%e9%a9%97%e8%8b%b1%e6%96%87%e8%80%83%e7%a7%91%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e9%96%b1%e5%8d%b7%e8%a9%95%e5%88%86%e5%8e%9f%e5%89%87%e8%aa%aa%e6%98%8e%e4%bf%ae%28%e5%ae%9a%e7%a8%bf%29.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 108,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "108學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=5&xsmsid=0J052424829869345634",
+    "published_date": "108-02-24",
+    "question_pdf": "official/gsat/108/question.pdf",
+    "answer_pdf": "official/gsat/108/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": "official/gsat/108/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 566554,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j196548669826315609/01-108%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 164899,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j196548660460294627/02-108%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e9%81%b8%e6%93%87%e9%a1%8c%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 91506,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j196548660005162654/108%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%80%83%e7%a7%91%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e9%96%b1%e5%8d%b7%e8%a9%95%e5%88%86%e5%8e%9f%e5%89%87%e8%aa%aa%e6%98%8e.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 107,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "107學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=6&xsmsid=0J052424829869345634",
+    "published_date": "107-02-24",
+    "question_pdf": "official/gsat/107/question.pdf",
+    "answer_pdf": "official/gsat/107/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": "official/gsat/107/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 396847,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076574893317534748/02-107%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 167292,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076574893773665710/02-107%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 80580,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076574894851413865/107%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%a7%91%e8%83%bd%e5%8a%9b%e6%b8%ac%e9%a9%97%e8%8b%b1%e6%96%87%e8%80%83%e7%a7%91%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e9%96%b1%e5%8d%b7%e8%a9%95%e5%88%86%e5%8e%9f%e5%89%87%e8%aa%aa%e6%98%8e.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 106,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "106學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=7&xsmsid=0J052424829869345634",
+    "published_date": "106-02-24",
+    "question_pdf": "official/gsat/106/question.pdf",
+    "answer_pdf": "official/gsat/106/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": "official/gsat/106/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 427259,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076574214786979208/02-106%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 67983,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076574215321858235/02-106%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e9%81%b8%e6%93%87%e9%a1%8c%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 150377,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076574215965727252/106%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c_5c%e5%8d%b7%e8%a9%95%e5%88%86%e5%8e%9f%e5%89%87%e8%aa%aa%e6%98%8e.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 105,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "105學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=7&xsmsid=0J052424829869345634",
+    "published_date": "105-02-24",
+    "question_pdf": "official/gsat/105/question.pdf",
+    "answer_pdf": "official/gsat/105/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": "official/gsat/105/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 233827,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076573375790393795/02-105%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%a7%91_%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 64001,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076573386334262722/02-105%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 158061,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076573386979130740/105%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%a7%91%e8%83%bd%e5%8a%9b%e6%b8%ac%e9%a9%97%e8%8b%b1%e6%96%87%e8%80%83%e7%a7%91%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e9%96%b1%e5%8d%b7%e8%a9%95%e5%88%86.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 104,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "104學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=8&xsmsid=0J052424829869345634",
+    "published_date": "104-02-24",
+    "question_pdf": "official/gsat/104/question.pdf",
+    "answer_pdf": "official/gsat/104/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": "official/gsat/104/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 376336,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076572827714606282/02-104%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 218094,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076572827358575210/02-104%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e9%81%b8%e6%93%87%e9%a1%8c%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 171671,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076572827992454237/104%e5%ad%b8%e5%b9%b4%e5%ba%a6%e5%ad%b8%e7%a7%91%e8%83%bd%e5%8a%9b%e6%b8%ac%e9%a9%97%e8%8b%b1%e6%96%87%e8%80%83%e7%a7%91%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e9%96%b1%e5%8d%b7%e8%a9%95%e5%88%86.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 103,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "103學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=8&xsmsid=0J052424829869345634",
+    "published_date": "103-02-24",
+    "question_pdf": "official/gsat/103/question.pdf",
+    "answer_pdf": "official/gsat/103/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": "official/gsat/103/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 224698,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076572147183041652/02-103%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87-%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 31163,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076572148362899607/02-103%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e9%81%b8%e6%93%87%e9%a1%8c%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 147060,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076572149906768624/103%e5%ad%b8%e6%b8%ac%e8%a8%98%e8%80%85%e6%9c%83%e8%aa%aa%e6%98%8e%e8%b3%87%e6%96%99%e5%ae%9a%e7%a8%bf140121.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 102,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "102學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=9&xsmsid=0J052424829869345634",
+    "published_date": "102-02-24",
+    "question_pdf": "official/gsat/102/question.pdf",
+    "answer_pdf": "official/gsat/102/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": "official/gsat/102/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [
+      {
+        "kind": "scoring_guideline",
+        "label": "非選擇題評分說明",
+        "title": "102年學科能力測驗英文考科非選擇題評分說明",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j212352513246037936/102%e5%b9%b4%e5%ad%b8%e7%a7%91%e8%83%bd%e5%8a%9b%e6%b8%ac%e9%a9%97%e8%8b%b1%e6%96%87%e8%80%83%e7%a7%91%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e8%a9%95%e5%88%86%e8%aa%aa%e6%98%8e.pdf",
+        "local_pdf": "official/gsat/102/additional_01_scoring_guideline.pdf",
+        "download": {
+          "downloaded": false,
+          "ok": true,
+          "bytes": 764548,
+          "status": "exists"
+        }
+      }
+    ],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 223482,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076571313825971626/02-102%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%28%e5%ae%9a%e7%a8%bf%29%20.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 33583,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076571314003729671/02-102%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 80296,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076571315648697608/102%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e8%a9%95%e5%88%86%e5%8e%9f%e5%89%87.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 101,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "101學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=9&xsmsid=0J052424829869345634",
+    "published_date": "101-02-24",
+    "question_pdf": "official/gsat/101/question.pdf",
+    "answer_pdf": "official/gsat/101/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": "official/gsat/101/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 162074,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076570671923496609/02-101%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 64885,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076570670745648654/02-101%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%ad%94%e6%a1%88%e5%ae%9a%e7%a8%bf0.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 908507,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j204500048783677725/101%e5%b9%b4%e5%ad%b8%e7%a7%91%e8%83%bd%e5%8a%9b%e6%b8%ac%e9%a9%97%e8%8b%b1%e6%96%87%e8%80%83%e7%a7%91%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e8%a9%95%e5%88%86%e8%aa%aa%e6%98%8e.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 100,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "100學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=10&xsmsid=0J052424829869345634",
+    "published_date": "100-02-24",
+    "question_pdf": "official/gsat/100/question.pdf",
+    "answer_pdf": "official/gsat/100/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": "official/gsat/100/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 3256915,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076570267209194600/02-100%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 42289,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076570278844073637/100%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e5%8f%83%e8%80%83%e7%ad%94%e6%a1%88%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 1198491,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j204496801635770142/100%e5%b9%b4%e5%ad%b8%e7%a7%91%e8%83%bd%e5%8a%9b%e6%b8%ac%e9%a9%97%e8%8b%b1%e6%96%87%e8%80%83%e7%a7%91%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e8%a9%95%e5%88%86%e8%aa%aa%e6%98%8e.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 99,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "99學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=10&xsmsid=0J052424829869345634",
+    "published_date": "099-02-24",
+    "question_pdf": "official/gsat/99/question.pdf",
+    "answer_pdf": "official/gsat/99/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": "official/gsat/99/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 1360427,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076568905764750556/02-99%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%a9%a6%e5%8d%b7%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 42587,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076568894585902501/02-99%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e5%8f%83%e8%80%83%e7%ad%94%e6%a1%88%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 770108,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199419158754452819/99%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%80%83%e7%a7%91%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e8%a9%95%e5%88%86%e8%aa%aa%e6%98%8e.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 98,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "98學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=11&xsmsid=0J052424829869345634",
+    "published_date": "098-02-24",
+    "question_pdf": "official/gsat/98/question.pdf",
+    "answer_pdf": "official/gsat/98/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": "official/gsat/98/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 353759,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076568022684428584/02-98%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%a9%a6%e9%a1%8c%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 63394,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076568021405670539/02-98%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%ad%94%e6%a1%88%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 405004,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199417512785404281/98%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%80%83%e7%a7%91%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e8%a9%95%e5%88%86%e6%a8%99%e6%ba%96%e8%aa%aa%e6%98%8e.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 97,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "97學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=11&xsmsid=0J052424829869345634",
+    "published_date": "097-02-24",
+    "question_pdf": "official/gsat/97/question.pdf",
+    "answer_pdf": "official/gsat/97/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": "official/gsat/97/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 207470,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076567488514105513/02-97%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e8%a9%a6%e9%a1%8c%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 60393,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076567488335357568/02-97%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%ad%94%e6%a1%88%e5%ae%9a%e7%a8%bf.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 884858,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199414961733809184/97%e5%ad%b8%e7%a7%91%e8%83%bd%e5%8a%9b%e6%b8%ac%e9%a9%97%e5%9c%8b%e6%96%87%e3%80%81%e8%8b%b1%e6%96%87%e8%80%83%e7%a7%91%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e8%a9%95%e5%88%86%e5%8e%9f%e5%89%87%e8%aa%aa%e6%98%8e.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 96,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "96學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=12&xsmsid=0J052424829869345634",
+    "published_date": "096-02-24",
+    "question_pdf": "official/gsat/96/question.pdf",
+    "answer_pdf": "official/gsat/96/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": "official/gsat/96/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 905702,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076567034255034586/02-96.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 58213,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076567035890903514/02-96ans.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 652624,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199414025017032168/96%e5%ad%b8%e6%b8%ac%e5%9c%8b%e8%8b%b1%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e8%a9%95%e5%88%86%e6%a8%99%e6%ba%96%e8%aa%aa%e6%98%8e.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 95,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "95學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=12&xsmsid=0J052424829869345634",
+    "published_date": "095-02-24",
+    "question_pdf": "official/gsat/95/question.pdf",
+    "answer_pdf": "official/gsat/95/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": "official/gsat/95/rubric.pdf",
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 262107,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076566377626944973/95english.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 76792,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199411514886599026/95%e5%ad%b8%e6%b8%acans.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 400692,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199411483242610099/95%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e9%9d%9e%e9%81%b8%e6%93%87%e9%a1%8c%e8%a9%95%e5%88%86%e6%a8%99%e6%ba%96%e8%aa%aa%e6%98%8e.pdf"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 94,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "94學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=13&xsmsid=0J052424829869345634",
+    "published_date": "094-02-24",
+    "question_pdf": "official/gsat/94/question.pdf",
+    "answer_pdf": "official/gsat/94/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": null,
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "official_not_provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 480549,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076565680353985442/94english.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 49323,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199377814524406609/94%e5%ad%b8%e6%b8%acans.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 93,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "93學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=13&xsmsid=0J052424829869345634",
+    "published_date": "093-02-24",
+    "question_pdf": "official/gsat/93/question.pdf",
+    "answer_pdf": "official/gsat/93/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": null,
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "official_not_provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 237835,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076565053189025902/93english.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 100184,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199369252474650072/93%e5%ad%b8%e6%b8%acans.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 92,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "92學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=14&xsmsid=0J052424829869345634",
+    "published_date": "092-02-24",
+    "question_pdf": "official/gsat/92/question.pdf",
+    "answer_pdf": "official/gsat/92/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": null,
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "official_not_provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 180987,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076564378742097931/92%e5%ad%b8%e6%b8%ac_english.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 21246,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199365617480524322/92%e5%ad%b8%e6%b8%ac_ans.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 91,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "91學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=15&xsmsid=0J052424829869345634",
+    "published_date": "091-02-24",
+    "question_pdf": "official/gsat/91/question.pdf",
+    "answer_pdf": "official/gsat/91/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": null,
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "official_not_provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 168810,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076563501493451887/91%e5%ad%b8%e6%b8%ac_english.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 116914,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199347385414136566/91%e5%ad%b8%e6%b8%ac_ans.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 90,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "90學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=16&xsmsid=0J052424829869345634",
+    "published_date": "090-02-24",
+    "question_pdf": "official/gsat/90/question.pdf",
+    "answer_pdf": "official/gsat/90/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": null,
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "official_not_provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 180845,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076563008313129816/90%e5%ad%b8%e6%b8%ac_english.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 117892,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199343785821976939/90%e5%ad%b8%e6%b8%ac_ans.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 89,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "89學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=16&xsmsid=0J052424829869345634",
+    "published_date": "089-02-24",
+    "question_pdf": "official/gsat/89/question.pdf",
+    "answer_pdf": "official/gsat/89/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": null,
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "official_not_provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 140535,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076562611149169375/89%e5%b9%b4%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%a7%91.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 1671399,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199328705439312727/89%e5%b9%b4%e5%ad%b8%e6%b8%ac%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 88,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "88學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=17&xsmsid=0J052424829869345634",
+    "published_date": "088-02-24",
+    "question_pdf": "official/gsat/88/question.pdf",
+    "answer_pdf": "official/gsat/88/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": null,
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "official_not_provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 153234,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076561958069847304/88%e5%b9%b4%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%a7%91.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 2184499,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076561958604716321/88%e5%b9%b4%e5%ad%b8%e6%b8%ac%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 87,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "87學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=17&xsmsid=0J052424829869345634",
+    "published_date": "087-02-24",
+    "question_pdf": "official/gsat/87/question.pdf",
+    "answer_pdf": "official/gsat/87/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": null,
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "official_not_provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 142091,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076561150896887763/87%e5%b9%b4%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%a7%91.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 699986,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199324009965852517/87%e5%b9%b4%e5%ad%b8%e6%b8%ac%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 86,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "86學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=18&xsmsid=0J052424829869345634",
+    "published_date": "086-02-24",
+    "question_pdf": "official/gsat/86/question.pdf",
+    "answer_pdf": "official/gsat/86/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": null,
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "official_not_provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 147997,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076560803522828233/86%e5%b9%b4%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%a7%91.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 684704,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199323424528923536/86%e5%b9%b4%e5%ad%b8%e6%b8%ac%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 85,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "85學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=18&xsmsid=0J052424829869345634",
+    "published_date": "085-02-24",
+    "question_pdf": "official/gsat/85/question.pdf",
+    "answer_pdf": "official/gsat/85/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": null,
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "official_not_provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 189945,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076560475359959792/85%e5%b9%b4%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%a7%91.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 886406,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199321828395330440/85%e5%b9%b4%e5%ad%b8%e6%b8%ac%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 84,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "84學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=19&xsmsid=0J052424829869345634",
+    "published_date": "084-02-24",
+    "question_pdf": "official/gsat/84/question.pdf",
+    "answer_pdf": "official/gsat/84/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": null,
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "official_not_provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 159119,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076560158185999261/84%e5%b9%b4%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%a7%91.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 734485,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199319368887614370/84%e5%b9%b4%e5%ad%b8%e6%b8%ac%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  },
+  {
+    "year": 83,
+    "exam": "GSAT",
+    "subject": "English",
+    "exam_name": "83學年度學科能力測驗－英文",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=19&xsmsid=0J052424829869345634",
+    "published_date": "083-02-24",
+    "question_pdf": "official/gsat/83/question.pdf",
+    "answer_pdf": "official/gsat/83/answer.pdf",
+    "answer_sheet_pdf": null,
+    "rubric_pdf": null,
+    "official_note_pdf": null,
+    "additional_pdfs": [],
+    "reading": true,
+    "vocabulary": true,
+    "cloze": true,
+    "translation": true,
+    "writing": true,
+    "type_flags_need_ocr_confirmation": true,
+    "features": {
+      "reading": true,
+      "vocabulary": true,
+      "cloze": true,
+      "translation": true,
+      "writing": true,
+      "needs_ocr_confirmation": true,
+      "note": "依學測英文常見卷型先標記；正式題型仍需 OCR 後逐題確認。"
+    },
+    "source_status": {
+      "question": "provided",
+      "answer": "provided",
+      "answer_sheet": "official_not_provided",
+      "rubric": "official_not_provided",
+      "official_note": "official_not_provided"
+    },
+    "download_status": {
+      "question": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 149385,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076559780922930721/83%e5%b9%b4%e5%ad%b8%e6%b8%ac%e8%8b%b1%e6%96%87%e7%a7%91.pdf"
+      },
+      "answer": {
+        "downloaded": false,
+        "ok": true,
+        "bytes": 557364,
+        "status": "exists",
+        "url": "https://www.ceec.edu.tw/files/file_pool/1/0j199318077724929283/83%e5%b9%b4%e5%ad%b8%e6%b8%ac%e7%ad%94%e6%a1%88.pdf"
+      },
+      "answer_sheet": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "scoring_guideline": {
+        "ok": false,
+        "status": "official_not_provided"
+      },
+      "official_note": {
+        "ok": false,
+        "status": "official_not_provided"
+      }
+    },
+    "ocr_status": "not_started",
+    "json_status": "not_started"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "GSAT-115-Q01",
+  "year": 115,
+  "exam": "GSAT",
+  "subject": "English",
+  "source": {
+    "question_pdf": "official/gsat/115/question.pdf",
+    "answer_pdf": "official/gsat/115/answer.pdf",
+    "rubric_pdf": "official/gsat/115/rubric.pdf",
+    "official_source_url": "https://www.ceec.edu.tw/xmfile?page=1&xsmsid=0J052424829869345634",
+    "page": null,
+    "original_question_no": "1"
+  },
+  "section": "Vocabulary",
+  "type": "Single Choice",
+  "question": "",
+  "options": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": ""
+  },
+  "answer": "",
+  "knowledge": {
+    "domain": "",
+    "knowledgePoint": "",
+    "secondaryPoint": ""
+  },
+  "assets": [],
+  "ocr": {
+    "status": "pending_review",
+    "confidence": null,
+    "needs_human_review": true,
+    "notes": ""
+  }
+}
