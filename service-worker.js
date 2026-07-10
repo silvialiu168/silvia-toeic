@@ -1,9 +1,9 @@
-﻿const CACHE_NAME = "family-english-trainer-v37-vocab-focus";
+﻿const CACHE_NAME = "family-english-trainer-v38-gsat-review";
 const APP_FILES = [
   "./",
   "./index.html",
-  "./style.css?v=37",
-  "./app.js?v=37",
+  "./style.css?v=38",
+  "./app.js?v=38",
   "./manifest.webmanifest",
   "./icon.svg",
   "./icon-192.png",
@@ -16,6 +16,7 @@ const APP_FILES = [
   "./data/knowledge_junior_past.json",
   "./data/questions_toeic.json",
   "./data/questions_gsat.json",
+  "./data/gsat_115_question_sample.json",
   "./data/questions_junior.json",
   "./data/vocab_toeic.json",
   "./data/knowledge_tree.json",
@@ -48,3 +49,5 @@ self.addEventListener("fetch", event => {
       .catch(() => caches.match(event.request).then(cached => cached || caches.match("./index.html")))
   );
 });
+
+
